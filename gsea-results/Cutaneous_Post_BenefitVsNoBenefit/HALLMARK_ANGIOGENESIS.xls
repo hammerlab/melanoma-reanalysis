@@ -1,0 +1,26 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TNFRSF21	TNFRSF21	TNFRSF21	tumor necrosis factor receptor superfamily, member 21	17	1.216572880744934	0.15857357	No	
+row_1	LPL	LPL	LPL	lipoprotein lipase	1058	0.5662227272987366	0.15839277	No	
+row_2	JAG2	JAG2	JAG2	jagged 2	2078	0.38668346405029297	0.13613558	No	
+row_3	PDGFA	PDGFA	PDGFA	platelet-derived growth factor alpha polypeptide	3241	0.24452365934848785	0.08495533	No	
+row_4	PTK2	PTK2	PTK2	PTK2 protein tyrosine kinase 2	4649	0.12458417564630508	4.587644E-4	No	
+row_5	KCNJ8	KCNJ8	KCNJ8	potassium inwardly-rectifying channel, subfamily J, member 8	4699	0.12040669471025467	0.0127611775	No	
+row_6	TIMP1	TIMP1	TIMP1	TIMP metallopeptidase inhibitor 1	5409	0.06651489436626434	-0.02932672	No	
+row_7	S100A4	S100A4	S100A4	S100 calcium binding protein A4	5465	0.061933185905218124	-0.025134685	No	
+row_8	CCND2	CCND2	CCND2	cyclin D2	5645	0.04958581179380417	-0.03145332	No	
+row_9	VEGFA	VEGFA	null	null	7089	-0.05136250704526901	-0.12814792	No	
+row_10	JAG1	JAG1	JAG1	jagged 1 (Alagille syndrome)	7090	-0.05136629194021225	-0.121401146	No	
+row_11	STC1	STC1	STC1	stanniocalcin 1	7305	-0.0644790530204773	-0.12827258	No	
+row_12	LRPAP1	LRPAP1	LRPAP1	low density lipoprotein receptor-related protein associated protein 1	7526	-0.08046096563339233	-0.13347495	No	
+row_13	SPP1	SPP1	SPP1	secreted phosphoprotein 1 (osteopontin, bone sialoprotein I, early T-lymphocyte activation 1)	8245	-0.12904362380504608	-0.1679951	No	
+row_14	VAV2	VAV2	VAV2	vav 2 oncogene	8815	-0.16597187519073486	-0.18698385	No	
+row_15	FGFR1	FGFR1	FGFR1	fibroblast growth factor receptor 1 (fms-related tyrosine kinase 2, Pfeiffer syndrome)	8912	-0.17147526144981384	-0.17134295	No	
+row_16	LUM	LUM	LUM	lumican	9054	-0.1817293018102646	-0.15758103	No	
+row_17	MSX1	MSX1	MSX1	msh homeobox homolog 1 (Drosophila)	10673	-0.30069366097450256	-0.23407173	No	
+row_18	THBD	THBD	THBD	thrombomodulin	11399	-0.3597583472728729	-0.23879018	Yes	
+row_19	VCAN	VCAN	null	null	11675	-0.38460463285446167	-0.20798708	Yes	
+row_20	COL5A2	COL5A2	COL5A2	collagen, type V, alpha 2	12034	-0.4200435280799866	-0.17847906	Yes	
+row_21	POSTN	POSTN	POSTN	periostin, osteoblast specific factor	12105	-0.4264058470726013	-0.12749021	Yes	
+row_22	FSTL1	FSTL1	FSTL1	follistatin-like 1	13142	-0.5782378315925598	-0.12580612	Yes	
+row_23	COL3A1	COL3A1	COL3A1	collagen, type III, alpha 1 (Ehlers-Danlos syndrome type IV, autosomal dominant)	13313	-0.610242486000061	-0.05783948	Yes	
+row_24	ITGAV	ITGAV	ITGAV	integrin, alpha V (vitronectin receptor, alpha polypeptide, antigen CD51)	13756	-0.8005669116973877	0.015627332	Yes	

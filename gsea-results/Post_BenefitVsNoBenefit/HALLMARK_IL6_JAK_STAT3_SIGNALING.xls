@@ -1,0 +1,66 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	BAK1	BAK1	BAK1	BCL2-antagonist/killer 1	5	1.0355387926101685	0.04876173	Yes	
+row_1	TNFRSF21	TNFRSF21	TNFRSF21	tumor necrosis factor receptor superfamily, member 21	185	0.6782954335212708	0.0680685	Yes	
+row_2	IL2RG	IL2RG	IL2RG	interleukin 2 receptor, gamma (severe combined immunodeficiency)	243	0.6430257558822632	0.0944729	Yes	
+row_3	PIM1	PIM1	PIM1	pim-1 oncogene	261	0.6357674598693848	0.12340863	Yes	
+row_4	IRF1	IRF1	IRF1	interferon regulatory factor 1	324	0.6082785129547119	0.14780533	Yes	
+row_5	TNFRSF1B	TNFRSF1B	TNFRSF1B	tumor necrosis factor receptor superfamily, member 1B	359	0.5925886034965515	0.17347072	Yes	
+row_6	CCR1	CCR1	CCR1	chemokine (C-C motif) receptor 1	422	0.5683457851409912	0.19597319	Yes	
+row_7	CD38	CD38	CD38	CD38 molecule	443	0.5592842102050781	0.22106524	Yes	
+row_8	CXCL9	CXCL9	CXCL9	chemokine (C-X-C motif) ligand 9	444	0.5592765808105469	0.24759474	Yes	
+row_9	IL17RA	IL17RA	IL17RA	interleukin 17 receptor A	494	0.545319139957428	0.2699395	Yes	
+row_10	IL15RA	IL15RA	IL15RA	interleukin 15 receptor, alpha	519	0.5366884469985962	0.29367217	Yes	
+row_11	CSF2RB	CSF2RB	CSF2RB	colony stimulating factor 2 receptor, beta, low-affinity (granulocyte-macrophage)	520	0.5363658666610718	0.3191149	Yes	
+row_12	PIK3R5	PIK3R5	PIK3R5	phosphoinositide-3-kinase, regulatory subunit 5, p101	533	0.5323857069015503	0.34350613	Yes	
+row_13	IL3RA	IL3RA	IL3RA	interleukin 3 receptor, alpha (low affinity)	535	0.5317360162734985	0.36865732	Yes	
+row_14	STAT1	STAT1	STAT1	signal transducer and activator of transcription 1, 91kDa	540	0.5282178521156311	0.39342597	Yes	
+row_15	ITGB3	ITGB3	ITGB3	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61)	626	0.5009199976921082	0.4110766	Yes	
+row_16	STAT3	STAT3	STAT3	signal transducer and activator of transcription 3 (acute-phase response factor)	640	0.49642443656921387	0.4336901	Yes	
+row_17	CSF3R	CSF3R	CSF3R	colony stimulating factor 3 receptor (granulocyte)	644	0.4954788088798523	0.45697767	Yes	
+row_18	CSF1	CSF1	CSF1	colony stimulating factor 1 (macrophage)	661	0.4902417063713074	0.47908223	Yes	
+row_19	CD14	CD14	CD14	CD14 molecule	720	0.47248750925064087	0.49732518	Yes	
+row_20	CD36	CD36	CD36	CD36 molecule (thrombospondin receptor)	771	0.45797428488731384	0.5154548	Yes	
+row_21	CXCL10	CXCL10	CXCL10	chemokine (C-X-C motif) ligand 10	841	0.4456799328327179	0.5316354	Yes	
+row_22	A2M	A2M	A2M	alpha-2-macroglobulin	1023	0.40839293599128723	0.53799546	Yes	
+row_23	IL10RB	IL10RB	IL10RB	interleukin 10 receptor, beta	1058	0.4018264412879944	0.5546119	Yes	
+row_24	ACVR1B	ACVR1B	ACVR1B	activin A receptor, type IB	1171	0.3776760697364807	0.5644754	Yes	
+row_25	SOCS1	SOCS1	SOCS1	suppressor of cytokine signaling 1	1305	0.35357585549354553	0.5716859	Yes	
+row_26	ACVRL1	ACVRL1	ACVRL1	activin A receptor type II-like 1	1348	0.34526076912879944	0.5850441	Yes	
+row_27	EBI3	EBI3	EBI3	Epstein-Barr virus induced gene 3	1351	0.34422004222869873	0.60122854	Yes	
+row_28	MYD88	MYD88	MYD88	myeloid differentiation primary response gene (88)	1560	0.3113192021846771	0.6010428	Yes	
+row_29	GRB2	GRB2	GRB2	growth factor receptor-bound protein 2	1666	0.29613468050956726	0.60754156	Yes	
+row_30	CXCL13	CXCL13	CXCL13	chemokine (C-X-C motif) ligand 13 (B-cell chemoattractant)	1859	0.2739356458187103	0.6067328	No	
+row_31	CSF2RA	CSF2RA	CSF2RA	colony stimulating factor 2 receptor, alpha, low-affinity (granulocyte-macrophage)	2353	0.22091248631477356	0.5817697	No	
+row_32	LTB	LTB	LTB	lymphotoxin beta (TNF superfamily, member 3)	2410	0.21486788988113403	0.58793616	No	
+row_33	IL4R	IL4R	IL4R	interleukin 4 receptor	2524	0.20442253351211548	0.58950937	No	
+row_34	TLR2	TLR2	TLR2	toll-like receptor 2	2611	0.1963927000761032	0.5926427	No	
+row_35	IRF9	IRF9	null	null	2906	0.1700592339038849	0.5795737	No	
+row_36	HAX1	HAX1	HAX1	HCLS1 associated protein X-1	3012	0.1617768406867981	0.5796991	No	
+row_37	CD44	CD44	CD44	CD44 molecule (Indian blood group)	3106	0.15448732674121857	0.58034146	No	
+row_38	MAP3K8	MAP3K8	MAP3K8	mitogen-activated protein kinase kinase kinase 8	3167	0.14986276626586914	0.5831368	No	
+row_39	CBL	CBL	CBL	Cas-Br-M (murine) ecotropic retroviral transforming sequence	3294	0.13804492354393005	0.5806268	No	
+row_40	IFNGR2	IFNGR2	IFNGR2	interferon gamma receptor 2 (interferon gamma transducer 1)	3370	0.13295015692710876	0.58154154	No	
+row_41	IFNAR1	IFNAR1	IFNAR1	interferon (alpha, beta and omega) receptor 1	3613	0.11230960488319397	0.5694714	No	
+row_42	TNFRSF1A	TNFRSF1A	TNFRSF1A	tumor necrosis factor receptor superfamily, member 1A	4123	0.08090387284755707	0.53671676	No	
+row_43	PTPN1	PTPN1	PTPN1	protein tyrosine phosphatase, non-receptor type 1	4536	0.054593510925769806	0.5096874	No	
+row_44	STAT2	STAT2	STAT2	signal transducer and activator of transcription 2, 113kDa	4567	0.0530865453183651	0.51004887	No	
+row_45	IL13RA1	IL13RA1	IL13RA1	interleukin 13 receptor, alpha 1	4955	0.030555980280041695	0.4836766	No	
+row_46	TGFB1	TGFB1	TGFB1	transforming growth factor, beta 1 (Camurati-Engelmann disease)	4966	0.029838914051651955	0.48437312	No	
+row_47	OSMR	OSMR	OSMR	oncostatin M receptor	4996	0.02842516265809536	0.48363665	No	
+row_48	CD9	CD9	CD9	CD9 molecule	5428	0.0033536027185618877	0.45281082	No	
+row_49	IL6ST	IL6ST	IL6ST	interleukin 6 signal transducer (gp130, oncostatin M receptor)	5618	-0.008055631071329117	0.4396056	No	
+row_50	TYK2	TYK2	TYK2	tyrosine kinase 2	6166	-0.03617788106203079	0.40199748	No	
+row_51	IFNGR1	IFNGR1	IFNGR1	interferon gamma receptor 1	6274	-0.04147642105817795	0.39627263	No	
+row_52	FAS	FAS	FAS	Fas (TNF receptor superfamily, member 6)	6405	-0.048120494931936264	0.38920945	No	
+row_53	HMOX1	HMOX1	HMOX1	heme oxygenase (decycling) 1	6612	-0.061104126274585724	0.37729844	No	
+row_54	LTBR	LTBR	LTBR	lymphotoxin beta receptor (TNFR superfamily, member 3)	7462	-0.10576044768095016	0.32128	No	
+row_55	ITGA4	ITGA4	ITGA4	integrin, alpha 4 (antigen CD49D, alpha 4 subunit of VLA-4 receptor)	7498	-0.1076597198843956	0.32387072	No	
+row_56	IL17RB	IL17RB	IL17RB	interleukin 17 receptor B	7576	-0.11217228323221207	0.32365608	No	
+row_57	PTPN2	PTPN2	PTPN2	protein tyrosine phosphatase, non-receptor type 2	10336	-0.2608693838119507	0.137684	No	
+row_58	SOCS3	SOCS3	SOCS3	suppressor of cytokine signaling 3	11038	-0.305152952671051	0.10176365	No	
+row_59	LEPR	LEPR	LEPR	leptin receptor	11116	-0.3093126118183136	0.11090043	No	
+row_60	STAM2	STAM2	STAM2	signal transducing adaptor molecule (SH3 domain and ITAM motif) 2	11506	-0.33399224281311035	0.09877799	No	
+row_61	PTPN11	PTPN11	PTPN11	protein tyrosine phosphatase, non-receptor type 11 (Noonan syndrome 1)	11774	-0.35249194502830505	0.09630375	No	
+row_62	IL1R1	IL1R1	IL1R1	interleukin 1 receptor, type I	12011	-0.37061476707458496	0.0969178	No	
+row_63	PDGFC	PDGFC	PDGFC	platelet derived growth factor C	12718	-0.4410723149776459	0.067085385	No	
+row_64	JUN	JUN	JUN	jun oncogene	13071	-0.48777180910110474	0.06491749	No	

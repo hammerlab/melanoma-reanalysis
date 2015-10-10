@@ -1,0 +1,52 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MAP3K7	MAP3K7	MAP3K7	mitogen-activated protein kinase kinase kinase 7	245	0.8162090182304382	0.030467212	Yes	
+row_1	ID1	ID1	ID1	inhibitor of DNA binding 1, dominant negative helix-loop-helix protein	271	0.7914257049560547	0.07527511	Yes	
+row_2	ID3	ID3	ID3	inhibitor of DNA binding 3, dominant negative helix-loop-helix protein	279	0.7844704985618591	0.12096618	Yes	
+row_3	BMPR2	BMPR2	BMPR2	bone morphogenetic protein receptor, type II (serine/threonine kinase)	343	0.7398791313171387	0.16000964	Yes	
+row_4	PPM1A	PPM1A	PPM1A	protein phosphatase 1A (formerly 2C), magnesium-dependent, alpha isoform	425	0.6971583366394043	0.19524474	Yes	
+row_5	CDKN1C	CDKN1C	CDKN1C	cyclin-dependent kinase inhibitor 1C (p57, Kip2)	514	0.655860185623169	0.22754525	Yes	
+row_6	PMEPA1	PMEPA1	null	null	515	0.6557907462120056	0.2661617	Yes	
+row_7	BMP2	BMP2	BMP2	bone morphogenetic protein 2	822	0.5534345507621765	0.27677444	Yes	
+row_8	JUNB	JUNB	JUNB	jun B proto-oncogene	950	0.5211568474769592	0.298342	Yes	
+row_9	SKIL	SKIL	SKIL	SKI-like	1175	0.47729647159576416	0.3103604	Yes	
+row_10	KLF10	KLF10	KLF10	Kruppel-like factor 10	1513	0.42053085565567017	0.3109207	Yes	
+row_11	UBE2D3	UBE2D3	UBE2D3	ubiquitin-conjugating enzyme E2D 3 (UBC4/5 homolog, yeast)	1591	0.41042959690093994	0.32955894	Yes	
+row_12	ID2	ID2	ID2	inhibitor of DNA binding 2, dominant negative helix-loop-helix protein	2138	0.33784914016723633	0.31024042	No	
+row_13	PPP1R15A	PPP1R15A	PPP1R15A	protein phosphatase 1, regulatory (inhibitor) subunit 15A	2414	0.30251994729042053	0.30830434	No	
+row_14	WWTR1	WWTR1	WWTR1	WW domain containing transcription regulator 1	2663	0.2761631906032562	0.3067553	No	
+row_15	HIPK2	HIPK2	HIPK2	homeodomain interacting protein kinase 2	3816	0.16376295685768127	0.23366371	No	
+row_16	THBS1	THBS1	THBS1	thrombospondin 1	3971	0.15098588168621063	0.23149452	No	
+row_17	SMAD3	SMAD3	SMAD3	SMAD, mothers against DPP homolog 3 (Drosophila)	4246	0.12773397564888	0.21933791	No	
+row_18	FNTA	FNTA	FNTA	farnesyltransferase, CAAX box, alpha	4277	0.12437807768583298	0.2245074	No	
+row_19	SMAD1	SMAD1	SMAD1	SMAD, mothers against DPP homolog 1 (Drosophila)	4670	0.09359806030988693	0.20186612	No	
+row_20	SMURF1	SMURF1	SMURF1	SMAD specific E3 ubiquitin protein ligase 1	5037	0.06135357916355133	0.1791934	No	
+row_21	SMAD7	SMAD7	SMAD7	SMAD, mothers against DPP homolog 7 (Drosophila)	5058	0.06005413457751274	0.18129334	No	
+row_22	SERPINE1	SERPINE1	SERPINE1	serpin peptidase inhibitor, clade E (nexin, plasminogen activator inhibitor type 1), member 1	5339	0.03882427141070366	0.16347036	No	
+row_23	HDAC1	HDAC1	HDAC1	histone deacetylase 1	5459	0.02903342992067337	0.1566336	No	
+row_24	TGIF1	TGIF1	null	null	5678	0.014779482036828995	0.14184748	No	
+row_25	LTBP2	LTBP2	LTBP2	latent transforming growth factor beta binding protein 2	5948	-0.005639726761728525	0.12286041	No	
+row_26	XIAP	XIAP	null	null	6050	-0.013531619682908058	0.11640356	No	
+row_27	SKI	SKI	SKI	v-ski sarcoma viral oncogene homolog (avian)	6169	-0.022931668907403946	0.10927932	No	
+row_28	SMAD6	SMAD6	SMAD6	SMAD, mothers against DPP homolog 6 (Drosophila)	6443	-0.04373357072472572	0.09224815	No	
+row_29	BMPR1A	BMPR1A	BMPR1A	bone morphogenetic protein receptor, type IA	7450	-0.11894509196281433	0.027002916	No	
+row_30	RAB31	RAB31	RAB31	RAB31, member RAS oncogene family	7460	-0.11936918646097183	0.033385642	No	
+row_31	APC	APC	APC	adenomatosis polyposis coli	7714	-0.136178657412529	0.0232345	No	
+row_32	ENG	ENG	ENG	endoglin (Osler-Rendu-Weber syndrome 1)	8031	-0.15899302065372467	0.009902227	No	
+row_33	IFNGR2	IFNGR2	IFNGR2	interferon gamma receptor 2 (interferon gamma transducer 1)	8367	-0.1837334930896759	-0.003337747	No	
+row_34	PPP1CA	PPP1CA	PPP1CA	protein phosphatase 1, catalytic subunit, alpha isoform	8797	-0.2146504521369934	-0.0215081	No	
+row_35	FKBP1A	FKBP1A	FKBP1A	FK506 binding protein 1A, 12kDa	8922	-0.22313721477985382	-0.01727408	No	
+row_36	CTNNB1	CTNNB1	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa	9111	-0.23733940720558167	-0.01680014	No	
+row_37	TGFBR1	TGFBR1	TGFBR1	transforming growth factor, beta receptor I (activin A receptor type II-like kinase, 53kDa)	9398	-0.2608872354030609	-0.021977786	No	
+row_38	FURIN	FURIN	FURIN	furin (paired basic amino acid cleaving enzyme)	9427	-0.26353657245635986	-0.008470267	No	
+row_39	SPTBN1	SPTBN1	SPTBN1	spectrin, beta, non-erythrocytic 1	9674	-0.28286343812942505	-0.009481099	No	
+row_40	TRIM33	TRIM33	TRIM33	tripartite motif-containing 33	9927	-0.30229493975639343	-0.009778612	No	
+row_41	SMURF2	SMURF2	SMURF2	SMAD specific E3 ubiquitin protein ligase 2	10035	-0.31118807196617126	8.6122414E-4	No	
+row_42	CDK9	CDK9	CDK9	cyclin-dependent kinase 9 (CDC2-related kinase)	10357	-0.33800074458122253	-0.0022892132	No	
+row_43	TGFB1	TGFB1	TGFB1	transforming growth factor, beta 1 (Camurati-Engelmann disease)	10806	-0.3763858675956726	-0.012300273	No	
+row_44	SLC20A1	SLC20A1	SLC20A1	solute carrier family 20 (phosphate transporter), member 1	10832	-0.3780989348888397	0.008168742	No	
+row_45	TJP1	TJP1	TJP1	tight junction protein 1 (zona occludens 1)	11310	-0.42317041754722595	-0.0011701299	No	
+row_46	ARID4B	ARID4B	ARID4B	AT rich interactive domain 4B (RBP1- like)	12077	-0.5124115347862244	-0.026009541	No	
+row_47	NCOR2	NCOR2	NCOR2	nuclear receptor co-repressor 2	12319	-0.5422568917274475	-0.0113868145	No	
+row_48	RHOA	RHOA	RHOA	ras homolog gene family, member A	12928	-0.6462441682815552	-0.016998135	No	
+row_49	ACVR1	ACVR1	ACVR1	activin A receptor, type I	13032	-0.6735576391220093	0.015267224	No	
+row_50	BCAR3	BCAR3	BCAR3	breast cancer anti-estrogen resistance 3	13593	-0.8884031176567078	0.0273628	No	

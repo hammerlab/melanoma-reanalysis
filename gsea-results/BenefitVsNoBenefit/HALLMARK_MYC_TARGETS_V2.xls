@@ -1,0 +1,59 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SORD	SORD	SORD	sorbitol dehydrogenase	207	0.40441668033599854	0.028576912	No	
+row_1	HK2	HK2	HK2	hexokinase 2	1032	0.237688809633255	-0.005093799	No	
+row_2	DUSP2	DUSP2	DUSP2	dual specificity phosphatase 2	1193	0.21842268109321594	0.006876954	No	
+row_3	MAP3K6	MAP3K6	MAP3K6	mitogen-activated protein kinase kinase kinase 6	1202	0.21727067232131958	0.029645829	No	
+row_4	EXOSC5	EXOSC5	EXOSC5	exosome component 5	1634	0.17495810985565186	0.01747413	No	
+row_5	RABEPK	RABEPK	RABEPK	Rab9 effector protein with kelch motifs	1896	0.15591026842594147	0.015471196	No	
+row_6	SLC19A1	SLC19A1	SLC19A1	solute carrier family 19 (folate transporter), member 1	2261	0.12882737815380096	0.003157437	No	
+row_7	AIMP2	AIMP2	null	null	2544	0.11098580807447433	-0.005181158	No	
+row_8	BYSL	BYSL	BYSL	bystin-like	3503	0.05658169463276863	-0.067938656	No	
+row_9	NOP56	NOP56	null	null	3977	0.03458977863192558	-0.098209515	No	
+row_10	FARSA	FARSA	null	null	4141	0.0280572772026062	-0.106907316	No	
+row_11	CBX3	CBX3	CBX3	chromobox homolog 3 (HP1 gamma homolog, Drosophila)	4285	0.022900879383087158	-0.11472203	No	
+row_12	PA2G4	PA2G4	PA2G4	proliferation-associated 2G4, 38kDa	4684	0.007070502731949091	-0.14256048	No	
+row_13	SRM	SRM	SRM	spermidine synthase	4798	0.0021164820063859224	-0.15045266	No	
+row_14	WDR43	WDR43	WDR43	WD repeat domain 43	4924	-0.003800505306571722	-0.15902615	No	
+row_15	DCTPP1	DCTPP1	null	null	4985	-0.006028711795806885	-0.16268969	No	
+row_16	PHB	PHB	PHB	prohibitin	5148	-0.012324890121817589	-0.17300594	No	
+row_17	NPM1	NPM1	NPM1	nucleophosmin (nucleolar phosphoprotein B23, numatrin)	5396	-0.02153053879737854	-0.18844076	No	
+row_18	MCM4	MCM4	MCM4	MCM4 minichromosome maintenance deficient 4 (S. cerevisiae)	5775	-0.03591621667146683	-0.21174292	No	
+row_19	CDK4	CDK4	CDK4	cyclin-dependent kinase 4	5843	-0.03933247551321983	-0.21233127	No	
+row_20	PPAN	PPAN	PPAN	peter pan homolog (Drosophila)	5971	-0.04478098079562187	-0.2166455	No	
+row_21	TMEM97	TMEM97	TMEM97	transmembrane protein 97	6198	-0.05268733948469162	-0.22722386	No	
+row_22	UNG	UNG	UNG	uracil-DNA glycosylase	6399	-0.060461245477199554	-0.23509878	No	
+row_23	DDX18	DDX18	DDX18	DEAD (Asp-Glu-Ala-Asp) box polypeptide 18	6678	-0.07079382985830307	-0.2474682	No	
+row_24	MYC	MYC	MYC	v-myc myelocytomatosis viral oncogene homolog (avian)	6888	-0.07780156284570694	-0.25412676	No	
+row_25	MRTO4	MRTO4	null	null	6893	-0.077907495200634	-0.24604374	No	
+row_26	NIP7	NIP7	NIP7	nuclear import 7 homolog (S. cerevisiae)	6972	-0.08061052858829498	-0.24298754	No	
+row_27	NOP16	NOP16	null	null	7174	-0.08803529292345047	-0.24797174	No	
+row_28	TFB2M	TFB2M	TFB2M	transcription factor B2, mitochondrial	7451	-0.09773914515972137	-0.25730243	No	
+row_29	UTP20	UTP20	UTP20	UTP20, small subunit (SSU) processome component, homolog (yeast)	7789	-0.110127292573452	-0.26968527	Yes	
+row_30	MPHOSPH10	MPHOSPH10	MPHOSPH10	M-phase phosphoprotein 10 (U3 small nucleolar ribonucleoprotein)	7841	-0.11190842092037201	-0.26132634	Yes	
+row_31	RRP9	RRP9	null	null	7866	-0.1126098558306694	-0.25095198	Yes	
+row_32	RRP12	RRP12	null	null	7868	-0.11266065388917923	-0.23891948	Yes	
+row_33	PRMT3	PRMT3	PRMT3	protein arginine methyltransferase 3	7905	-0.11445336788892746	-0.2292093	Yes	
+row_34	HSPE1	HSPE1	HSPE1	heat shock 10kDa protein 1 (chaperonin 10)	8173	-0.12295917421579361	-0.23518366	Yes	
+row_35	NOLC1	NOLC1	NOLC1	nucleolar and coiled-body phosphoprotein 1	8255	-0.12587739527225494	-0.22747952	Yes	
+row_36	IMP4	IMP4	IMP4	IMP4, U3 small nucleolar ribonucleoprotein, homolog (yeast)	8293	-0.12706367671489716	-0.21648633	Yes	
+row_37	PPRC1	PPRC1	PPRC1	peroxisome proliferative activated receptor, gamma, coactivator-related 1	8392	-0.1305457055568695	-0.20950216	Yes	
+row_38	HSPD1	HSPD1	HSPD1	heat shock 60kDa protein 1 (chaperonin)	8436	-0.13207519054412842	-0.19840164	Yes	
+row_39	NOC4L	NOC4L	NOC4L	nucleolar complex associated 4 homolog (S. cerevisiae)	8741	-0.143020361661911	-0.20487924	Yes	
+row_40	WDR74	WDR74	WDR74	WD repeat domain 74	9312	-0.16360703110694885	-0.22825828	Yes	
+row_41	PLK4	PLK4	PLK4	polo-like kinase 4 (Drosophila)	9573	-0.17287559807300568	-0.2283666	Yes	
+row_42	PLK1	PLK1	PLK1	polo-like kinase 1 (Drosophila)	9740	-0.179278165102005	-0.22103268	Yes	
+row_43	MCM5	MCM5	MCM5	MCM5 minichromosome maintenance deficient 5, cell division cycle 46 (S. cerevisiae)	10027	-0.189983069896698	-0.22117117	Yes	
+row_44	SLC29A2	SLC29A2	SLC29A2	solute carrier family 29 (nucleoside transporters), member 2	10175	-0.19569802284240723	-0.21070787	Yes	
+row_45	SUPV3L1	SUPV3L1	SUPV3L1	suppressor of var1, 3-like 1 (S. cerevisiae)	10672	-0.2158842831850052	-0.22315298	Yes	
+row_46	TCOF1	TCOF1	TCOF1	Treacher Collins-Franceschetti syndrome 1	11067	-0.23253729939460754	-0.22647971	Yes	
+row_47	GNL3	GNL3	GNL3	guanine nucleotide binding protein-like 3 (nucleolar)	11166	-0.23702004551887512	-0.20805585	Yes	
+row_48	MYBBP1A	MYBBP1A	MYBBP1A	MYB binding protein (P160) 1a	11406	-0.2481691688299179	-0.19856563	Yes	
+row_49	PES1	PES1	PES1	pescadillo homolog 1, containing BRCT domain (zebrafish)	12208	-0.29179149866104126	-0.22477086	Yes	
+row_50	GRWD1	GRWD1	GRWD1	glutamate-rich WD repeat containing 1	12301	-0.2975640296936035	-0.19941099	Yes	
+row_51	IPO4	IPO4	IPO4	importin 4	12745	-0.33089205622673035	-0.19569129	Yes	
+row_52	PUS1	PUS1	PUS1	pseudouridylate synthase 1	13216	-0.3752739131450653	-0.18914324	Yes	
+row_53	NDUFAF4	NDUFAF4	null	null	13460	-0.4094962179660797	-0.16260734	Yes	
+row_54	TBRG4	TBRG4	TBRG4	transforming growth factor beta regulator 4	13594	-0.43498268723487854	-0.12542915	Yes	
+row_55	RCL1	RCL1	RCL1	RNA terminal phosphate cyclase-like 1	13614	-0.43932726979255676	-0.07959277	Yes	
+row_56	NOP2	NOP2	null	null	13666	-0.4489777684211731	-0.035018872	Yes	
+row_57	LAS1L	LAS1L	LAS1L	LAS1-like (S. cerevisiae)	13872	-0.5312538146972656	0.0073292195	Yes	

@@ -1,0 +1,197 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ATP6V1C1	ATP6V1C1	ATP6V1C1	ATPase, H+ transporting, lysosomal 42kDa, V1 subunit C1	28	1.0870195627212524	0.018211888	Yes	
+row_1	LDHA	LDHA	LDHA	lactate dehydrogenase A	103	0.877490758895874	0.02918323	Yes	
+row_2	RETSAT	RETSAT	RETSAT	retinol saturase (all-trans-retinol 13,14-reductase)	150	0.8074777126312256	0.04088277	Yes	
+row_3	CASP7	CASP7	CASP7	caspase 7, apoptosis-related cysteine peptidase	414	0.6526587009429932	0.03395046	Yes	
+row_4	NDUFB4	NDUFB4	NDUFB4	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 4, 15kDa	481	0.6265593767166138	0.040829204	Yes	
+row_5	PDHX	PDHX	PDHX	pyruvate dehydrogenase complex, component X	676	0.5679359436035156	0.03732669	Yes	
+row_6	FDX1	FDX1	FDX1	ferredoxin 1	724	0.5564715266227722	0.044279076	Yes	
+row_7	TOMM70A	TOMM70A	TOMM70A	translocase of outer mitochondrial membrane 70 homolog A (S. cerevisiae)	847	0.526890754699707	0.045237504	Yes	
+row_8	CYCS	CYCS	CYCS	cytochrome c, somatic	866	0.5235859155654907	0.0536821	Yes	
+row_9	TIMM8B	TIMM8B	TIMM8B	translocase of inner mitochondrial membrane 8 homolog B (yeast)	980	0.5024094581604004	0.05483777	Yes	
+row_10	OAT	OAT	OAT	ornithine aminotransferase (gyrate atrophy)	983	0.5015761852264404	0.064033665	Yes	
+row_11	PRDX3	PRDX3	PRDX3	peroxiredoxin 3	1069	0.48486414551734924	0.06689466	Yes	
+row_12	DLAT	DLAT	DLAT	dihydrolipoamide S-acetyltransferase (E2 component of pyruvate dehydrogenase complex)	1071	0.4844786524772644	0.075844705	Yes	
+row_13	MTX2	MTX2	MTX2	metaxin 2	1136	0.4738142490386963	0.080023974	Yes	
+row_14	SDHD	SDHD	SDHD	succinate dehydrogenase complex, subunit D, integral membrane protein	1211	0.4618176519870758	0.083254084	Yes	
+row_15	ACAT1	ACAT1	ACAT1	acetyl-Coenzyme A acetyltransferase 1 (acetoacetyl Coenzyme A thiolase)	1249	0.4545537531375885	0.08903416	Yes	
+row_16	ISCA1	ISCA1	null	null	1280	0.4499485492706299	0.095236495	Yes	
+row_17	NDUFA5	NDUFA5	NDUFA5	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 5, 13kDa	1345	0.4415171444416046	0.09881428	Yes	
+row_18	ECHS1	ECHS1	ECHS1	enoyl Coenzyme A hydratase, short chain, 1, mitochondrial	1393	0.4358840882778168	0.10352092	Yes	
+row_19	ATP6V1G1	ATP6V1G1	ATP6V1G1	ATPase, H+ transporting, lysosomal 13kDa, V1 subunit G1	1425	0.43222010135650635	0.109320514	Yes	
+row_20	OPA1	OPA1	OPA1	optic atrophy 1 (autosomal dominant)	1426	0.43199291825294495	0.11736568	Yes	
+row_21	VDAC2	VDAC2	VDAC2	voltage-dependent anion channel 2	1515	0.41983217000961304	0.11879784	Yes	
+row_22	NDUFS3	NDUFS3	NDUFS3	NADH dehydrogenase (ubiquinone) Fe-S protein 3, 30kDa (NADH-coenzyme Q reductase)	1519	0.4192357361316681	0.1263877	Yes	
+row_23	ATP5F1	ATP5F1	ATP5F1	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit B1	1521	0.4189992845058441	0.1341183	Yes	
+row_24	COX5B	COX5B	COX5B	cytochrome c oxidase subunit Vb	1527	0.4181707501411438	0.14154318	Yes	
+row_25	MDH2	MDH2	MDH2	malate dehydrogenase 2, NAD (mitochondrial)	1606	0.4053739309310913	0.14343181	Yes	
+row_26	ATP6V1D	ATP6V1D	ATP6V1D	ATPase, H+ transporting, lysosomal 34kDa, V1 subunit D	1664	0.3977714776992798	0.14670293	Yes	
+row_27	ETFA	ETFA	ETFA	electron-transfer-flavoprotein, alpha polypeptide (glutaric aciduria II)	1743	0.385833203792572	0.14822766	Yes	
+row_28	HADHB	HADHB	HADHB	hydroxyacyl-Coenzyme A dehydrogenase/3-ketoacyl-Coenzyme A thiolase/enoyl-Coenzyme A hydratase (trifunctional protein), beta subunit	1778	0.3825533986091614	0.15288456	Yes	
+row_29	COX11	COX11	COX11	COX11 homolog, cytochrome c oxidase assembly protein (yeast)	1810	0.3786572813987732	0.15768664	Yes	
+row_30	UQCRC1	UQCRC1	UQCRC1	ubiquinol-cytochrome c reductase core protein I	1925	0.3654029965400696	0.15621822	Yes	
+row_31	DLD	DLD	DLD	dihydrolipoamide dehydrogenase	1961	0.3616049289703369	0.16041242	Yes	
+row_32	ATP5B	ATP5B	ATP5B	ATP synthase, H+ transporting, mitochondrial F1 complex, beta polypeptide	2091	0.347975492477417	0.15753081	Yes	
+row_33	RHOT1	RHOT1	RHOT1	ras homolog gene family, member T1	2097	0.3475707769393921	0.16364089	Yes	
+row_34	NDUFB3	NDUFB3	NDUFB3	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 3, 12kDa	2146	0.34158843755722046	0.16651885	Yes	
+row_35	ALAS1	ALAS1	ALAS1	aminolevulinate, delta-, synthase 1	2169	0.33887141942977905	0.17123315	Yes	
+row_36	ECI1	ECI1	null	null	2215	0.3335082530975342	0.17417836	Yes	
+row_37	ATP6V1E1	ATP6V1E1	ATP6V1E1	ATPase, H+ transporting, lysosomal 31kDa, V1 subunit E1	2262	0.32806694507598877	0.17694965	Yes	
+row_38	MRPL35	MRPL35	MRPL35	mitochondrial ribosomal protein L35	2394	0.3137917220592499	0.17328629	Yes	
+row_39	UQCRH	UQCRH	UQCRH	ubiquinol-cytochrome c reductase hinge protein	2433	0.3089865744113922	0.17628284	Yes	
+row_40	SUCLG1	SUCLG1	SUCLG1	succinate-CoA ligase, GDP-forming, alpha subunit	2556	0.2963174879550934	0.17294721	Yes	
+row_41	ATP5G3	ATP5G3	ATP5G3	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit C3 (subunit 9)	2620	0.2897191345691681	0.17377059	Yes	
+row_42	TIMM17A	TIMM17A	TIMM17A	translocase of inner mitochondrial membrane 17 homolog A (yeast)	2645	0.28712260723114014	0.177376	Yes	
+row_43	ATP5J2	ATP5J2	ATP5J2	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit F2	2836	0.2694394588470459	0.16860478	Yes	
+row_44	PDHB	PDHB	PDHB	pyruvate dehydrogenase (lipoamide) beta	2877	0.2659568190574646	0.17065482	Yes	
+row_45	MRPS22	MRPS22	MRPS22	mitochondrial ribosomal protein S22	3071	0.2503562569618225	0.16131046	Yes	
+row_46	ATP6V1H	ATP6V1H	ATP6V1H	ATPase, H+ transporting, lysosomal 50/57kDa, V1 subunit H	3160	0.24156974256038666	0.15942279	Yes	
+row_47	IDH1	IDH1	IDH1	isocitrate dehydrogenase 1 (NADP+), soluble	3181	0.23970797657966614	0.16243547	Yes	
+row_48	GLUD1	GLUD1	GLUD1	glutamate dehydrogenase 1	3238	0.23472847044467926	0.16274275	Yes	
+row_49	MGST3	MGST3	MGST3	microsomal glutathione S-transferase 3	3255	0.23300978541374207	0.16592099	Yes	
+row_50	BAX	BAX	BAX	BCL2-associated X protein	3267	0.23219332098960876	0.16944689	Yes	
+row_51	POR	POR	POR	P450 (cytochrome) oxidoreductase	3268	0.23219074308872223	0.17377107	Yes	
+row_52	ALDH6A1	ALDH6A1	ALDH6A1	aldehyde dehydrogenase 6 family, member A1	3275	0.23190978169441223	0.17765456	Yes	
+row_53	IDH2	IDH2	IDH2	isocitrate dehydrogenase 2 (NADP+), mitochondrial	3313	0.22891271114349365	0.17923245	Yes	
+row_54	COX5A	COX5A	COX5A	cytochrome c oxidase subunit Va	3359	0.2248224914073944	0.18015355	Yes	
+row_55	COX7B	COX7B	COX7B	cytochrome c oxidase subunit VIIb	3392	0.2223186492919922	0.1819715	Yes	
+row_56	SLC25A3	SLC25A3	SLC25A3	solute carrier family 25 (mitochondrial carrier; phosphate carrier), member 3	3424	0.22001999616622925	0.18381922	Yes	
+row_57	MDH1	MDH1	MDH1	malate dehydrogenase 1, NAD (soluble)	3589	0.20563539862632751	0.17574666	No	
+row_58	COX6A1	COX6A1	COX6A1	cytochrome c oxidase subunit VIa polypeptide 1	3673	0.19632411003112793	0.17337923	No	
+row_59	ATP6V1F	ATP6V1F	ATP6V1F	ATPase, H+ transporting, lysosomal 14kDa, V1 subunit F	3759	0.18814879655838013	0.17071438	No	
+row_60	HCCS	HCCS	HCCS	holocytochrome c synthase (cytochrome c heme-lyase)	3977	0.1709798127412796	0.15815	No	
+row_61	CYC1	CYC1	CYC1	cytochrome c-1	3981	0.1708085834980011	0.1611133	No	
+row_62	COX7A2L	COX7A2L	COX7A2L	cytochrome c oxidase subunit VIIa polypeptide 2 like	4012	0.16852954030036926	0.16207467	No	
+row_63	BDH2	BDH2	BDH2	3-hydroxybutyrate dehydrogenase, type 2	4132	0.16119708120822906	0.15644038	No	
+row_64	ATP1B1	ATP1B1	ATP1B1	ATPase, Na+/K+ transporting, beta 1 polypeptide	4136	0.16089537739753723	0.15921906	No	
+row_65	VDAC1	VDAC1	VDAC1	voltage-dependent anion channel 1	4151	0.15924452245235443	0.1611687	No	
+row_66	CYB5A	CYB5A	CYB5A	cytochrome b5 type A (microsomal)	4169	0.15819303691387177	0.16288102	No	
+row_67	NDUFA4	NDUFA4	NDUFA4	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 4, 9kDa	4179	0.15745839476585388	0.16516025	No	
+row_68	SLC25A5	SLC25A5	SLC25A5	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 5	4203	0.1560322493314743	0.1663969	No	
+row_69	SUCLA2	SUCLA2	SUCLA2	succinate-CoA ligase, ADP-forming, beta subunit	4253	0.1523830145597458	0.16567865	No	
+row_70	NDUFA8	NDUFA8	NDUFA8	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 8, 19kDa	4311	0.14794646203517914	0.16429718	No	
+row_71	COX17	COX17	COX17	COX17 cytochrome c oxidase assembly homolog (S. cerevisiae)	4317	0.14742225408554077	0.1666798	No	
+row_72	DECR1	DECR1	DECR1	2,4-dienoyl CoA reductase 1, mitochondrial	4319	0.1473398357629776	0.16935119	No	
+row_73	UQCRC2	UQCRC2	UQCRC2	ubiquinol-cytochrome c reductase core protein II	4351	0.14519374072551727	0.1698054	No	
+row_74	AFG3L2	AFG3L2	AFG3L2	AFG3 ATPase family gene 3-like 2 (yeast)	4370	0.14406435191631317	0.17118202	No	
+row_75	IDH3B	IDH3B	IDH3B	isocitrate dehydrogenase 3 (NAD+) beta	4479	0.13645870983600616	0.16588533	No	
+row_76	ATP6V0C	ATP6V0C	ATP6V0C	ATPase, H+ transporting, lysosomal 16kDa, V0 subunit c	4509	0.13401515781879425	0.16627648	No	
+row_77	ATP5C1	ATP5C1	ATP5C1	ATP synthase, H+ transporting, mitochondrial F1 complex, gamma polypeptide 1	4615	0.12495078146457672	0.1609832	No	
+row_78	LRPPRC	LRPPRC	LRPPRC	leucine-rich PPR-motif containing	4663	0.12154994904994965	0.15983588	No	
+row_79	COX7A2	COX7A2	COX7A2	cytochrome c oxidase subunit VIIa polypeptide 2 (liver)	4715	0.11800029873847961	0.15833215	No	
+row_80	GRPEL1	GRPEL1	GRPEL1	GrpE-like 1, mitochondrial (E. coli)	4737	0.11636266112327576	0.15897517	No	
+row_81	ATP5A1	ATP5A1	ATP5A1	ATP synthase, H+ transporting, mitochondrial F1 complex, alpha subunit 1, cardiac muscle	4743	0.11620082706212997	0.16077635	No	
+row_82	ACADSB	ACADSB	ACADSB	acyl-Coenzyme A dehydrogenase, short/branched chain	4766	0.11490710824728012	0.16131967	No	
+row_83	ATP5L	ATP5L	ATP5L	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit G	4801	0.11286220699548721	0.16095403	No	
+row_84	PHYH	PHYH	PHYH	phytanoyl-CoA 2-hydroxylase	4840	0.10923249274492264	0.16023047	No	
+row_85	FH	FH	FH	fumarate hydratase	4868	0.10646498203277588	0.16025372	No	
+row_86	HSPA9	HSPA9	null	null	4876	0.10579384863376617	0.16171592	No	
+row_87	MRPL15	MRPL15	MRPL15	mitochondrial ribosomal protein L15	4995	0.09758765250444412	0.15496959	No	
+row_88	SLC25A11	SLC25A11	SLC25A11	solute carrier family 25 (mitochondrial carrier; oxoglutarate carrier), member 11	5066	0.09159697592258453	0.15159523	No	
+row_89	NDUFAB1	NDUFAB1	NDUFAB1	NADH dehydrogenase (ubiquinone) 1, alpha/beta subcomplex, 1, 8kDa	5070	0.0914120078086853	0.15307991	No	
+row_90	ATP6V0B	ATP6V0B	ATP6V0B	ATPase, H+ transporting, lysosomal 21kDa, V0 subunit b	5177	0.0843743234872818	0.14695838	No	
+row_91	MRPS15	MRPS15	MRPS15	mitochondrial ribosomal protein S15	5225	0.08094880729913712	0.14505494	No	
+row_92	SDHB	SDHB	SDHB	succinate dehydrogenase complex, subunit B, iron sulfur (Ip)	5289	0.07663459330797195	0.14190996	No	
+row_93	ATP6V0E1	ATP6V0E1	ATP6V0E1	ATPase, H+ transporting, lysosomal 9kDa, V0 subunit e1	5300	0.0761900395154953	0.14260313	No	
+row_94	ACADM	ACADM	ACADM	acyl-Coenzyme A dehydrogenase, C-4 to C-12 straight chain	5423	0.06641924381256104	0.13498601	No	
+row_95	NDUFB2	NDUFB2	NDUFB2	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 2, 8kDa	5462	0.0641195997595787	0.13342233	No	
+row_96	NDUFB5	NDUFB5	NDUFB5	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 5, 16kDa	5480	0.06263720989227295	0.13335508	No	
+row_97	MRPS30	MRPS30	MRPS30	mitochondrial ribosomal protein S30	5490	0.061931829899549484	0.13385528	No	
+row_98	ATP5J	ATP5J	ATP5J	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit F6	5542	0.057459063827991486	0.13122408	No	
+row_99	NDUFV2	NDUFV2	NDUFV2	NADH dehydrogenase (ubiquinone) flavoprotein 2, 24kDa	5594	0.05328766256570816	0.1285152	No	
+row_100	IDH3A	IDH3A	IDH3A	isocitrate dehydrogenase 3 (NAD+) alpha	5705	0.045360296964645386	0.1213768	No	
+row_101	ACAA1	ACAA1	ACAA1	acetyl-Coenzyme A acyltransferase 1 (peroxisomal 3-oxoacyl-Coenzyme A thiolase)	5761	0.04116273298859596	0.1181518	No	
+row_102	ETFDH	ETFDH	ETFDH	electron-transferring-flavoprotein dehydrogenase	5905	0.02946208417415619	0.108322375	No	
+row_103	SLC25A20	SLC25A20	SLC25A20	solute carrier family 25 (carnitine/acylcarnitine translocase), member 20	5957	0.025502219796180725	0.10509603	No	
+row_104	FXN	FXN	FXN	frataxin	6009	0.02211218886077404	0.101806544	No	
+row_105	SLC25A4	SLC25A4	SLC25A4	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 4	6044	0.0194160845130682	0.099700615	No	
+row_106	COX15	COX15	COX15	COX15 homolog, cytochrome c oxidase assembly protein (yeast)	6088	0.016863176599144936	0.09689397	No	
+row_107	UQCRB	UQCRB	UQCRB	ubiquinol-cytochrome c reductase binding protein	6110	0.015443679876625538	0.09565753	No	
+row_108	CPT1A	CPT1A	CPT1A	carnitine palmitoyltransferase 1A (liver)	6147	0.01309898030012846	0.0932888	No	
+row_109	PDP1	PDP1	null	null	6307	0.0016789034707471728	0.08178077	No	
+row_110	ACADVL	ACADVL	ACADVL	acyl-Coenzyme A dehydrogenase, very long chain	6378	-0.0038901646621525288	0.076773025	No	
+row_111	UQCRQ	UQCRQ	UQCRQ	ubiquinol-cytochrome c reductase, complex III subunit VII, 9.5kDa	6382	-0.0041163587011396885	0.07663196	No	
+row_112	CS	CS	CS	citrate synthase	6450	-0.008993902243673801	0.07193699	No	
+row_113	ATP5I	ATP5I	ATP5I	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit E	6534	-0.014561894349753857	0.06618452	No	
+row_114	HADHA	HADHA	HADHA	hydroxyacyl-Coenzyme A dehydrogenase/3-ketoacyl-Coenzyme A thiolase/enoyl-Coenzyme A hydratase (trifunctional protein), alpha subunit	6626	-0.021406270563602448	0.059978925	No	
+row_115	ATP5O	ATP5O	ATP5O	ATP synthase, H+ transporting, mitochondrial F1 complex, O subunit (oligomycin sensitivity conferring protein)	6722	-0.028060834854841232	0.053606965	No	
+row_116	COX6C	COX6C	COX6C	cytochrome c oxidase subunit VIc	6743	-0.029855331405997276	0.052711487	No	
+row_117	NDUFA7	NDUFA7	NDUFA7	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 7, 14.5kDa	6770	-0.03135884925723076	0.051408563	No	
+row_118	IMMT	IMMT	IMMT	inner membrane protein, mitochondrial (mitofilin)	6776	-0.032313041388988495	0.05164747	No	
+row_119	COX8A	COX8A	COX8A	cytochrome c oxidase subunit 8A (ubiquitous)	6886	-0.04084092751145363	0.04449748	No	
+row_120	COX10	COX10	COX10	COX10 homolog, cytochrome c oxidase assembly protein, heme A: farnesyltransferase (yeast)	7063	-0.05407559126615524	0.03273149	No	
+row_121	VDAC3	VDAC3	VDAC3	voltage-dependent anion channel 3	7085	-0.05561438575387001	0.032243155	No	
+row_122	NDUFB7	NDUFB7	NDUFB7	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 7, 18kDa	7308	-0.07256226241588593	0.017483035	No	
+row_123	ETFB	ETFB	ETFB	electron-transfer-flavoprotein, beta polypeptide	7381	-0.07772904634475708	0.013705269	No	
+row_124	NDUFB1	NDUFB1	NDUFB1	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 1, 7kDa	7512	-0.08687588572502136	0.005888544	No	
+row_125	NDUFB8	NDUFB8	NDUFB8	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 8, 19kDa	7548	-0.09062720835208893	0.0050362307	No	
+row_126	NQO2	NQO2	NQO2	NAD(P)H dehydrogenase, quinone 2	7708	-0.10180307924747467	-0.004607152	No	
+row_127	TOMM22	TOMM22	TOMM22	translocase of outer mitochondrial membrane 22 homolog (yeast)	7786	-0.10731013864278793	-0.008196889	No	
+row_128	NDUFA1	NDUFA1	NDUFA1	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 1, 7.5kDa	7790	-0.10760859400033951	-0.0064105783	No	
+row_129	GOT2	GOT2	GOT2	glutamic-oxaloacetic transaminase 2, mitochondrial (aspartate aminotransferase 2)	7803	-0.10914389789104462	-0.005248842	No	
+row_130	PDHA1	PDHA1	PDHA1	pyruvate dehydrogenase (lipoamide) alpha 1	7894	-0.11632521450519562	-0.009614153	No	
+row_131	NDUFS4	NDUFS4	NDUFS4	NADH dehydrogenase (ubiquinone) Fe-S protein 4, 18kDa (NADH-coenzyme Q reductase)	7932	-0.11922096461057663	-0.010079103	No	
+row_132	DLST	DLST	DLST	dihydrolipoamide S-succinyltransferase (E2 component of 2-oxo-glutarate complex)	8018	-0.1258668601512909	-0.013903845	No	
+row_133	NDUFB6	NDUFB6	NDUFB6	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 6, 17kDa	8223	-0.14295132458209991	-0.02604675	No	
+row_134	AIFM1	AIFM1	null	null	8276	-0.14648999273777008	-0.02709247	No	
+row_135	ATP5H	ATP5H	ATP5H	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit d	8283	-0.14708195626735687	-0.024788754	No	
+row_136	OGDH	OGDH	OGDH	oxoglutarate (alpha-ketoglutarate) dehydrogenase (lipoamide)	8339	-0.15149253606796265	-0.025959034	No	
+row_137	SLC25A6	SLC25A6	SLC25A6	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 6	8360	-0.1529434323310852	-0.024562197	No	
+row_138	SDHC	SDHC	SDHC	succinate dehydrogenase complex, subunit C, integral membrane protein, 15kDa	8531	-0.16578955948352814	-0.03381225	No	
+row_139	SLC25A12	SLC25A12	SLC25A12	solute carrier family 25 (mitochondrial carrier, Aralar), member 12	8732	-0.18064521253108978	-0.04496287	No	
+row_140	TIMM9	TIMM9	TIMM9	translocase of inner mitochondrial membrane 9 homolog (yeast)	8899	-0.19423797726631165	-0.053392824	No	
+row_141	NDUFA9	NDUFA9	NDUFA9	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 9, 39kDa	8944	-0.19834613800048828	-0.052892216	No	
+row_142	NDUFC1	NDUFC1	NDUFC1	NADH dehydrogenase (ubiquinone) 1, subcomplex unknown, 1, 6kDa	9008	-0.20206113159656525	-0.05370133	No	
+row_143	MRPS11	MRPS11	MRPS11	mitochondrial ribosomal protein S11	9012	-0.20217150449752808	-0.05015394	No	
+row_144	TIMM13	TIMM13	TIMM13	translocase of inner mitochondrial membrane 13 homolog (yeast)	9040	-0.20452430844306946	-0.048304513	No	
+row_145	UQCR11	UQCR11	null	null	9079	-0.20681634545326233	-0.047210716	No	
+row_146	HSD17B10	HSD17B10	null	null	9092	-0.20761996507644653	-0.044215024	No	
+row_147	UQCRFS1	UQCRFS1	UQCRFS1	ubiquinol-cytochrome c reductase, Rieske iron-sulfur polypeptide 1	9142	-0.21108101308345795	-0.043840118	No	
+row_148	ABCB7	ABCB7	ABCB7	ATP-binding cassette, sub-family B (MDR/TAP), member 7	9236	-0.21655108034610748	-0.04655661	No	
+row_149	SDHA	SDHA	SDHA	succinate dehydrogenase complex, subunit A, flavoprotein (Fp)	9269	-0.21959654986858368	-0.044789355	No	
+row_150	ATP5G2	ATP5G2	ATP5G2	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit C2 (subunit 9)	9332	-0.22428883612155914	-0.045111943	No	
+row_151	NDUFA2	NDUFA2	NDUFA2	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 2, 8kDa	9494	-0.2382468730211258	-0.052359432	No	
+row_152	SURF1	SURF1	SURF1	surfeit 1	9547	-0.2429959625005722	-0.05160789	No	
+row_153	ATP6AP1	ATP6AP1	ATP6AP1	ATPase, H+ transporting, lysosomal accessory protein 1	9593	-0.2462688833475113	-0.05028737	No	
+row_154	MFN2	MFN2	MFN2	mitofusin 2	9604	-0.24720458686351776	-0.04640933	No	
+row_155	UQCR10	UQCR10	null	null	9655	-0.2511919140815735	-0.045360003	No	
+row_156	NDUFS2	NDUFS2	NDUFS2	NADH dehydrogenase (ubiquinone) Fe-S protein 2, 49kDa (NADH-coenzyme Q reductase)	9701	-0.2541657090187073	-0.04389242	No	
+row_157	GPX4	GPX4	GPX4	glutathione peroxidase 4 (phospholipid hydroperoxidase)	9907	-0.26957884430885315	-0.053749666	No	
+row_158	POLR2F	POLR2F	POLR2F	polymerase (RNA) II (DNA directed) polypeptide F	10004	-0.2779703438282013	-0.055540048	No	
+row_159	COX7C	COX7C	COX7C	cytochrome c oxidase subunit VIIc	10112	-0.2871893048286438	-0.057957053	No	
+row_160	PMPCA	PMPCA	PMPCA	peptidase (mitochondrial processing) alpha	10187	-0.29432398080825806	-0.05784624	No	
+row_161	LDHB	LDHB	LDHB	lactate dehydrogenase B	10245	-0.29984456300735474	-0.056398854	No	
+row_162	MTRR	MTRR	MTRR	5-methyltetrahydrofolate-homocysteine methyltransferase reductase	10334	-0.3071131706237793	-0.057065904	No	
+row_163	NDUFC2	NDUFC2	NDUFC2	NADH dehydrogenase (ubiquinone) 1, subcomplex unknown, 2, 14.5kDa	10402	-0.3121933937072754	-0.056114282	No	
+row_164	ATP5E	ATP5E	ATP5E	ATP synthase, H+ transporting, mitochondrial F1 complex, epsilon subunit	10445	-0.3155744671821594	-0.05328534	No	
+row_165	TCIRG1	TCIRG1	TCIRG1	T-cell, immune regulator 1, ATPase, H+ transporting, lysosomal V0 subunit A3	10733	-0.3409132957458496	-0.067765184	No	
+row_166	ATP5G1	ATP5G1	ATP5G1	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit C1 (subunit 9)	10772	-0.34444233775138855	-0.06410833	No	
+row_167	COX4I1	COX4I1	COX4I1	cytochrome c oxidase subunit IV isoform 1	11105	-0.37307611107826233	-0.08125503	No	
+row_168	TIMM50	TIMM50	TIMM50	translocase of inner mitochondrial membrane 50 homolog (S. cerevisiae)	11145	-0.37571975588798523	-0.07708826	No	
+row_169	MTRF1	MTRF1	MTRF1	mitochondrial translational release factor 1	11165	-0.37721678614616394	-0.07144212	No	
+row_170	OXA1L	OXA1L	OXA1L	oxidase (cytochrome c) assembly 1-like	11198	-0.38053858280181885	-0.066677585	No	
+row_171	NDUFS6	NDUFS6	NDUFS6	NADH dehydrogenase (ubiquinone) Fe-S protein 6, 13kDa (NADH-coenzyme Q reductase)	11229	-0.38337013125419617	-0.061715167	No	
+row_172	GPI	GPI	GPI	glucose phosphate isomerase	11256	-0.38747817277908325	-0.05638595	No	
+row_173	RHOT2	RHOT2	RHOT2	ras homolog gene family, member T2	11668	-0.4296572804450989	-0.07821228	No	
+row_174	NDUFS7	NDUFS7	NDUFS7	NADH dehydrogenase (ubiquinone) Fe-S protein 7, 20kDa (NADH-coenzyme Q reductase)	11745	-0.4365944266319275	-0.07559706	No	
+row_175	ISCU	ISCU	null	null	11810	-0.44413891434669495	-0.07197045	No	
+row_176	NDUFA6	NDUFA6	NDUFA6	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 6, 14kDa	11918	-0.45490533113479614	-0.07126402	No	
+row_177	COX6B1	COX6B1	COX6B1	cytochrome c oxidase subunit Vib polypeptide 1 (ubiquitous)	12052	-0.46907585859298706	-0.072180614	No	
+row_178	TIMM10	TIMM10	TIMM10	translocase of inner mitochondrial membrane 10 homolog (yeast)	12055	-0.46942341327667236	-0.06358352	No	
+row_179	PHB2	PHB2	PHB2	prohibitin 2	12129	-0.47727063298225403	-0.05999305	No	
+row_180	IDH3G	IDH3G	IDH3G	isocitrate dehydrogenase 3 (NAD+) gamma	12270	-0.49579328298568726	-0.060920097	No	
+row_181	MRPL34	MRPL34	MRPL34	mitochondrial ribosomal protein L34	12283	-0.49748495221138	-0.052526142	No	
+row_182	MRPL11	MRPL11	MRPL11	mitochondrial ribosomal protein L11	12291	-0.49811553955078125	-0.043757573	No	
+row_183	MRPS12	MRPS12	MRPS12	mitochondrial ribosomal protein S12	12301	-0.4990949332714081	-0.035115913	No	
+row_184	ACO2	ACO2	ACO2	aconitase 2, mitochondrial	12316	-0.5017855763435364	-0.026787015	No	
+row_185	ATP5D	ATP5D	ATP5D	ATP synthase, H+ transporting, mitochondrial F1 complex, delta subunit	12542	-0.533998429775238	-0.033171363	No	
+row_186	NNT	NNT	NNT	nicotinamide nucleotide transhydrogenase	12604	-0.5439103245735168	-0.027468946	No	
+row_187	NDUFA3	NDUFA3	NDUFA3	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 3, 9kDa	12692	-0.5595566034317017	-0.023362074	No	
+row_188	NDUFS8	NDUFS8	NDUFS8	NADH dehydrogenase (ubiquinone) Fe-S protein 8, 23kDa (NADH-coenzyme Q reductase)	12707	-0.5613781809806824	-0.01392336	No	
+row_189	HTRA2	HTRA2	HTRA2	HtrA serine peptidase 2	12737	-0.5671930909156799	-0.005464966	No	
+row_190	ECH1	ECH1	ECH1	enoyl Coenzyme A hydratase 1, peroxisomal	12784	-0.5768358707427979	0.0019392475	No	
+row_191	BCKDHA	BCKDHA	BCKDHA	branched chain keto acid dehydrogenase E1, alpha polypeptide	12847	-0.5910621285438538	0.008447215	No	
+row_192	NDUFV1	NDUFV1	NDUFV1	NADH dehydrogenase (ubiquinone) flavoprotein 1, 51kDa	13205	-0.6636546850204468	-0.005102292	No	
+row_193	CYB5R3	CYB5R3	CYB5R3	cytochrome b5 reductase 3	13405	-0.7207449078559875	-0.0061218613	No	
+row_194	SUPV3L1	SUPV3L1	SUPV3L1	suppressor of var1, 3-like 1 (S. cerevisiae)	13642	-0.8124621510505676	-0.008118593	No	
+row_195	PDK4	PDK4	PDK4	pyruvate dehydrogenase kinase, isozyme 4	13970	-1.725816249847412	2.9015378E-4	No	

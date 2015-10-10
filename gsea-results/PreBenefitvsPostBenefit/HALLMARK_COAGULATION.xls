@@ -1,0 +1,85 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MSRB2	MSRB2	MSRB2	methionine sulfoxide reductase B2	46	1.198233723640442	0.0357195	No	
+row_1	THBD	THBD	THBD	thrombomodulin	64	1.1165974140167236	0.07086748	No	
+row_2	MMP2	MMP2	MMP2	matrix metallopeptidase 2 (gelatinase A, 72kDa gelatinase, 72kDa type IV collagenase)	340	0.7408612370491028	0.075203136	No	
+row_3	RAPGEF3	RAPGEF3	RAPGEF3	Rap guanine nucleotide exchange factor (GEF) 3	354	0.7367995381355286	0.098267615	No	
+row_4	MMP14	MMP14	MMP14	matrix metallopeptidase 14 (membrane-inserted)	375	0.7254078388214111	0.12045711	No	
+row_5	DUSP6	DUSP6	DUSP6	dual specificity phosphatase 6	675	0.595252513885498	0.118322	No	
+row_6	F3	F3	F3	coagulation factor III (thromboplastin, tissue factor)	713	0.5840544700622559	0.13468327	No	
+row_7	CFH	CFH	CFH	complement factor H	804	0.5595391988754272	0.14643055	No	
+row_8	PRSS23	PRSS23	PRSS23	protease, serine, 23	901	0.5325308442115784	0.15686615	No	
+row_9	MMP1	MMP1	MMP1	matrix metallopeptidase 1 (interstitial collagenase)	984	0.5145869851112366	0.16772509	No	
+row_10	WDR1	WDR1	WDR1	WD repeat domain 1	1076	0.4966251254081726	0.17735103	No	
+row_11	CLU	CLU	CLU	clusterin	1139	0.48408740758895874	0.18865627	No	
+row_12	CTSO	CTSO	CTSO	cathepsin O	1267	0.460753470659256	0.19452213	No	
+row_13	F8	F8	F8	coagulation factor VIII, procoagulant component (hemophilia A)	1492	0.4233052432537079	0.19218524	No	
+row_14	CFB	CFB	CFB	complement factor B	1667	0.40056633949279785	0.19270709	No	
+row_15	CTSK	CTSK	CTSK	cathepsin K (pycnodysostosis)	1924	0.36638644337654114	0.18621248	No	
+row_16	ITGA2	ITGA2	ITGA2	integrin, alpha 2 (CD49B, alpha 2 subunit of VLA-2 receptor)	1951	0.36206936836242676	0.19613473	No	
+row_17	ANXA1	ANXA1	ANXA1	annexin A1	2002	0.3562478721141815	0.20413962	No	
+row_18	SERPINA1	SERPINA1	SERPINA1	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1	2368	0.30681803822517395	0.18785784	No	
+row_19	MST1	MST1	MST1	macrophage stimulating 1 (hepatocyte growth factor-like)	2465	0.2971114218235016	0.19062492	No	
+row_20	ANG	ANG	ANG	angiogenin, ribonuclease, RNase A family, 5	2723	0.2698034644126892	0.18091226	No	
+row_21	GNG12	GNG12	GNG12	guanine nucleotide binding protein (G protein), gamma 12	2744	0.2676846385002136	0.18819198	No	
+row_22	ISCU	ISCU	null	null	2892	0.2505723536014557	0.18577167	No	
+row_23	PREP	PREP	PREP	prolyl endopeptidase	2937	0.24669016897678375	0.19063978	No	
+row_24	VWF	VWF	VWF	von Willebrand factor	3069	0.2313028872013092	0.18874362	No	
+row_25	DUSP14	DUSP14	DUSP14	dual specificity phosphatase 14	3392	0.20271539688110352	0.17216635	No	
+row_26	CFD	CFD	CFD	complement factor D (adipsin)	3524	0.19130218029022217	0.16896722	No	
+row_27	F12	F12	F12	coagulation factor XII (Hageman factor)	3767	0.16769041121006012	0.15700817	No	
+row_28	ADAM9	ADAM9	ADAM9	ADAM metallopeptidase domain 9 (meltrin gamma)	3955	0.15215878188610077	0.1485026	No	
+row_29	THBS1	THBS1	THBS1	thrombospondin 1	3971	0.15098588168621063	0.15234095	No	
+row_30	P2RY1	P2RY1	P2RY1	purinergic receptor P2Y, G-protein coupled, 1	4086	0.14101669192314148	0.14872764	No	
+row_31	CAPN2	CAPN2	CAPN2	calpain 2, (m/II) large subunit	4893	0.07458397001028061	0.09313395	No	
+row_32	FYN	FYN	FYN	FYN oncogene related to SRC, FGR, YES	4959	0.06928464770317078	0.09071152	No	
+row_33	FBN1	FBN1	FBN1	fibrillin 1	5105	0.056607749313116074	0.082117036	No	
+row_34	PROS1	PROS1	PROS1	protein S (alpha)	5309	0.04134895280003548	0.068850145	No	
+row_35	RABIF	RABIF	RABIF	RAB interacting factor	5319	0.04074951633810997	0.06952961	No	
+row_36	SERPINE1	SERPINE1	SERPINE1	serpin peptidase inhibitor, clade E (nexin, plasminogen activator inhibitor type 1), member 1	5339	0.03882427141070366	0.06942647	No	
+row_37	CASP9	CASP9	CASP9	caspase 9, apoptosis-related cysteine peptidase	5402	0.03336638584733009	0.06605002	No	
+row_38	HTRA1	HTRA1	HTRA1	HtrA serine peptidase 1	5617	0.01855156198143959	0.051248655	No	
+row_39	PLEK	PLEK	PLEK	pleckstrin	5707	0.011952281929552555	0.04523096	No	
+row_40	PLAU	PLAU	PLAU	plasminogen activator, urokinase	6057	-0.014176825061440468	0.02056857	No	
+row_41	C1S	C1S	C1S	complement component 1, s subcomponent	6058	-0.014456304721534252	0.021039467	No	
+row_42	RAC1	RAC1	RAC1	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)	6197	-0.025013931095600128	0.011919775	No	
+row_43	GNB2	GNB2	GNB2	guanine nucleotide binding protein (G protein), beta polypeptide 2	6236	-0.027836056426167488	0.010090916	No	
+row_44	ARF4	ARF4	ARF4	ADP-ribosylation factor 4	6439	-0.043593451380729675	-0.0030308703	No	
+row_45	CFI	CFI	CFI	complement factor I	7260	-0.10351961106061935	-0.058689874	No	
+row_46	GSN	GSN	GSN	gelsolin (amyloidosis, Finnish type)	7324	-0.10820920020341873	-0.059700403	No	
+row_47	CD9	CD9	CD9	CD9 molecule	7406	-0.11449457705020905	-0.061801996	No	
+row_48	TIMP1	TIMP1	TIMP1	TIMP metallopeptidase inhibitor 1	7632	-0.1304171234369278	-0.07375136	No	
+row_49	CAPN5	CAPN5	CAPN5	calpain 5	7741	-0.13803169131278992	-0.077029966	No	
+row_50	SIRT2	SIRT2	SIRT2	sirtuin (silent mating type information regulation 2 homolog) 2 (S. cerevisiae)	7750	-0.1385335475206375	-0.07309332	No	
+row_51	CRIP2	CRIP2	CRIP2	cysteine-rich protein 2	8594	-0.1990872025489807	-0.12729508	No	
+row_52	LGMN	LGMN	LGMN	legumain	9089	-0.23576682806015015	-0.15517785	No	
+row_53	FURIN	FURIN	FURIN	furin (paired basic amino acid cleaving enzyme)	9427	-0.26353657245635986	-0.17085378	No	
+row_54	C1R	C1R	C1R	complement component 1, r subcomponent	9502	-0.26904162764549255	-0.16741727	No	
+row_55	PEF1	PEF1	PEF1	penta-EF-hand domain containing 1	9551	-0.2727184593677521	-0.16198927	No	
+row_56	MMP11	MMP11	MMP11	matrix metallopeptidase 11 (stromelysin 3)	9694	-0.284059077501297	-0.16295885	No	
+row_57	LRP1	LRP1	LRP1	low density lipoprotein-related protein 1 (alpha-2-macroglobulin receptor)	9944	-0.3037385940551758	-0.17099021	No	
+row_58	SH2B2	SH2B2	SH2B2	SH2B adaptor protein 2	10016	-0.3097940683364868	-0.16601028	No	
+row_59	BMP1	BMP1	BMP1	bone morphogenetic protein 1	10725	-0.3694985508918762	-0.20494257	No	
+row_60	MMP9	MMP9	MMP9	matrix metallopeptidase 9 (gelatinase B, 92kDa gelatinase, 92kDa type IV collagenase)	10793	-0.3752269744873047	-0.19754326	No	
+row_61	MAFF	MAFF	MAFF	v-maf musculoaponeurotic fibrosarcoma oncogene homolog F (avian)	11198	-0.4123384654521942	-0.21319543	No	
+row_62	MMP15	MMP15	MMP15	matrix metallopeptidase 15 (membrane-inserted)	11486	-0.44163790345191956	-0.21947047	Yes	
+row_63	CSRP1	CSRP1	CSRP1	cysteine and glycine-rich protein 1	11525	-0.44524937868118286	-0.2077026	Yes	
+row_64	CTSH	CTSH	CTSH	cathepsin H	11582	-0.4516488015651703	-0.19702208	Yes	
+row_65	USP11	USP11	USP11	ubiquitin specific peptidase 11	11583	-0.45171675086021423	-0.18230797	Yes	
+row_66	C2	C2	C2	complement component 2	11675	-0.4633203446865082	-0.17376688	Yes	
+row_67	PDGFB	PDGFB	PDGFB	platelet-derived growth factor beta polypeptide (simian sarcoma viral (v-sis) oncogene homolog)	11676	-0.4633895754814148	-0.15867253	Yes	
+row_68	LAMP2	LAMP2	LAMP2	lysosomal-associated membrane protein 2	11792	-0.4784695506095886	-0.15136571	Yes	
+row_69	C1QA	C1QA	C1QA	complement component 1, q subcomponent, A chain	11828	-0.48290693759918213	-0.13815524	Yes	
+row_70	APOC2	APOC2	APOC2	apolipoprotein C-II	11848	-0.4851243495941162	-0.12372069	Yes	
+row_71	C3	C3	C3	complement component 3	11973	-0.4985496997833252	-0.11640769	Yes	
+row_72	SERPING1	SERPING1	SERPING1	serpin peptidase inhibitor, clade G (C1 inhibitor), member 1, (angioedema, hereditary)	12038	-0.5085529088973999	-0.1044495	Yes	
+row_73	A2M	A2M	A2M	alpha-2-macroglobulin	12063	-0.5111024975776672	-0.0895287	Yes	
+row_74	APOC1	APOC1	APOC1	apolipoprotein C-I	12069	-0.5114065408706665	-0.0732302	Yes	
+row_75	ITGB3	ITGB3	ITGB3	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61)	12123	-0.5188952088356018	-0.060143247	Yes	
+row_76	S100A13	S100A13	S100A13	S100 calcium binding protein A13	12259	-0.5355743765830994	-0.05241609	Yes	
+row_77	KLF7	KLF7	KLF7	Kruppel-like factor 7 (ubiquitous)	12274	-0.5378557443618774	-0.035903946	Yes	
+row_78	SPARC	SPARC	SPARC	secreted protein, acidic, cysteine-rich (osteonectin)	12730	-0.6065155267715454	-0.048902467	Yes	
+row_79	TIMP3	TIMP3	TIMP3	TIMP metallopeptidase inhibitor 3 (Sorsby fundus dystrophy, pseudoinflammatory)	13162	-0.7129229307174683	-0.056707162	Yes	
+row_80	CTSB	CTSB	CTSB	cathepsin B	13179	-0.7155686616897583	-0.034550212	Yes	
+row_81	LTA4H	LTA4H	LTA4H	leukotriene A4 hydrolase	13512	-0.847416341304779	-0.030847032	Yes	
+row_82	PLAT	PLAT	PLAT	plasminogen activator, tissue	13659	-0.9323463439941406	-0.010987394	Yes	
+row_83	S100A1	S100A1	S100A1	S100 calcium binding protein A1	13766	-1.0312585830688477	0.014973751	Yes	

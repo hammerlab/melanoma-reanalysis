@@ -1,0 +1,28 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PTPRC	PTPRC	PTPRC	protein tyrosine phosphatase, receptor type, C	316	0.6098892092704773	0.07572596	No	
+row_1	ERBB2	ERBB2	ERBB2	v-erb-b2 erythroblastic leukemia viral oncogene homolog 2, neuro/glioblastoma derived oncogene homolog (avian)	523	0.5359960794448853	0.14741862	No	
+row_2	CSF1	CSF1	CSF1	colony stimulating factor 1 (macrophage)	661	0.4902417063713074	0.21667755	No	
+row_3	SCRN1	SCRN1	SCRN1	secernin 1	2297	0.22511059045791626	0.13576914	No	
+row_4	RGS5	RGS5	RGS5	regulator of G-protein signalling 5	3066	0.1577664613723755	0.10615688	No	
+row_5	WDR46	WDR46	WDR46	WD repeat domain 46	3386	0.13152775168418884	0.10450303	No	
+row_6	PLIN2	PLIN2	null	null	3628	0.1109999269247055	0.10513002	No	
+row_7	FOLH1	FOLH1	FOLH1	folate hydrolase (prostate-specific membrane antigen) 1	4817	0.03959350287914276	0.02634337	No	
+row_8	CPSF1	CPSF1	CPSF1	cleavage and polyadenylation specific factor 1, 160kDa	5061	0.024790197610855103	0.012920436	No	
+row_9	ZNF395	ZNF395	ZNF395	zinc finger protein 395	5088	0.023213457316160202	0.014800944	No	
+row_10	CES2	CES2	CES2	carboxylesterase 2 (intestine, liver)	5174	0.017950261011719704	0.011602446	No	
+row_11	KIF20A	KIF20A	KIF20A	kinesin family member 20A	5474	-2.3729611712042242E-5	-0.00983049	No	
+row_12	VEGFA	VEGFA	null	null	5849	-0.0201214998960495	-0.033398557	No	
+row_13	ENAH	ENAH	ENAH	enabled homolog (Drosophila)	6133	-0.03442896530032158	-0.048134454	No	
+row_14	ALDH1A1	ALDH1A1	ALDH1A1	aldehyde dehydrogenase 1 family, member A1	7263	-0.09501954168081284	-0.1137503	No	
+row_15	MDM2	MDM2	MDM2	Mdm2, transformed 3T3 cell double minute 2, p53 binding protein (mouse)	7677	-0.11758474260568619	-0.12439263	No	
+row_16	CSPG4	CSPG4	CSPG4	chondroitin sulfate proteoglycan 4 (melanoma-associated)	7760	-0.12202709913253784	-0.11058735	No	
+row_17	BCL2L1	BCL2L1	BCL2L1	BCL2-like 1	9136	-0.193510964512825	-0.17795244	No	
+row_18	MDK	MDK	MDK	midkine (neurite growth-promoting factor 2)	10457	-0.2690451741218567	-0.22918984	Yes	
+row_19	CCND1	CCND1	CCND1	cyclin D1	10662	-0.28184032440185547	-0.1983518	Yes	
+row_20	BIRC5	BIRC5	BIRC5	baculoviral IAP repeat-containing 5 (survivin)	10708	-0.2847742736339569	-0.15564099	Yes	
+row_21	EZH2	EZH2	EZH2	enhancer of zeste homolog 2 (Drosophila)	10786	-0.2892794907093048	-0.11449767	Yes	
+row_22	GPC3	GPC3	GPC3	glypican 3	11074	-0.30723464488983154	-0.08551392	Yes	
+row_23	STEAP1	STEAP1	STEAP1	six transmembrane epithelial antigen of the prostate 1	11445	-0.33038195967674255	-0.05874694	Yes	
+row_24	EPHA3	EPHA3	EPHA3	EPH receptor A3	12174	-0.38627299666404724	-0.04863091	Yes	
+row_25	MMP2	MMP2	MMP2	matrix metallopeptidase 2 (gelatinase A, 72kDa gelatinase, 72kDa type IV collagenase)	13109	-0.4924606680870056	-0.03615484	Yes	
+row_26	TPBG	TPBG	TPBG	trophoblast glycoprotein	13607	-0.6081390976905823	0.026312038	Yes	

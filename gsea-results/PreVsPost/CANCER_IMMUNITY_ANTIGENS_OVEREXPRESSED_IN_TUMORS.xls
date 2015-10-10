@@ -1,0 +1,28 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MDM2	MDM2	MDM2	Mdm2, transformed 3T3 cell double minute 2, p53 binding protein (mouse)	459	0.41695636510849	0.042369787	No	
+row_1	CES2	CES2	CES2	carboxylesterase 2 (intestine, liver)	1089	0.3019765615463257	0.051792882	No	
+row_2	FOLH1	FOLH1	FOLH1	folate hydrolase (prostate-specific membrane antigen) 1	1190	0.2879211902618408	0.09660499	No	
+row_3	PTPRC	PTPRC	PTPRC	protein tyrosine phosphatase, receptor type, C	1602	0.23699338734149933	0.10992543	No	
+row_4	ALDH1A1	ALDH1A1	ALDH1A1	aldehyde dehydrogenase 1 family, member A1	1628	0.23457005620002747	0.15048258	No	
+row_5	MMP2	MMP2	MMP2	matrix metallopeptidase 2 (gelatinase A, 72kDa gelatinase, 72kDa type IV collagenase)	2444	0.16064505279064178	0.121054284	No	
+row_6	CCND1	CCND1	CCND1	cyclin D1	2448	0.1603301763534546	0.14978538	No	
+row_7	CPSF1	CPSF1	CPSF1	cleavage and polyadenylation specific factor 1, 160kDa	3203	0.10530678182840347	0.11473965	No	
+row_8	PLIN2	PLIN2	null	null	4800	0.011594191193580627	0.0024078726	No	
+row_9	EPHA3	EPHA3	EPHA3	EPH receptor A3	4875	0.0074790776707232	-0.001547267	No	
+row_10	ERBB2	ERBB2	ERBB2	v-erb-b2 erythroblastic leukemia viral oncogene homolog 2, neuro/glioblastoma derived oncogene homolog (avian)	5341	-0.016649724915623665	-0.03187942	No	
+row_11	RGS5	RGS5	RGS5	regulator of G-protein signalling 5	5999	-0.046854402869939804	-0.070523806	No	
+row_12	ZNF395	ZNF395	ZNF395	zinc finger protein 395	7501	-0.11654942482709885	-0.15709583	No	
+row_13	CSF1	CSF1	CSF1	colony stimulating factor 1 (macrophage)	7697	-0.12553973495960236	-0.14841126	No	
+row_14	GPC3	GPC3	GPC3	glypican 3	8356	-0.1584966629743576	-0.16697133	Yes	
+row_15	WDR46	WDR46	WDR46	WD repeat domain 46	8595	-0.16974839568138123	-0.15338816	Yes	
+row_16	CSPG4	CSPG4	CSPG4	chondroitin sulfate proteoglycan 4 (melanoma-associated)	9163	-0.19615423679351807	-0.15862526	Yes	
+row_17	BIRC5	BIRC5	BIRC5	baculoviral IAP repeat-containing 5 (survivin)	9348	-0.20356367528438568	-0.13506553	Yes	
+row_18	EZH2	EZH2	EZH2	enhancer of zeste homolog 2 (Drosophila)	9391	-0.2056342512369156	-0.100951284	Yes	
+row_19	ENAH	ENAH	ENAH	enabled homolog (Drosophila)	10045	-0.2378869503736496	-0.10481968	Yes	
+row_20	STEAP1	STEAP1	STEAP1	six transmembrane epithelial antigen of the prostate 1	10203	-0.24603107571601868	-0.07165707	Yes	
+row_21	KIF20A	KIF20A	KIF20A	kinesin family member 20A	10551	-0.2660863697528839	-0.048495676	Yes	
+row_22	MDK	MDK	MDK	midkine (neurite growth-promoting factor 2)	10705	-0.2740488648414612	-0.009987923	Yes	
+row_23	TPBG	TPBG	TPBG	trophoblast glycoprotein	10800	-0.27967673540115356	0.033765886	Yes	
+row_24	BCL2L1	BCL2L1	BCL2L1	BCL2-like 1	11364	-0.3123837113380432	0.049799755	Yes	
+row_25	SCRN1	SCRN1	SCRN1	secernin 1	11878	-0.3444252014160156	0.07520317	Yes	
+row_26	VEGFA	VEGFA	null	null	12769	-0.4154036343097687	0.08639214	Yes	

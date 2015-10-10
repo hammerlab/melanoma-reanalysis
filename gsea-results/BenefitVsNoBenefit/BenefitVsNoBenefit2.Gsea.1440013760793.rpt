@@ -1,0 +1,32 @@
+producer_class	xtools.gsea.Gsea
+producer_timestamp	1440013760793
+param	collapse	false
+param	cls	/Users/arman/Projects/checkpoint-trials/analysis/GSEA/benefit_phenotype.cls#benefit_versus_no_benefit
+param	plot_top_x	100
+param	norm	meandiv
+param	save_rnd_lists	false
+param	median	false
+param	num	100
+param	scoring_scheme	weighted
+param	make_sets	true
+param	mode	Max_probe
+param	gmx	/Users/arman/Projects/checkpoint-trials/analysis/GSEA/genesets/custom.cancer.immunity.symbols.gmt,/Users/arman/Projects/checkpoint-trials/analysis/GSEA/genesets/h.all.v5.0.symbols.gmt
+param	gui	false
+param	chip	gseaftp.broadinstitute.org://pub/gsea/annotations/GENE_SYMBOL.chip,/Users/arman/Projects/checkpoint-trials/analysis/GSEA/GENE_SYMBOL.chip
+param	metric	Signal2Noise
+param	rpt_label	BenefitVsNoBenefit2
+param	help	false
+param	order	descending
+param	out	/Users/arman/gsea_home/output/aug19
+param	permute	gene_set
+param	rnd_type	no_balance
+param	set_min	0
+param	include_only_symbols	true
+param	sort	real
+param	rnd_seed	timestamp
+param	nperm	1000
+param	zip_report	false
+param	set_max	1000
+param	res	/Users/arman/Projects/checkpoint-trials/analysis/GSEA/expression_fpkm.txt
+
+file	/Users/arman/gsea_home/output/aug19/BenefitVsNoBenefit2.Gsea.1440013760793/index.html

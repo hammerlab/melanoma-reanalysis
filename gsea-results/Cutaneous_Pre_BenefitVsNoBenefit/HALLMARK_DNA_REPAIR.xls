@@ -1,0 +1,137 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SDCBP	SDCBP	SDCBP	syndecan binding protein (syntenin)	18	1.6122421026229858	0.026617793	Yes	
+row_1	POLR2K	POLR2K	POLR2K	polymerase (RNA) II (DNA directed) polypeptide K, 7.0kDa	119	1.2126598358154297	0.04039092	Yes	
+row_2	DCTN4	DCTN4	DCTN4	dynactin 4 (p62)	224	1.0670599937438965	0.05135372	Yes	
+row_3	TMED2	TMED2	TMED2	transmembrane emp24 domain trafficking protein 2	252	1.0415832996368408	0.06743934	Yes	
+row_4	ARL6IP1	ARL6IP1	ARL6IP1	ADP-ribosylation factor-like 6 interacting protein 1	288	1.0078924894332886	0.08236347	Yes	
+row_5	POLB	POLB	POLB	polymerase (DNA directed), beta	413	0.9178513884544373	0.0892973	Yes	
+row_6	GTF2A2	GTF2A2	GTF2A2	general transcription factor IIA, 2, 12kDa	417	0.9149419069290161	0.10492416	Yes	
+row_7	RAD51	RAD51	RAD51	RAD51 homolog (RecA homolog, E. coli) (S. cerevisiae)	647	0.7935464382171631	0.1021182	Yes	
+row_8	TAF13	TAF13	TAF13	TAF13 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 18kDa	730	0.756980299949646	0.1093012	Yes	
+row_9	TAF9	TAF9	TAF9	TAF9 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 32kDa	833	0.7217519283294678	0.11442898	Yes	
+row_10	PCNA	PCNA	PCNA	proliferating cell nuclear antigen	837	0.7203561663627625	0.12668628	Yes	
+row_11	HPRT1	HPRT1	HPRT1	hypoxanthine phosphoribosyltransferase 1 (Lesch-Nyhan syndrome)	927	0.696133553981781	0.13230981	Yes	
+row_12	RRM2B	RRM2B	RRM2B	ribonucleotide reductase M2 B (TP53 inducible)	981	0.6755101084709167	0.14017756	Yes	
+row_13	RALA	RALA	RALA	v-ral simian leukemia viral oncogene homolog A (ras related)	1109	0.643040120601654	0.14213583	Yes	
+row_14	NUDT9	NUDT9	NUDT9	nudix (nucleoside diphosphate linked moiety X)-type motif 9	1120	0.6404137015342712	0.15250298	Yes	
+row_15	ERCC4	ERCC4	ERCC4	excision repair cross-complementing rodent repair deficiency, complementation group 4	1143	0.6335309147834778	0.16188385	Yes	
+row_16	GTF2H1	GTF2H1	GTF2H1	general transcription factor IIH, polypeptide 1, 62kDa	1196	0.6187376379966736	0.16884075	Yes	
+row_17	CDA	CDA	CDA	cytidine deaminase	1242	0.6104615926742554	0.17616016	Yes	
+row_18	GTF2B	GTF2B	GTF2B	general transcription factor IIB	1394	0.5812877416610718	0.17531486	Yes	
+row_19	DUT	DUT	DUT	dUTP pyrophosphatase	1534	0.5546680688858032	0.1748757	Yes	
+row_20	VPS37D	VPS37D	VPS37D	vacuolar protein sorting 37 homolog D (S. cerevisiae)	1558	0.5506119132041931	0.18274844	Yes	
+row_21	DFNA5	DFNA5	DFNA5	deafness, autosomal dominant 5	1559	0.5505185723304749	0.19228151	Yes	
+row_22	CSTF3	CSTF3	CSTF3	cleavage stimulation factor, 3' pre-RNA, subunit 3, 77kDa	1654	0.5359426736831665	0.1947698	Yes	
+row_23	TSG101	TSG101	TSG101	tumor susceptibility gene 101	1689	0.5292263031005859	0.20147735	Yes	
+row_24	NCBP2	NCBP2	NCBP2	nuclear cap binding protein subunit 2, 20kDa	1780	0.5157884955406189	0.20390566	Yes	
+row_25	DAD1	DAD1	DAD1	defender against cell death 1	1806	0.5109413862228394	0.21094692	Yes	
+row_26	SNAPC5	SNAPC5	SNAPC5	small nuclear RNA activating complex, polypeptide 5, 19kDa	1970	0.4848291575908661	0.20756418	Yes	
+row_27	DDB2	DDB2	DDB2	damage-specific DNA binding protein 2, 48kDa	1991	0.4827622175216675	0.21447876	Yes	
+row_28	GTF2H5	GTF2H5	GTF2H5	general transcription factor IIH, polypeptide 5	2042	0.47664210200309753	0.21911958	Yes	
+row_29	STX3	STX3	STX3	syntaxin 3	2285	0.44336917996406555	0.20931038	No	
+row_30	IMPDH2	IMPDH2	IMPDH2	IMP (inosine monophosphate) dehydrogenase 2	2359	0.4326551556587219	0.21152753	No	
+row_31	POLR1C	POLR1C	POLR1C	polymerase (RNA) I polypeptide C, 30kDa	2621	0.40140342712402344	0.19961871	No	
+row_32	MRPL40	MRPL40	MRPL40	mitochondrial ribosomal protein L40	2657	0.397477924823761	0.20397256	No	
+row_33	ERCC1	ERCC1	ERCC1	excision repair cross-complementing rodent repair deficiency, complementation group 1 (includes overlapping antisense sequence)	2743	0.38678064942359924	0.20452821	No	
+row_34	RFC2	RFC2	RFC2	replication factor C (activator 1) 2, 40kDa	2756	0.3856772184371948	0.2103397	No	
+row_35	ERCC8	ERCC8	ERCC8	excision repair cross-complementing rodent repair deficiency, complementation group 8	2988	0.3586598336696625	0.19985849	No	
+row_36	POLR2H	POLR2H	POLR2H	polymerase (RNA) II (DNA directed) polypeptide H	3123	0.342006117105484	0.19609807	No	
+row_37	CETN2	CETN2	CETN2	centrin, EF-hand protein, 2	3379	0.3162054419517517	0.18314746	No	
+row_38	POLR2D	POLR2D	POLR2D	polymerase (RNA) II (DNA directed) polypeptide D	3516	0.299569308757782	0.17850767	No	
+row_39	TYMS	TYMS	TYMS	thymidylate synthetase	3586	0.28991833329200745	0.17854215	No	
+row_40	NUDT21	NUDT21	NUDT21	nudix (nucleoside diphosphate linked moiety X)-type motif 21	3636	0.2847340404987335	0.17993204	No	
+row_41	NME1	NME1	NME1	non-metastatic cells 1, protein (NM23A) expressed in	3684	0.2793141305446625	0.1813726	No	
+row_42	POLR1D	POLR1D	POLR1D	polymerase (RNA) I polypeptide D, 16kDa	3687	0.2790336012840271	0.18605998	No	
+row_43	SF3A3	SF3A3	SF3A3	splicing factor 3a, subunit 3, 60kDa	3714	0.2755759358406067	0.18895325	No	
+row_44	ERCC2	ERCC2	ERCC2	excision repair cross-complementing rodent repair deficiency, complementation group 2 (xeroderma pigmentosum D)	3730	0.273477703332901	0.19260505	No	
+row_45	GUK1	GUK1	GUK1	guanylate kinase 1	3885	0.2559962272644043	0.18591005	No	
+row_46	ZWINT	ZWINT	ZWINT	ZW10 interactor	4115	0.23084864020347595	0.17336011	No	
+row_47	UPF3B	UPF3B	UPF3B	UPF3 regulator of nonsense transcripts homolog B (yeast)	4187	0.2250985950231552	0.1721276	No	
+row_48	SEC61A1	SEC61A1	SEC61A1	Sec61 alpha 1 subunit (S. cerevisiae)	4248	0.2187824845314026	0.1715806	No	
+row_49	POLA1	POLA1	POLA1	polymerase (DNA directed), alpha 1	4251	0.2186124175786972	0.17522168	No	
+row_50	COX17	COX17	COX17	COX17 cytochrome c oxidase assembly homolog (S. cerevisiae)	4357	0.20932655036449432	0.17125925	No	
+row_51	RFC5	RFC5	RFC5	replication factor C (activator 1) 5, 36.5kDa	4364	0.20794223248958588	0.17442653	No	
+row_52	BCAP31	BCAP31	BCAP31	B-cell receptor-associated protein 31	4417	0.20349086821079254	0.17419279	No	
+row_53	UMPS	UMPS	UMPS	uridine monophosphate synthetase (orotate phosphoribosyl transferase and orotidine-5'-decarboxylase)	4708	0.17368926107883453	0.15624522	No	
+row_54	RFC4	RFC4	RFC4	replication factor C (activator 1) 4, 37kDa	4784	0.16726495325565338	0.15372221	No	
+row_55	RFC3	RFC3	RFC3	replication factor C (activator 1) 3, 38kDa	5067	0.1436787247657776	0.13583302	No	
+row_56	AK1	AK1	AK1	adenylate kinase 1	5383	0.11431018263101578	0.115050726	No	
+row_57	GTF2H3	GTF2H3	GTF2H3	general transcription factor IIH, polypeptide 3, 34kDa	5453	0.10748189687728882	0.111926034	No	
+row_58	AK3	AK3	AK3	adenylate kinase 3	5503	0.10326246172189713	0.110173464	No	
+row_59	POLR2C	POLR2C	POLR2C	polymerase (RNA) II (DNA directed) polypeptide C, 33kDa	5520	0.10136574506759644	0.11077262	No	
+row_60	CANT1	CANT1	CANT1	calcium activated nucleotidase 1	5699	0.08379201591014862	0.099361405	No	
+row_61	RPA3	RPA3	RPA3	replication protein A3, 14kDa	5772	0.077369324862957	0.09549848	No	
+row_62	POLH	POLH	POLH	polymerase (DNA directed), eta	5792	0.07531634718179703	0.09542977	No	
+row_63	POLE4	POLE4	POLE4	polymerase (DNA-directed), epsilon 4 (p12 subunit)	5836	0.07245485484600067	0.09357728	No	
+row_64	PNP	PNP	null	null	6085	0.04868222400546074	0.07649992	No	
+row_65	PRIM1	PRIM1	PRIM1	primase, polypeptide 1, 49kDa	6174	0.03960258141160011	0.07082685	No	
+row_66	POLR2J	POLR2J	POLR2J	polymerase (RNA) II (DNA directed) polypeptide J, 13.3kDa	6191	0.03867502138018608	0.07034042	No	
+row_67	RAE1	RAE1	RAE1	RAE1 RNA export 1 homolog (S. pombe)	6210	0.03681449219584465	0.06967725	No	
+row_68	RBX1	RBX1	RBX1	ring-box 1	6415	0.017189696431159973	0.055233963	No	
+row_69	TCEB3	TCEB3	TCEB3	transcription elongation factor B (SIII), polypeptide 3 (110kDa, elongin A)	6475	0.011495443992316723	0.05116971	No	
+row_70	ADCY6	ADCY6	ADCY6	adenylate cyclase 6	6521	0.008399100974202156	0.048063472	No	
+row_71	SUPT4H1	SUPT4H1	SUPT4H1	suppressor of Ty 4 homolog 1 (S. cerevisiae)	6607	4.5479528489522636E-4	0.041929286	No	
+row_72	FEN1	FEN1	FEN1	flap structure-specific endonuclease 1	6723	-0.010682011023163795	0.033804413	No	
+row_73	DDB1	DDB1	DDB1	damage-specific DNA binding protein 1, 127kDa	6849	-0.02142379991710186	0.025142955	No	
+row_74	POM121	POM121	POM121	POM121 membrane glycoprotein (rat)	6871	-0.023027990013360977	0.024024269	No	
+row_75	TAF6	TAF6	TAF6	TAF6 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 80kDa	6942	-0.03120199218392372	0.019506412	No	
+row_76	POLR2F	POLR2F	POLR2F	polymerase (RNA) II (DNA directed) polypeptide F	7156	-0.051835592836141586	0.0050127385	No	
+row_77	EIF1B	EIF1B	EIF1B	eukaryotic translation initiation factor 1B	7226	-0.058967623859643936	0.0010479445	No	
+row_78	POLD3	POLD3	POLD3	polymerase (DNA-directed), delta 3, accessory subunit	7332	-0.06987284123897552	-0.005329353	No	
+row_79	SAC3D1	SAC3D1	SAC3D1	SAC3 domain containing 1	7864	-0.1201111227273941	-0.041619267	No	
+row_80	BRF2	BRF2	BRF2	BRF2, subunit of RNA polymerase III transcription initiation factor, BRF1-like	7922	-0.12605327367782593	-0.043555256	No	
+row_81	SRSF6	SRSF6	null	null	8016	-0.13606230914592743	-0.047919266	No	
+row_82	POLR2E	POLR2E	POLR2E	polymerase (RNA) II (DNA directed) polypeptide E, 25kDa	8056	-0.14016574621200562	-0.0483102	No	
+row_83	VPS28	VPS28	VPS28	vacuolar protein sorting 28 homolog (S. cerevisiae)	8387	-0.17040860652923584	-0.069204964	No	
+row_84	NME4	NME4	NME4	non-metastatic cells 4, protein expressed in	8429	-0.17375138401985168	-0.06915884	No	
+row_85	TAF12	TAF12	TAF12	TAF12 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 20kDa	8497	-0.17950910329818726	-0.070891745	No	
+row_86	ERCC3	ERCC3	ERCC3	excision repair cross-complementing rodent repair deficiency, complementation group 3 (xeroderma pigmentosum group B complementing)	8602	-0.18926839530467987	-0.07512926	No	
+row_87	RNMT	RNMT	RNMT	RNA (guanine-7-) methyltransferase	8753	-0.20471248030662537	-0.082423285	No	
+row_88	ZNF707	ZNF707	ZNF707	zinc finger protein 707	8784	-0.20859675109386444	-0.0809789	No	
+row_89	TAF10	TAF10	TAF10	TAF10 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 30kDa	8790	-0.20936644077301025	-0.07771469	No	
+row_90	ADRM1	ADRM1	ADRM1	adhesion regulating molecule 1	8794	-0.20987537503242493	-0.07429715	No	
+row_91	TK2	TK2	TK2	thymidine kinase 2, mitochondrial	8845	-0.21471023559570312	-0.07419209	No	
+row_92	POLR2G	POLR2G	POLR2G	polymerase (RNA) II (DNA directed) polypeptide G	8926	-0.2248142510652542	-0.076079845	No	
+row_93	BOLA2	BOLA2	BOLA2	bolA homolog 2 (E. coli)	8948	-0.22688010334968567	-0.07366852	No	
+row_94	NPR2	NPR2	NPR2	natriuretic peptide receptor B/guanylate cyclase B (atrionatriuretic peptide receptor B)	8993	-0.23279452323913574	-0.072816744	No	
+row_95	ITPA	ITPA	ITPA	inosine triphosphatase (nucleoside triphosphate pyrophosphatase)	9086	-0.24173057079315186	-0.075278684	No	
+row_96	GMPR2	GMPR2	GMPR2	guanosine monophosphate reductase 2	9179	-0.25219202041625977	-0.07755947	No	
+row_97	POLR3C	POLR3C	POLR3C	polymerase (RNA) III (DNA directed) polypeptide C (62kD)	9365	-0.2722732722759247	-0.08621265	No	
+row_98	VPS37B	VPS37B	VPS37B	vacuolar protein sorting 37 homolog B (S. cerevisiae)	9514	-0.2874714732170105	-0.091929056	No	
+row_99	DGUOK	DGUOK	DGUOK	deoxyguanosine kinase	9580	-0.29482337832450867	-0.0915206	No	
+row_100	TARBP2	TARBP2	TARBP2	Tar (HIV-1) RNA binding protein 2	9917	-0.3308417499065399	-0.11007078	No	
+row_101	GPX4	GPX4	GPX4	glutathione peroxidase 4 (phospholipid hydroperoxidase)	9955	-0.3344826400279999	-0.106952295	No	
+row_102	RAD52	RAD52	RAD52	RAD52 homolog (S. cerevisiae)	10129	-0.35628750920295715	-0.11328353	No	
+row_103	XPC	XPC	XPC	xeroderma pigmentosum, complementation group C	10334	-0.3827957808971405	-0.12139578	No	
+row_104	DGCR8	DGCR8	DGCR8	DiGeorge syndrome critical region gene 8	10445	-0.3977493345737457	-0.122456685	No	
+row_105	NME3	NME3	NME3	non-metastatic cells 3, protein expressed in	10511	-0.4058733880519867	-0.120125234	No	
+row_106	POLR2A	POLR2A	POLR2A	polymerase (RNA) II (DNA directed) polypeptide A, 220kDa	10555	-0.4106859266757965	-0.11612073	No	
+row_107	LIG1	LIG1	LIG1	ligase I, DNA, ATP-dependent	10648	-0.4225827753543854	-0.11545093	No	
+row_108	GTF2F1	GTF2F1	GTF2F1	general transcription factor IIF, polypeptide 1, 74kDa	10685	-0.4265923798084259	-0.11066517	No	
+row_109	NFX1	NFX1	NFX1	nuclear transcription factor, X-box binding 1	10690	-0.4272768199443817	-0.103555255	No	
+row_110	RPA2	RPA2	RPA2	replication protein A2, 32kDa	10750	-0.43476060032844543	-0.100290015	No	
+row_111	CLP1	CLP1	null	null	10896	-0.4533230662345886	-0.10291766	No	
+row_112	SSRP1	SSRP1	SSRP1	structure specific recognition protein 1	11109	-0.4803484082221985	-0.10991871	No	
+row_113	SURF1	SURF1	SURF1	surfeit 1	11256	-0.49940982460975647	-0.11182055	No	
+row_114	ZNRD1	ZNRD1	ZNRD1	zinc ribbon domain containing 1	11290	-0.5031468272209167	-0.10549235	No	
+row_115	MPG	MPG	MPG	N-methylpurine-DNA glycosylase	11572	-0.5421024560928345	-0.11640994	No	
+row_116	SNAPC4	SNAPC4	SNAPC4	small nuclear RNA activating complex, polypeptide 4, 190kDa	11719	-0.566267192363739	-0.11715405	No	
+row_117	APRT	APRT	APRT	adenine phosphoribosyltransferase	11840	-0.5847539901733398	-0.11569928	No	
+row_118	BCAM	BCAM	BCAM	basal cell adhesion molecule (Lutheran blood group)	11982	-0.6084467768669128	-0.11535168	No	
+row_119	TAF1C	TAF1C	TAF1C	TATA box binding protein (TBP)-associated factor, RNA polymerase I, C, 110kDa	12161	-0.63901287317276	-0.11714838	No	
+row_120	POLA2	POLA2	POLA2	polymerase (DNA directed), alpha 2 (70kD subunit)	12446	-0.6906795501708984	-0.1257099	No	
+row_121	GTF3C5	GTF3C5	GTF3C5	general transcription factor IIIC, polypeptide 5, 63kDa	12481	-0.6971331834793091	-0.1160948	No	
+row_122	HCLS1	HCLS1	HCLS1	hematopoietic cell-specific Lyn substrate 1	12610	-0.7229201197624207	-0.112825535	No	
+row_123	EDF1	EDF1	EDF1	endothelial differentiation-related factor 1	12776	-0.7643765211105347	-0.111512005	No	
+row_124	POLD1	POLD1	POLD1	polymerase (DNA directed), delta 1, catalytic subunit 125kDa	12810	-0.7719897627830505	-0.100528374	No	
+row_125	POLD4	POLD4	POLD4	polymerase (DNA-directed), delta 4	12831	-0.7763347029685974	-0.08853013	No	
+row_126	POLR2I	POLR2I	POLR2I	polymerase (RNA) II (DNA directed) polypeptide I, 14.5kDa	12893	-0.7904044389724731	-0.07925089	No	
+row_127	POLR3GL	POLR3GL	POLR3GL	polymerase (RNA) III (DNA directed) polypeptide G (32kD) like	13078	-0.8368315100669861	-0.07805561	No	
+row_128	POLL	POLL	POLL	polymerase (DNA directed), lambda	13221	-0.8786762952804565	-0.07310083	No	
+row_129	ADA	ADA	ADA	adenosine deaminase	13287	-0.9076740145683289	-0.06207992	No	
+row_130	AAAS	AAAS	AAAS	achalasia, adrenocortical insufficiency, alacrimia (Allgrove, triple-A)	13339	-0.932923436164856	-0.049610145	No	
+row_131	ERCC5	ERCC5	ERCC5	me))	13389	-0.9611715078353882	-0.036506694	No	
+row_132	ELL	ELL	ELL	elongation factor RNA polymerase II	13505	-1.0168609619140625	-0.027208023	No	
+row_133	SUPT5H	SUPT5H	SUPT5H	suppressor of Ty 5 homolog (S. cerevisiae)	13568	-1.066375494003296	-0.013222173	No	
+row_134	USP11	USP11	USP11	ubiquitin specific peptidase 11	13655	-1.1236320734024048	2.093302E-5	No	
+row_135	NT5C	NT5C	NT5C	5', 3'-nucleotidase, cytosolic	13836	-1.3257464170455933	0.009971562	No	

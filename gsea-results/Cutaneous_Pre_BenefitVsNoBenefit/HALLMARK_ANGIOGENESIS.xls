@@ -1,0 +1,26 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PTK2	PTK2	PTK2	PTK2 protein tyrosine kinase 2	244	1.0480821132659912	0.064828426	No	
+row_1	PDGFA	PDGFA	PDGFA	platelet-derived growth factor alpha polypeptide	645	0.7946373224258423	0.09856776	No	
+row_2	TNFRSF21	TNFRSF21	TNFRSF21	tumor necrosis factor receptor superfamily, member 21	956	0.684407651424408	0.13010094	No	
+row_3	VEGFA	VEGFA	null	null	977	0.6772863268852234	0.18186332	No	
+row_4	ITGAV	ITGAV	ITGAV	integrin, alpha V (vitronectin receptor, alpha polypeptide, antigen CD51)	1395	0.5811914205551147	0.19761933	No	
+row_5	POSTN	POSTN	POSTN	periostin, osteoblast specific factor	2165	0.4592614769935608	0.17856565	No	
+row_6	FSTL1	FSTL1	FSTL1	follistatin-like 1	2482	0.41651368141174316	0.18862753	No	
+row_7	STC1	STC1	STC1	stanniocalcin 1	2567	0.40753012895584106	0.21461464	No	
+row_8	JAG2	JAG2	JAG2	jagged 2	4132	0.22972694039344788	0.12054338	No	
+row_9	MSX1	MSX1	MSX1	msh homeobox homolog 1 (Drosophila)	4532	0.19185450673103333	0.10701005	No	
+row_10	S100A4	S100A4	S100A4	S100 calcium binding protein A4	5037	0.1462193727493286	0.08236552	No	
+row_11	JAG1	JAG1	JAG1	jagged 1 (Alagille syndrome)	5403	0.11238334327936172	0.065027565	No	
+row_12	VCAN	VCAN	null	null	5592	0.09517387300729752	0.059026103	No	
+row_13	TIMP1	TIMP1	TIMP1	TIMP metallopeptidase inhibitor 1	6511	0.009074999950826168	-0.0060675736	No	
+row_14	COL5A2	COL5A2	COL5A2	collagen, type V, alpha 2	7054	-0.04177501052618027	-0.04163949	No	
+row_15	SPP1	SPP1	SPP1	secreted phosphoprotein 1 (osteopontin, bone sialoprotein I, early T-lymphocyte activation 1)	8707	-0.20028294622898102	-0.14433162	No	
+row_16	CCND2	CCND2	CCND2	cyclin D2	8758	-0.20523497462272644	-0.13179608	No	
+row_17	LUM	LUM	LUM	lumican	9992	-0.33893412351608276	-0.1935623	No	
+row_18	LRPAP1	LRPAP1	LRPAP1	low density lipoprotein receptor-related protein associated protein 1	10072	-0.3486054837703705	-0.17184487	No	
+row_19	THBD	THBD	THBD	thrombomodulin	10291	-0.37672731280326843	-0.15788284	No	
+row_20	COL3A1	COL3A1	COL3A1	collagen, type III, alpha 1 (Ehlers-Danlos syndrome type IV, autosomal dominant)	11342	-0.5105662941932678	-0.19305027	No	
+row_21	VAV2	VAV2	VAV2	vav 2 oncogene	11686	-0.5611891746520996	-0.17356062	No	
+row_22	LPL	LPL	LPL	lipoprotein lipase	13634	-1.1027579307556152	-0.22651665	Yes	
+row_23	KCNJ8	KCNJ8	KCNJ8	potassium inwardly-rectifying channel, subfamily J, member 8	13872	-1.4072242975234985	-0.13297834	Yes	
+row_24	FGFR1	FGFR1	FGFR1	fibroblast growth factor receptor 1 (fms-related tyrosine kinase 2, Pfeiffer syndrome)	13943	-1.785244345664978	0.002222123	Yes	

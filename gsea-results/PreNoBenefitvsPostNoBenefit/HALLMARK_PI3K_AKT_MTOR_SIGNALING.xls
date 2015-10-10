@@ -1,0 +1,87 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RPS6KA1	RPS6KA1	RPS6KA1	ribosomal protein S6 kinase, 90kDa, polypeptide 1	247	0.6820558309555054	0.008743334	No	
+row_1	IL2RG	IL2RG	IL2RG	interleukin 2 receptor, gamma (severe combined immunodeficiency)	393	0.6352033615112305	0.023008374	No	
+row_2	ADRBK1	ADRBK1	ADRBK1	adrenergic, beta, receptor kinase 1	532	0.5937332510948181	0.036164515	No	
+row_3	CXCR4	CXCR4	CXCR4	chemokine (C-X-C motif) receptor 4	890	0.5011427402496338	0.029951662	No	
+row_4	SLA	SLA	SLA	Src-like-adaptor	1018	0.4745071828365326	0.039262738	No	
+row_5	TRAF2	TRAF2	TRAF2	TNF receptor-associated factor 2	1162	0.44728735089302063	0.046363164	No	
+row_6	PPP1CA	PPP1CA	PPP1CA	protein phosphatase 1, catalytic subunit, alpha isoform	1465	0.3844764828681946	0.03957278	No	
+row_7	NOD1	NOD1	null	null	1541	0.37271836400032043	0.048668955	No	
+row_8	PFN1	PFN1	PFN1	profilin 1	1578	0.3665735721588135	0.060334116	No	
+row_9	PIK3R3	PIK3R3	PIK3R3	phosphoinositide-3-kinase, regulatory subunit 3 (p55, gamma)	1831	0.32937169075012207	0.055000514	No	
+row_10	NFKBIB	NFKBIB	NFKBIB	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, beta	1913	0.31895819306373596	0.061573796	No	
+row_11	MKNK2	MKNK2	MKNK2	MAP kinase interacting serine/threonine kinase 2	2044	0.30214542150497437	0.06396521	No	
+row_12	MAP2K3	MAP2K3	MAP2K3	mitogen-activated protein kinase kinase 3	2144	0.2903567850589752	0.06813011	No	
+row_13	TIAM1	TIAM1	TIAM1	T-cell lymphoma invasion and metastasis 1	2308	0.2693973481655121	0.066871874	No	
+row_14	MKNK1	MKNK1	MKNK1	MAP kinase interacting serine/threonine kinase 1	2362	0.2640612721443176	0.07332604	No	
+row_15	PIKFYVE	PIKFYVE	null	null	2380	0.26135411858558655	0.08226689	No	
+row_16	ARPC3	ARPC3	ARPC3	actin related protein 2/3 complex, subunit 3, 21kDa	2403	0.25958940386772156	0.09077911	No	
+row_17	RPS6KA3	RPS6KA3	RPS6KA3	ribosomal protein S6 kinase, 90kDa, polypeptide 3	2484	0.2519990801811218	0.09482016	No	
+row_18	PLCG1	PLCG1	PLCG1	phospholipase C, gamma 1	2711	0.22654615342617035	0.08735935	No	
+row_19	CDKN1B	CDKN1B	CDKN1B	cyclin-dependent kinase inhibitor 1B (p27, Kip1)	2901	0.20357145369052887	0.08166896	No	
+row_20	VAV3	VAV3	VAV3	vav 3 oncogene	3033	0.1912190467119217	0.07967411	No	
+row_21	RALB	RALB	RALB	v-ral simian leukemia viral oncogene homolog B (ras related; GTP binding protein)	3052	0.18880076706409454	0.08572115	No	
+row_22	IRAK4	IRAK4	IRAK4	interleukin-1 receptor-associated kinase 4	3367	0.15936604142189026	0.06931155	No	
+row_23	UBE2D3	UBE2D3	UBE2D3	ubiquitin-conjugating enzyme E2D 3 (UBC4/5 homolog, yeast)	3368	0.15927273035049438	0.07550614	No	
+row_24	CAB39	CAB39	CAB39	calcium binding protein 39	3388	0.1571553349494934	0.0802504	No	
+row_25	STAT2	STAT2	STAT2	signal transducer and activator of transcription 2, 113kDa	3523	0.1436152309179306	0.0761881	No	
+row_26	TNFRSF1A	TNFRSF1A	TNFRSF1A	tumor necrosis factor receptor superfamily, member 1A	3869	0.1162426546216011	0.055869326	No	
+row_27	MYD88	MYD88	MYD88	myeloid differentiation primary response gene (88)	3921	0.112698033452034	0.056580517	No	
+row_28	YWHAB	YWHAB	YWHAB	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, beta polypeptide	4107	0.09767797589302063	0.047059614	No	
+row_29	MAP2K6	MAP2K6	MAP2K6	mitogen-activated protein kinase kinase 6	4256	0.08708552271127701	0.039790716	No	
+row_30	TBK1	TBK1	TBK1	TANK-binding kinase 1	4904	0.03576317057013512	-0.0054019727	No	
+row_31	PAK4	PAK4	PAK4	p21(CDKN1A)-activated kinase 4	5074	0.02246190793812275	-0.016696263	No	
+row_32	ACTR2	ACTR2	ACTR2	ARP2 actin-related protein 2 homolog (yeast)	5135	0.01771479845046997	-0.020327248	No	
+row_33	EIF4E	EIF4E	EIF4E	eukaryotic translation initiation factor 4E	5481	-0.0067362114787101746	-0.044905055	No	
+row_34	TSC2	TSC2	TSC2	tuberous sclerosis 2	5577	-0.01546083390712738	-0.051143683	No	
+row_35	CFL1	CFL1	CFL1	cofilin 1 (non-muscle)	5913	-0.03859160095453262	-0.07376254	No	
+row_36	CAB39L	CAB39L	CAB39L	calcium binding protein 39-like	6587	-0.08337206393480301	-0.118975565	No	
+row_37	ACTR3	ACTR3	ACTR3	ARP3 actin-related protein 3 homolog (yeast)	7133	-0.11827558279037476	-0.15361516	No	
+row_38	HSP90B1	HSP90B1	HSP90B1	heat shock protein 90kDa beta (Grp94), member 1	7167	-0.12016436457633972	-0.1513176	No	
+row_39	GRB2	GRB2	GRB2	growth factor receptor-bound protein 2	7348	-0.13159190118312836	-0.15915948	No	
+row_40	PLA2G12A	PLA2G12A	PLA2G12A	phospholipase A2, group XIIA	7411	-0.13563786447048187	-0.15834808	No	
+row_41	THEM4	THEM4	THEM4	thioesterase superfamily member 4	7749	-0.15605153143405914	-0.17654258	No	
+row_42	MAP3K7	MAP3K7	MAP3K7	mitogen-activated protein kinase kinase kinase 7	7832	-0.1605345606803894	-0.17620286	No	
+row_43	RPTOR	RPTOR	null	null	7946	-0.16727817058563232	-0.17783286	No	
+row_44	MAPK1	MAPK1	MAPK1	mitogen-activated protein kinase 1	8078	-0.1754864901304245	-0.18043958	No	
+row_45	ARHGDIA	ARHGDIA	ARHGDIA	Rho GDP dissociation inhibitor (GDI) alpha	8158	-0.18108651041984558	-0.17908454	No	
+row_46	ATF1	ATF1	ATF1	activating transcription factor 1	8183	-0.18256591260433197	-0.17371199	No	
+row_47	ECSIT	ECSIT	ECSIT	ECSIT homolog (Drosophila)	8212	-0.18471771478652954	-0.16854376	No	
+row_48	SQSTM1	SQSTM1	SQSTM1	sequestosome 1	8579	-0.20763073861598969	-0.18682016	No	
+row_49	UBE2N	UBE2N	UBE2N	ubiquitin-conjugating enzyme E2N (UBC13 homolog, yeast)	8612	-0.20948301255702972	-0.18097672	No	
+row_50	ARF1	ARF1	ARF1	ADP-ribosylation factor 1	8780	-0.21887393295764923	-0.18448795	No	
+row_51	CDK1	CDK1	null	null	8921	-0.22773241996765137	-0.18571068	No	
+row_52	MAPK9	MAPK9	MAPK9	mitogen-activated protein kinase 9	8941	-0.22896325588226318	-0.1781736	No	
+row_53	CALR	CALR	CALR	calreticulin	9051	-0.23585180938243866	-0.17684856	No	
+row_54	ITPR2	ITPR2	ITPR2	inositol 1,4,5-triphosphate receptor, type 2	9151	-0.24195519089698792	-0.17456615	No	
+row_55	PTEN	PTEN	PTEN	phosphatase and tensin homolog (mutated in multiple advanced cancers 1)	9287	-0.2509206533432007	-0.17452702	No	
+row_56	MAPK8	MAPK8	MAPK8	mitogen-activated protein kinase 8	9658	-0.27310144901275635	-0.19054507	No	
+row_57	CDKN1A	CDKN1A	CDKN1A	cyclin-dependent kinase inhibitor 1A (p21, Cip1)	9740	-0.2778202295303345	-0.18557176	No	
+row_58	HRAS	HRAS	HRAS	v-Ha-ras Harvey rat sarcoma viral oncogene homolog	9818	-0.2828260660171509	-0.18011576	No	
+row_59	RIPK1	RIPK1	RIPK1	receptor (TNFRSF)-interacting serine-threonine kinase 1	9967	-0.2920529246330261	-0.17941287	No	
+row_60	CDK2	CDK2	CDK2	cyclin-dependent kinase 2	10342	-0.3169741630554199	-0.19401258	No	
+row_61	AKT1S1	AKT1S1	AKT1S1	AKT1 substrate 1 (proline-rich)	10612	-0.3354310989379883	-0.2003345	Yes	
+row_62	PRKAG1	PRKAG1	PRKAG1	protein kinase, AMP-activated, gamma 1 non-catalytic subunit	10634	-0.33690783381462097	-0.18874314	Yes	
+row_63	MAPKAP1	MAPKAP1	MAPKAP1	mitogen-activated protein kinase associated protein 1	10690	-0.3410543203353882	-0.17943849	Yes	
+row_64	PIN1	PIN1	PIN1	protein (peptidylprolyl cis/trans isomerase) NIMA-interacting 1	10730	-0.344055712223053	-0.1688651	Yes	
+row_65	RAF1	RAF1	RAF1	v-raf-1 murine leukemia viral oncogene homolog 1	10780	-0.3477449417114258	-0.15886824	Yes	
+row_66	AKT1	AKT1	AKT1	v-akt murine thymoma viral oncogene homolog 1	10949	-0.3596709668636322	-0.15697546	Yes	
+row_67	SLC2A1	SLC2A1	SLC2A1	solute carrier family 2 (facilitated glucose transporter), member 1	10959	-0.360128790140152	-0.14361697	Yes	
+row_68	NCK1	NCK1	NCK1	NCK adaptor protein 1	11000	-0.36281004548072815	-0.13238618	Yes	
+row_69	RAC1	RAC1	RAC1	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)	11227	-0.3804785907268524	-0.1338601	Yes	
+row_70	PPP2R1B	PPP2R1B	PPP2R1B	protein phosphatase 2 (formerly 2A), regulatory subunit A (PR 65), beta isoform	11414	-0.3946704566478729	-0.13190207	Yes	
+row_71	SMAD2	SMAD2	SMAD2	SMAD, mothers against DPP homolog 2 (Drosophila)	11426	-0.3956318199634552	-0.11730676	Yes	
+row_72	PDK1	PDK1	PDK1	pyruvate dehydrogenase kinase, isozyme 1	11507	-0.4025686979293823	-0.10740962	Yes	
+row_73	CSNK2B	CSNK2B	CSNK2B	casein kinase 2, beta polypeptide	11587	-0.4076162874698639	-0.09724416	Yes	
+row_74	RIT1	RIT1	RIT1	Ras-like without CAAX 1	11896	-0.43266481161117554	-0.10259235	Yes	
+row_75	PTPN11	PTPN11	PTPN11	protein tyrosine phosphatase, non-receptor type 11 (Noonan syndrome 1)	12051	-0.44672784209251404	-0.096305676	Yes	
+row_76	CLTC	CLTC	CLTC	clathrin, heavy chain (Hc)	12254	-0.4672833979129791	-0.092675515	Yes	
+row_77	E2F1	E2F1	E2F1	E2F transcription factor 1	12368	-0.47968143224716187	-0.082155205	Yes	
+row_78	PRKAR2A	PRKAR2A	PRKAR2A	protein kinase, cAMP-dependent, regulatory, type II, alpha	12436	-0.4890146851539612	-0.06795992	Yes	
+row_79	ACACA	ACACA	ACACA	acetyl-Coenzyme A carboxylase alpha	12690	-0.5190438032150269	-0.06598861	Yes	
+row_80	DDIT3	DDIT3	DDIT3	DNA-damage-inducible transcript 3	13002	-0.563759446144104	-0.06645414	Yes	
+row_81	GSK3B	GSK3B	GSK3B	glycogen synthase kinase 3 beta	13454	-0.6610162854194641	-0.07321698	Yes	
+row_82	AP2M1	AP2M1	AP2M1	adaptor-related protein complex 2, mu 1 subunit	13496	-0.6762602925300598	-0.04986717	Yes	
+row_83	CDK4	CDK4	CDK4	cyclin-dependent kinase 4	13548	-0.6903579235076904	-0.026689058	Yes	
+row_84	DUSP3	DUSP3	DUSP3	dual specificity phosphatase 3 (vaccinia virus phosphatase VH1-related)	13552	-0.6913704872131348	-1.5591417E-5	Yes	
+row_85	TRIB3	TRIB3	TRIB3	tribbles homolog 3 (Drosophila)	13758	-0.7797653079032898	0.015551931	Yes	

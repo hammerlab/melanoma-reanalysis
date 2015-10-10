@@ -1,0 +1,176 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TAP1	TAP1	TAP1	transporter 1, ATP-binding cassette, sub-family B (MDR/TAP)	113	0.9760602712631226	0.0070594284	Yes	
+row_1	TNFAIP2	TNFAIP2	TNFAIP2	tumor necrosis factor, alpha-induced protein 2	115	0.974793016910553	0.022215001	Yes	
+row_2	CCL5	CCL5	CCL5	chemokine (C-C motif) ligand 5	221	0.8862340450286865	0.028450891	Yes	
+row_3	GCH1	GCH1	GCH1	GTP cyclohydrolase 1 (dopa-responsive dystonia)	274	0.854397177696228	0.03803001	Yes	
+row_4	IL18	IL18	IL18	interleukin 18 (interferon-gamma-inducing factor)	283	0.8452954292297363	0.05065535	Yes	
+row_5	IRF1	IRF1	IRF1	interferon regulatory factor 1	285	0.8438798785209656	0.063765824	Yes	
+row_6	CCL4	CCL4	CCL4	chemokine (C-C motif) ligand 4	308	0.8318893909454346	0.075167246	Yes	
+row_7	SQSTM1	SQSTM1	SQSTM1	sequestosome 1	346	0.8125942945480347	0.08518028	Yes	
+row_8	ABCA1	ABCA1	ABCA1	ATP-binding cassette, sub-family A (ABC1), member 1	374	0.7976214289665222	0.09568405	Yes	
+row_9	IFIT2	IFIT2	IFIT2	interferon-induced protein with tetratricopeptide repeats 2	443	0.7702057361602783	0.10278853	Yes	
+row_10	CSF1	CSF1	CSF1	colony stimulating factor 1 (macrophage)	527	0.7365467548370361	0.108280234	Yes	
+row_11	IFIH1	IFIH1	IFIH1	interferon induced with helicase C domain 1	588	0.7145600318908691	0.11509514	Yes	
+row_12	TNFAIP8	TNFAIP8	TNFAIP8	tumor necrosis factor, alpha-induced protein 8	595	0.7125871777534485	0.12579226	Yes	
+row_13	CXCL10	CXCL10	CXCL10	chemokine (C-X-C motif) ligand 10	676	0.6836704015731812	0.13067533	Yes	
+row_14	TNFSF9	TNFSF9	TNFSF9	tumor necrosis factor (ligand) superfamily, member 9	697	0.6732076406478882	0.13974278	Yes	
+row_15	IL15RA	IL15RA	IL15RA	interleukin 15 receptor, alpha	757	0.652224600315094	0.14565635	Yes	
+row_16	BIRC3	BIRC3	BIRC3	baculoviral IAP repeat-containing 3	760	0.6508938074111938	0.15567957	Yes	
+row_17	PLEK	PLEK	PLEK	pleckstrin	778	0.6449586749076843	0.16452311	Yes	
+row_18	KYNU	KYNU	KYNU	kynureninase (L-kynurenine hydrolase)	815	0.6303832530975342	0.17176214	Yes	
+row_19	DUSP2	DUSP2	DUSP2	dual specificity phosphatase 2	902	0.6066479086875916	0.1750072	Yes	
+row_20	TUBB2A	TUBB2A	TUBB2A	tubulin, beta 2A	903	0.6066066026687622	0.1844835	Yes	
+row_21	CCRL2	CCRL2	CCRL2	chemokine (C-C motif) receptor-like 2	919	0.6005390286445618	0.19277805	Yes	
+row_22	DRAM1	DRAM1	null	null	952	0.5927176475524902	0.19971853	Yes	
+row_23	ICAM1	ICAM1	ICAM1	intercellular adhesion molecule 1 (CD54), human rhinovirus receptor	982	0.5862672328948975	0.20677565	Yes	
+row_24	TLR2	TLR2	TLR2	toll-like receptor 2	1024	0.5754004120826721	0.21279342	Yes	
+row_25	NFKB2	NFKB2	NFKB2	nuclear factor of kappa light polypeptide gene enhancer in B-cells 2 (p49/p100)	1036	0.5715444087982178	0.22092488	Yes	
+row_26	RELB	RELB	RELB	v-rel reticuloendotheliosis viral oncogene homolog B, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3 (avian)	1200	0.5280882120132446	0.217363	Yes	
+row_27	TNIP1	TNIP1	TNIP1	TNFAIP3 interacting protein 1	1336	0.501724898815155	0.21541823	Yes	
+row_28	EGR2	EGR2	EGR2	early growth response 2 (Krox-20 homolog, Drosophila)	1343	0.5001240968704224	0.2227963	Yes	
+row_29	SOD2	SOD2	SOD2	superoxide dismutase 2, mitochondrial	1426	0.48619773983955383	0.22444956	Yes	
+row_30	CFLAR	CFLAR	CFLAR	CASP8 and FADD-like apoptosis regulator	1493	0.47473984956741333	0.22708325	Yes	
+row_31	NFAT5	NFAT5	NFAT5	nuclear factor of activated T-cells 5, tonicity-responsive	2014	0.3950828015804291	0.195574	No	
+row_32	NFKB1	NFKB1	NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1 (p105)	2226	0.3659173846244812	0.18600045	No	
+row_33	IER5	IER5	IER5	immediate early response 5	2242	0.3631238639354706	0.19058615	No	
+row_34	RNF19B	RNF19B	null	null	2333	0.3497398793697357	0.18952797	No	
+row_35	PLAU	PLAU	PLAU	plasminogen activator, urokinase	2599	0.31630656123161316	0.17526636	No	
+row_36	PLK2	PLK2	PLK2	polo-like kinase 2 (Drosophila)	2657	0.3080386221408844	0.17594805	No	
+row_37	SLC2A6	SLC2A6	SLC2A6	solute carrier family 2 (facilitated glucose transporter), member 6	2794	0.2936509847640991	0.17068034	No	
+row_38	LITAF	LITAF	LITAF	lipopolysaccharide-induced TNF factor	2803	0.29219040274620056	0.17466517	No	
+row_39	REL	REL	REL	v-rel reticuloendotheliosis viral oncogene homolog (avian)	2910	0.2810754179954529	0.17137492	No	
+row_40	LAMB3	LAMB3	LAMB3	laminin, beta 3	2928	0.27823546528816223	0.17448959	No	
+row_41	SAT1	SAT1	SAT1	spermidine/spermine N1-acetyltransferase 1	2975	0.27400779724121094	0.17543675	No	
+row_42	ICOSLG	ICOSLG	ICOSLG	inducible T-cell co-stimulator ligand	3035	0.2669607698917389	0.1753318	No	
+row_43	TANK	TANK	TANK	TRAF family member-associated NFKB activator	3106	0.25848743319511414	0.17429738	No	
+row_44	ZBTB10	ZBTB10	ZBTB10	zinc finger and BTB domain containing 10	3400	0.2290487438440323	0.15664366	No	
+row_45	PTPRE	PTPRE	PTPRE	protein tyrosine phosphatase, receptor type, E	3586	0.21272777020931244	0.14656106	No	
+row_46	SDC4	SDC4	SDC4	syndecan 4 (amphiglycan, ryudocan)	3588	0.21237406134605408	0.14980626	No	
+row_47	IFNGR2	IFNGR2	IFNGR2	interferon gamma receptor 2 (interferon gamma transducer 1)	3657	0.2071826159954071	0.14811529	No	
+row_48	DDX58	DDX58	DDX58	DEAD (Asp-Glu-Ala-Asp) box polypeptide 58	3715	0.20153744518756866	0.14713323	No	
+row_49	IER3	IER3	IER3	immediate early response 3	3778	0.19594806432724	0.14570154	No	
+row_50	NINJ1	NINJ1	NINJ1	ninjurin 1	3824	0.1912095993757248	0.14542772	No	
+row_51	BCL3	BCL3	BCL3	B-cell CLL/lymphoma 3	4290	0.15077126026153564	0.11408739	No	
+row_52	CCL2	CCL2	CCL2	chemokine (C-C motif) ligand 2	4365	0.14546789228916168	0.11099754	No	
+row_53	NFKBIE	NFKBIE	NFKBIE	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, epsilon	4603	0.12856949865818024	0.09583212	No	
+row_54	EGR3	EGR3	EGR3	early growth response 3	4792	0.11276626586914062	0.08397054	No	
+row_55	FUT4	FUT4	FUT4	fucosyltransferase 4 (alpha (1,3) fucosyltransferase, myeloid-specific)	4858	0.10749528557062149	0.08093967	No	
+row_56	STAT5A	STAT5A	STAT5A	signal transducer and activator of transcription 5A	4934	0.10184882581233978	0.07709595	No	
+row_57	TRAF1	TRAF1	TRAF1	TNF receptor-associated factor 1	4965	0.0992535874247551	0.07647256	No	
+row_58	TRIB1	TRIB1	TRIB1	tribbles homolog 1 (Drosophila)	5064	0.09110232442617416	0.07079429	No	
+row_59	RIPK2	RIPK2	RIPK2	receptor-interacting serine-threonine kinase 2	5160	0.08507470786571503	0.06523926	No	
+row_60	CD83	CD83	CD83	CD83 molecule	5200	0.08221343159675598	0.063697495	No	
+row_61	TNIP2	TNIP2	TNIP2	TNFAIP3 interacting protein 2	5261	0.0781361535191536	0.060570296	No	
+row_62	MAP3K8	MAP3K8	MAP3K8	mitogen-activated protein kinase kinase kinase 8	5373	0.06930039077997208	0.053609416	No	
+row_63	CD44	CD44	CD44	CD44 molecule (Indian blood group)	6007	0.02330365963280201	0.008103899	No	
+row_64	TNC	TNC	TNC	tenascin C (hexabrachion)	6254	0.007214771583676338	-0.009609479	No	
+row_65	PPAP2B	PPAP2B	PPAP2B	phosphatidic acid phosphatase type 2B	6371	-0.001449613249860704	-0.01799263	No	
+row_66	MYC	MYC	MYC	v-myc myelocytomatosis viral oncogene homolog (avian)	6466	-0.00799077283591032	-0.024679394	No	
+row_67	EHD1	EHD1	EHD1	EH-domain containing 1	6520	-0.011526760645210743	-0.028339906	No	
+row_68	B4GALT1	B4GALT1	B4GALT1	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 1	6596	-0.016672713682055473	-0.033514228	No	
+row_69	NFKBIA	NFKBIA	NFKBIA	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha	6681	-0.022513549774885178	-0.039249483	No	
+row_70	ZC3H12A	ZC3H12A	ZC3H12A	zinc finger CCCH-type containing 12A	6722	-0.024710671976208687	-0.04176201	No	
+row_71	ID2	ID2	ID2	inhibitor of DNA binding 2, dominant negative helix-loop-helix protein	6740	-0.025707179680466652	-0.0425923	No	
+row_72	PHLDA1	PHLDA1	PHLDA1	pleckstrin homology-like domain, family A, member 1	6818	-0.03173411265015602	-0.047676265	No	
+row_73	SNN	SNN	SNN	stannin	6843	-0.03356994315981865	-0.04889097	No	
+row_74	SMAD3	SMAD3	SMAD3	SMAD, mothers against DPP homolog 3 (Drosophila)	6898	-0.03656598925590515	-0.052232787	No	
+row_75	KLF2	KLF2	KLF2	Kruppel-like factor 2 (lung)	7016	-0.045917779207229614	-0.05999373	No	
+row_76	LIF	LIF	LIF	leukemia inhibitory factor (cholinergic differentiation factor)	7075	-0.04969741031527519	-0.063420266	No	
+row_77	VEGFA	VEGFA	null	null	7089	-0.05136250704526901	-0.06355992	No	
+row_78	JAG1	JAG1	JAG1	jagged 1 (Alagille syndrome)	7090	-0.05136629194021225	-0.062757485	No	
+row_79	EFNA1	EFNA1	EFNA1	ephrin-A1	7091	-0.051412183791399	-0.06195433	No	
+row_80	MCL1	MCL1	MCL1	myeloid cell leukemia sequence 1 (BCL2-related)	7123	-0.052781540900468826	-0.063376166	No	
+row_81	NFE2L2	NFE2L2	NFE2L2	nuclear factor (erythroid-derived 2)-like 2	7574	-0.08415612578392029	-0.094670184	No	
+row_82	GPR183	GPR183	null	null	7625	-0.08786197751760483	-0.09692081	No	
+row_83	TNFAIP6	TNFAIP6	TNFAIP6	tumor necrosis factor, alpha-induced protein 6	7796	-0.09887439757585526	-0.10769505	No	
+row_84	SPHK1	SPHK1	SPHK1	sphingosine kinase 1	7859	-0.10317093133926392	-0.11057609	No	
+row_85	MAP2K3	MAP2K3	MAP2K3	mitogen-activated protein kinase kinase 3	7993	-0.1099306121468544	-0.118496455	No	
+row_86	BIRC2	BIRC2	BIRC2	baculoviral IAP repeat-containing 2	8018	-0.11175576597452164	-0.11848976	No	
+row_87	KLF10	KLF10	KLF10	Kruppel-like factor 10	8103	-0.11932384222745895	-0.12271266	No	
+row_88	TNFAIP3	TNFAIP3	TNFAIP3	tumor necrosis factor, alpha-induced protein 3	8153	-0.12228363007307053	-0.12435309	No	
+row_89	CEBPD	CEBPD	CEBPD	CCAAT/enhancer binding protein (C/EBP), delta	8180	-0.12389948219060898	-0.12430161	No	
+row_90	PFKFB3	PFKFB3	PFKFB3	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 3	8182	-0.12393301725387573	-0.12243802	No	
+row_91	IL6ST	IL6ST	IL6ST	interleukin 6 signal transducer (gp130, oncostatin M receptor)	8191	-0.12469508498907089	-0.12106977	No	
+row_92	INHBA	INHBA	INHBA	inhibin, beta A (activin A, activin AB alpha polypeptide)	8326	-0.13448093831539154	-0.12867907	No	
+row_93	RELA	RELA	RELA	v-rel reticuloendotheliosis viral oncogene homolog A, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3, p65 (avian)	8604	-0.15213681757450104	-0.14637488	No	
+row_94	SERPINB8	SERPINB8	SERPINB8	serpin peptidase inhibitor, clade B (ovalbumin), member 8	8615	-0.15293559432029724	-0.14471039	No	
+row_95	CEBPB	CEBPB	CEBPB	CCAAT/enhancer binding protein (C/EBP), beta	8810	-0.1656990647315979	-0.15617985	No	
+row_96	IRS2	IRS2	IRS2	insulin receptor substrate 2	8858	-0.16848692297935486	-0.15695356	No	
+row_97	TRIP10	TRIP10	TRIP10	thyroid hormone receptor interactor 10	9302	-0.19846361875534058	-0.18595465	No	
+row_98	RCAN1	RCAN1	null	null	9413	-0.2076394408941269	-0.19068196	No	
+row_99	PHLDA2	PHLDA2	PHLDA2	pleckstrin homology-like domain, family A, member 2	9509	-0.2135286033153534	-0.19423032	No	
+row_100	CDKN1A	CDKN1A	CDKN1A	cyclin-dependent kinase inhibitor 1A (p21, Cip1)	9510	-0.21355769038200378	-0.19089416	No	
+row_101	IER2	IER2	IER2	immediate early response 2	9541	-0.21564923226833344	-0.18969923	No	
+row_102	NR4A2	NR4A2	NR4A2	nuclear receptor subfamily 4, group A, member 2	9729	-0.22912083566188812	-0.19967067	No	
+row_103	PLAUR	PLAUR	PLAUR	plasminogen activator, urokinase receptor	9767	-0.2324775606393814	-0.19872011	No	
+row_104	MXD1	MXD1	MXD1	MAX dimerization protein 1	9974	-0.2483525276184082	-0.20976792	No	
+row_105	DNAJB4	DNAJB4	DNAJB4	DnaJ (Hsp40) homolog, subfamily B, member 4	10039	-0.25333666801452637	-0.21044803	No	
+row_106	BTG2	BTG2	BTG2	BTG family, member 2	10180	-0.26330897212028503	-0.2164796	No	
+row_107	JUNB	JUNB	JUNB	jun B proto-oncogene	10379	-0.2783052623271942	-0.22647978	No	
+row_108	EIF1	EIF1	EIF1	eukaryotic translation initiation factor 1	10412	-0.28094401955604553	-0.22440977	No	
+row_109	YRDC	YRDC	YRDC	yrdC domain containing (E. coli)	10423	-0.2819783091545105	-0.2207294	No	
+row_110	CCNL1	CCNL1	CCNL1	cyclin L1	10464	-0.285006046295166	-0.21917564	No	
+row_111	GADD45B	GADD45B	GADD45B	growth arrest and DNA-damage-inducible, beta	10487	-0.28699570894241333	-0.21628645	No	
+row_112	BTG3	BTG3	BTG3	BTG family, member 3	10568	-0.29282310605049133	-0.21750912	No	
+row_113	SLC2A3	SLC2A3	SLC2A3	solute carrier family 2 (facilitated glucose transporter), member 3	10654	-0.2994596064090729	-0.21899043	No	
+row_114	F3	F3	F3	coagulation factor III (thromboplastin, tissue factor)	10734	-0.30517688393592834	-0.21994765	No	
+row_115	ATP2B1	ATP2B1	ATP2B1	ATPase, Ca++ transporting, plasma membrane 1	10747	-0.3066159784793854	-0.21602732	No	
+row_116	PNRC1	PNRC1	PNRC1	proline-rich nuclear receptor coactivator 1	10818	-0.3114410638809204	-0.2162345	No	
+row_117	PANX1	PANX1	PANX1	pannexin 1	10825	-0.31183144450187683	-0.21179792	No	
+row_118	DUSP1	DUSP1	DUSP1	dual specificity phosphatase 1	10839	-0.3125731348991394	-0.20785698	No	
+row_119	ETS2	ETS2	ETS2	v-ets erythroblastosis virus E26 oncogene homolog 2 (avian)	10843	-0.3128094971179962	-0.20318773	No	
+row_120	KLF9	KLF9	KLF9	Kruppel-like factor 9	10886	-0.316817045211792	-0.20128195	No	
+row_121	PTX3	PTX3	PTX3	pentraxin-related gene, rapidly induced by IL-1 beta	10924	-0.31916573643684387	-0.19897716	No	
+row_122	KLF6	KLF6	KLF6	Kruppel-like factor 6	11083	-0.3323276937007904	-0.20523487	No	
+row_123	SGK1	SGK1	null	null	11201	-0.3426925241947174	-0.20835966	No	
+row_124	FJX1	FJX1	FJX1	four jointed box 1 (Drosophila)	11240	-0.34602633118629456	-0.20570771	No	
+row_125	BCL6	BCL6	BCL6	B-cell CLL/lymphoma 6 (zinc finger protein 51)	11301	-0.35055387020111084	-0.20457925	No	
+row_126	CLCF1	CLCF1	CLCF1	cardiotrophin-like cytokine factor 1	11340	-0.35382339358329773	-0.20180552	No	
+row_127	ZFP36	ZFP36	ZFP36	zinc finger protein 36, C3H type, homolog (mouse)	11441	-0.363261878490448	-0.20337708	No	
+row_128	NFIL3	NFIL3	NFIL3	nuclear factor, interleukin 3 regulated	11553	-0.3723657429218292	-0.20560353	No	
+row_129	DENND5A	DENND5A	null	null	11563	-0.3736613988876343	-0.20041843	No	
+row_130	CCND1	CCND1	CCND1	cyclin D1	11597	-0.3767092525959015	-0.19692485	No	
+row_131	LDLR	LDLR	LDLR	low density lipoprotein receptor (familial hypercholesterolemia)	11610	-0.3782879114151001	-0.19188488	No	
+row_132	KDM6B	KDM6B	null	null	11643	-0.3806789815425873	-0.18825682	No	
+row_133	GADD45A	GADD45A	GADD45A	growth arrest and DNA-damage-inducible, alpha	11679	-0.38511425256729126	-0.18477687	No	
+row_134	GFPT2	GFPT2	GFPT2	glutamine-fructose-6-phosphate transaminase 2	11681	-0.38517698645591736	-0.17883217	No	
+row_135	DUSP5	DUSP5	DUSP5	dual specificity phosphatase 5	11703	-0.38674038648605347	-0.17431232	No	
+row_136	BCL2A1	BCL2A1	BCL2A1	BCL2-related protein A1	11735	-0.3897249698638916	-0.17047049	No	
+row_137	MARCKS	MARCKS	MARCKS	myristoylated alanine-rich protein kinase C substrate	11801	-0.39639806747436523	-0.16898817	No	
+row_138	NAMPT	NAMPT	null	null	11870	-0.40290337800979614	-0.16762163	No	
+row_139	KLF4	KLF4	KLF4	Kruppel-like factor 4 (gut)	11968	-0.41254785656929016	-0.16820587	No	
+row_140	FOSB	FOSB	FOSB	FBJ murine osteosarcoma viral oncogene homolog B	12032	-0.42001795768737793	-0.16620964	No	
+row_141	CXCL2	CXCL2	CXCL2	chemokine (C-X-C motif) ligand 2	12057	-0.42162397503852844	-0.16136223	No	
+row_142	EDN1	EDN1	EDN1	endothelin 1	12062	-0.4221833348274231	-0.15505682	No	
+row_143	SIK1	SIK1	null	null	12099	-0.425531268119812	-0.15101795	No	
+row_144	HBEGF	HBEGF	HBEGF	heparin-binding EGF-like growth factor	12112	-0.42714306712150574	-0.14521477	No	
+row_145	TIPARP	TIPARP	TIPARP	TCDD-inducible poly(ADP-ribose) polymerase	12124	-0.4282098710536957	-0.13932244	No	
+row_146	BMP2	BMP2	BMP2	bone morphogenetic protein 2	12173	-0.4329370856285095	-0.13603744	No	
+row_147	SOCS3	SOCS3	SOCS3	suppressor of cytokine signaling 3	12224	-0.4391247630119324	-0.13280071	No	
+row_148	NR4A3	NR4A3	NR4A3	nuclear receptor subfamily 4, group A, member 3	12233	-0.43973878026008606	-0.1265109	No	
+row_149	DUSP4	DUSP4	DUSP4	dual specificity phosphatase 4	12249	-0.4417303502559662	-0.12069722	No	
+row_150	MAFF	MAFF	MAFF	v-maf musculoaponeurotic fibrosarcoma oncogene homolog F (avian)	12278	-0.44485509395599365	-0.11577677	No	
+row_151	RHOB	RHOB	RHOB	ras homolog gene family, member B	12340	-0.45183324813842773	-0.1131386	No	
+row_152	SLC16A6	SLC16A6	SLC16A6	solute carrier family 16, member 6 (monocarboxylic acid transporter 7)	12386	-0.45682334899902344	-0.10926306	No	
+row_153	ATF3	ATF3	ATF3	activating transcription factor 3	12516	-0.4715210795402527	-0.11124487	No	
+row_154	PDLIM5	PDLIM5	PDLIM5	PDZ and LIM domain 5	12625	-0.4860217869281769	-0.11147842	No	
+row_155	BHLHE40	BHLHE40	null	null	12648	-0.4900869131088257	-0.10541657	No	
+row_156	NR4A1	NR4A1	NR4A1	nuclear receptor subfamily 4, group A, member 1	12651	-0.49016937613487244	-0.09790416	No	
+row_157	FOSL2	FOSL2	FOSL2	FOS-like antigen 2	12665	-0.49202266335487366	-0.0911599	No	
+row_158	SPSB1	SPSB1	SPSB1	splA/ryanodine receptor domain and SOCS box containing 1	12741	-0.5014540553092957	-0.08876106	No	
+row_159	FOSL1	FOSL1	FOSL1	FOS-like antigen 1	13009	-0.5482924580574036	-0.099543564	No	
+row_160	CYR61	CYR61	CYR61	cysteine-rich, angiogenic inducer, 61	13080	-0.5635436177253723	-0.095812455	No	
+row_161	GEM	GEM	GEM	GTP binding protein overexpressed in skeletal muscle	13098	-0.5684182047843933	-0.08816461	No	
+row_162	SERPINE1	SERPINE1	SERPINE1	serpin peptidase inhibitor, clade E (nexin, plasminogen activator inhibitor type 1), member 1	13174	-0.5838399529457092	-0.08447876	No	
+row_163	JUN	JUN	JUN	jun oncogene	13253	-0.598728597164154	-0.080777705	No	
+row_164	MSC	MSC	MSC	musculin (activated B-cell factor-1)	13319	-0.6130627989768982	-0.075910695	No	
+row_165	PMEPA1	PMEPA1	null	null	13402	-0.6337280869483948	-0.07195274	No	
+row_166	EGR1	EGR1	EGR1	early growth response 1	13413	-0.6370289325714111	-0.06272583	No	
+row_167	HES1	HES1	HES1	hairy and enhancer of split 1, (Drosophila)	13454	-0.6560928225517273	-0.055375017	No	
+row_168	PER1	PER1	PER1	period homolog 1 (Drosophila)	13483	-0.6660886406898499	-0.04699849	No	
+row_169	B4GALT5	B4GALT5	B4GALT5	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 5	13556	-0.692838728427887	-0.041392483	No	
+row_170	TGIF1	TGIF1	null	null	13666	-0.7362211346626282	-0.037789922	No	
+row_171	BTG1	BTG1	BTG1	B-cell translocation gene 1, anti-proliferative	13731	-0.7812238931655884	-0.030223466	No	
+row_172	TSC22D1	TSC22D1	TSC22D1	TSC22 domain family, member 1	13866	-0.9163497686386108	-0.025618562	No	
+row_173	PPP1R15A	PPP1R15A	PPP1R15A	protein phosphatase 1, regulatory (inhibitor) subunit 15A	13905	-0.9933866858482361	-0.012853683	No	
+row_174	FOS	FOS	FOS	v-fos FBJ murine osteosarcoma viral oncogene homolog	13949	-1.1382135152816772	0.0018113371	No	
