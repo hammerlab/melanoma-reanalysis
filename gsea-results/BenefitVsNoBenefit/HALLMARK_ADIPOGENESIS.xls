@@ -1,0 +1,178 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	UBC	UBC	UBC	ubiquitin C	33	0.5215487480163574	0.014801461	Yes	
+row_1	ACADS	ACADS	ACADS	acyl-Coenzyme A dehydrogenase, C-2 to C-3 short chain	135	0.4328177571296692	0.021749612	Yes	
+row_2	TALDO1	TALDO1	TALDO1	transaldolase 1	139	0.4296984374523163	0.03569741	Yes	
+row_3	LPCAT3	LPCAT3	null	null	201	0.4057333469390869	0.04465168	Yes	
+row_4	GPD2	GPD2	GPD2	glycerol-3-phosphate dehydrogenase 2 (mitochondrial)	208	0.4040926992893219	0.05753795	Yes	
+row_5	HSPB8	HSPB8	HSPB8	heat shock 22kDa protein 8	249	0.38998645544052124	0.06749508	Yes	
+row_6	REEP6	REEP6	REEP6	receptor accessory protein 6	369	0.35538914799690247	0.07058621	Yes	
+row_7	CD302	CD302	CD302	CD302 molecule	408	0.3450622260570526	0.07920734	Yes	
+row_8	SOD1	SOD1	SOD1	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))	490	0.3260122537612915	0.08408408	Yes	
+row_9	STOM	STOM	STOM	stomatin	534	0.31531569361686707	0.09136222	Yes	
+row_10	SQRDL	SQRDL	SQRDL	sulfide quinone reductase-like (yeast)	553	0.3121693432331085	0.1003485	Yes	
+row_11	AGPAT3	AGPAT3	AGPAT3	1-acylglycerol-3-phosphate O-acyltransferase 3	601	0.3018832206726074	0.10689394	Yes	
+row_12	RIOK3	RIOK3	RIOK3	RIO kinase 3 (yeast)	616	0.29937928915023804	0.11574849	Yes	
+row_13	CD36	CD36	CD36	CD36 molecule (thrombospondin receptor)	660	0.2914324998855591	0.122239314	Yes	
+row_14	SULT1A1	SULT1A1	SULT1A1	sulfotransferase family, cytosolic, 1A, phenol-preferring, member 1	700	0.2818658649921417	0.12870467	Yes	
+row_15	APLP2	APLP2	APLP2	amyloid beta (A4) precursor-like protein 2	769	0.2720837891101837	0.13274579	Yes	
+row_16	SCP2	SCP2	SCP2	sterol carrier protein 2	871	0.2579653263092041	0.13392983	Yes	
+row_17	PQLC3	PQLC3	PQLC3	PQ loop repeat containing 3	910	0.2520590126514435	0.13948506	Yes	
+row_18	MDH2	MDH2	MDH2	malate dehydrogenase 2, NAD (mitochondrial)	923	0.24982541799545288	0.146851	Yes	
+row_19	ABCA1	ABCA1	ABCA1	ATP-binding cassette, sub-family A (ABC1), member 1	934	0.24874646961688995	0.1543263	Yes	
+row_20	TOB1	TOB1	TOB1	transducer of ERBB2, 1	1023	0.23874983191490173	0.15581907	Yes	
+row_21	TANK	TANK	TANK	TRAF family member-associated NFKB activator	1054	0.23595799505710602	0.16142331	Yes	
+row_22	ALDH2	ALDH2	ALDH2	aldehyde dehydrogenase 2 family (mitochondrial)	1083	0.23129741847515106	0.16701888	Yes	
+row_23	COX8A	COX8A	COX8A	cytochrome c oxidase subunit 8A (ubiquitous)	1112	0.227281853556633	0.17248204	Yes	
+row_24	RETSAT	RETSAT	RETSAT	retinol saturase (all-trans-retinol 13,14-reductase)	1146	0.2228648066520691	0.17743725	Yes	
+row_25	CPT2	CPT2	CPT2	carnitine palmitoyltransferase II	1188	0.21932321786880493	0.18169591	Yes	
+row_26	IDH1	IDH1	IDH1	isocitrate dehydrogenase 1 (NADP+), soluble	1209	0.21644771099090576	0.18738171	Yes	
+row_27	REEP5	REEP5	REEP5	receptor accessory protein 5	1269	0.20864520967006683	0.18998383	Yes	
+row_28	RREB1	RREB1	RREB1	ras responsive element binding protein 1	1336	0.20183992385864258	0.19185428	Yes	
+row_29	DGAT1	DGAT1	DGAT1	diacylglycerol O-acyltransferase homolog 1 (mouse)	1360	0.19962483644485474	0.1967681	Yes	
+row_30	ME1	ME1	ME1	malic enzyme 1, NADP(+)-dependent, cytosolic	1363	0.19956649839878082	0.20320196	Yes	
+row_31	ECHS1	ECHS1	ECHS1	enoyl Coenzyme A hydratase, short chain, 1, mitochondrial	1475	0.1896098107099533	0.20140791	Yes	
+row_32	MRPL15	MRPL15	MRPL15	mitochondrial ribosomal protein L15	1535	0.18373548984527588	0.20318885	Yes	
+row_33	COX6A1	COX6A1	COX6A1	cytochrome c oxidase subunit VIa polypeptide 1	1539	0.183208167552948	0.20901097	Yes	
+row_34	SLC27A1	SLC27A1	SLC27A1	solute carrier family 27 (fatty acid transporter), member 1	1686	0.17078018188476562	0.20405959	Yes	
+row_35	DECR1	DECR1	DECR1	2,4-dienoyl CoA reductase 1, mitochondrial	1696	0.17041710019111633	0.2090252	Yes	
+row_36	ARL4A	ARL4A	ARL4A	ADP-ribosylation factor-like 4A	1706	0.16961073875427246	0.21396424	Yes	
+row_37	ANGPT1	ANGPT1	ANGPT1	angiopoietin 1	1763	0.1652306467294693	0.21535258	Yes	
+row_38	GPX3	GPX3	GPX3	glutathione peroxidase 3 (plasma)	1771	0.1648353636264801	0.22027914	Yes	
+row_39	NMT1	NMT1	NMT1	N-myristoyltransferase 1	1814	0.16199356317520142	0.22257543	Yes	
+row_40	STAT5A	STAT5A	STAT5A	signal transducer and activator of transcription 5A	1820	0.1613536775112152	0.22753216	Yes	
+row_41	DRAM2	DRAM2	null	null	1824	0.1612412929534912	0.23263013	Yes	
+row_42	CAT	CAT	CAT	catalase	1827	0.16097521781921387	0.2377918	Yes	
+row_43	ALDOA	ALDOA	ALDOA	aldolase A, fructose-bisphosphate	1848	0.1591181755065918	0.24158773	Yes	
+row_44	NKIRAS1	NKIRAS1	NKIRAS1	NFKB inhibitor interacting Ras-like 1	1852	0.15857402980327606	0.24659778	Yes	
+row_45	YWHAG	YWHAG	YWHAG	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, gamma polypeptide	1862	0.15792138874530792	0.25115147	Yes	
+row_46	SLC1A5	SLC1A5	SLC1A5	solute carrier family 1 (neutral amino acid transporter), member 5	1935	0.15336307883262634	0.25098902	Yes	
+row_47	CYC1	CYC1	CYC1	cytochrome c-1	1997	0.14909157156944275	0.25148296	Yes	
+row_48	MGST3	MGST3	MGST3	microsomal glutathione S-transferase 3	1999	0.14907322824001312	0.25632477	Yes	
+row_49	NDUFB7	NDUFB7	NDUFB7	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 7, 18kDa	2012	0.14796125888824463	0.26033267	Yes	
+row_50	GPX4	GPX4	GPX4	glutathione peroxidase 4 (phospholipid hydroperoxidase)	2184	0.13473603129386902	0.25238124	Yes	
+row_51	ETFB	ETFB	ETFB	electron-transfer-flavoprotein, beta polypeptide	2195	0.13367263972759247	0.25606307	Yes	
+row_52	BCKDHA	BCKDHA	BCKDHA	branched chain keto acid dehydrogenase E1, alpha polypeptide	2227	0.13138027489185333	0.2581474	Yes	
+row_53	MAP4K3	MAP4K3	MAP4K3	mitogen-activated protein kinase kinase kinase kinase 3	2254	0.12907736003398895	0.26051813	Yes	
+row_54	SLC19A1	SLC19A1	SLC19A1	solute carrier family 19 (folate transporter), member 1	2261	0.12882737815380096	0.26433015	Yes	
+row_55	TST	TST	TST	thiosulfate sulfurtransferase (rhodanese)	2265	0.12865251302719116	0.26835382	Yes	
+row_56	PPARG	PPARG	PPARG	peroxisome proliferative activated receptor, gamma	2316	0.12554185092449188	0.26886865	Yes	
+row_57	SDHB	SDHB	SDHB	succinate dehydrogenase complex, subunit B, iron sulfur (Ip)	2435	0.11793261766433716	0.2642044	No	
+row_58	ESRRA	ESRRA	ESRRA	estrogen-related receptor alpha	2473	0.11521545797586441	0.265321	No	
+row_59	COX7B	COX7B	COX7B	cytochrome c oxidase subunit VIIb	2550	0.11061747372150421	0.2634595	No	
+row_60	PFKFB3	PFKFB3	PFKFB3	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 3	2646	0.10491300374269485	0.26003295	No	
+row_61	RNF11	RNF11	RNF11	ring finger protein 11	2678	0.10291287302970886	0.26117882	No	
+row_62	PREB	PREB	PREB	prolactin regulatory element binding	2706	0.10115618258714676	0.2625567	No	
+row_63	CMPK1	CMPK1	null	null	2846	0.09255023300647736	0.25553373	No	
+row_64	UCK1	UCK1	UCK1	uridine-cytidine kinase 1	2977	0.08482033759355545	0.24890822	No	
+row_65	DLAT	DLAT	DLAT	dihydrolipoamide S-acetyltransferase (E2 component of pyruvate dehydrogenase complex)	3001	0.0835583508014679	0.24999586	No	
+row_66	BCL6	BCL6	BCL6	B-cell CLL/lymphoma 6 (zinc finger protein 51)	3030	0.0819125697016716	0.25066686	No	
+row_67	ELOVL6	ELOVL6	ELOVL6	ELOVL family member 6, elongation of long chain fatty acids (FEN1/Elo2, SUR4/Elo3-like, yeast)	3085	0.07881227135658264	0.24935134	No	
+row_68	UBQLN1	UBQLN1	UBQLN1	ubiquilin 1	3150	0.07567142695188522	0.24720754	No	
+row_69	BAZ2A	BAZ2A	BAZ2A	bromodomain adjacent to zinc finger domain, 2A	3198	0.07307635247707367	0.24621025	No	
+row_70	LPL	LPL	LPL	lipoprotein lipase	3262	0.06973248720169067	0.24394313	No	
+row_71	DNAJC15	DNAJC15	DNAJC15	DnaJ (Hsp40) homolog, subfamily C, member 15	3285	0.06831658631563187	0.24460079	No	
+row_72	CRAT	CRAT	CRAT	carnitine acetyltransferase	3419	0.06164348125457764	0.23699382	No	
+row_73	UQCR11	UQCR11	null	null	3462	0.05855601653456688	0.23588023	No	
+row_74	DBT	DBT	DBT	dihydrolipoamide branched chain transacylase E2	3471	0.05837419256567955	0.23722476	No	
+row_75	PFKL	PFKL	PFKL	phosphofructokinase, liver	3499	0.05698949471116066	0.23714665	No	
+row_76	TKT	TKT	TKT	transketolase (Wernicke-Korsakoff syndrome)	3585	0.05321155861020088	0.23274048	No	
+row_77	AK2	AK2	AK2	adenylate kinase 2	3652	0.050184041261672974	0.22961152	No	
+row_78	IFNGR1	IFNGR1	IFNGR1	interferon gamma receptor 1	3665	0.04961826279759407	0.23037751	No	
+row_79	DNAJB9	DNAJB9	DNAJB9	DnaJ (Hsp40) homolog, subfamily B, member 9	3885	0.03845880180597305	0.21577346	No	
+row_80	VEGFB	VEGFB	VEGFB	vascular endothelial growth factor B	3995	0.033802200108766556	0.20898807	No	
+row_81	CD151	CD151	CD151	CD151 molecule (Raph blood group)	4010	0.033196818083524704	0.20906778	No	
+row_82	QDPR	QDPR	QDPR	quinoid dihydropteridine reductase	4015	0.03290645405650139	0.20986266	No	
+row_83	APOE	APOE	APOE	apolipoprotein E	4125	0.028697170317173004	0.20290898	No	
+row_84	PDCD4	PDCD4	PDCD4	programmed cell death 4 (neoplastic transformation inhibitor)	4199	0.026405377313494682	0.19848883	No	
+row_85	PRDX3	PRDX3	PRDX3	peroxiredoxin 3	4339	0.020335542038083076	0.18908527	No	
+row_86	HIBCH	HIBCH	HIBCH	3-hydroxyisobutyryl-Coenzyme A hydrolase	4422	0.016994938254356384	0.18370263	No	
+row_87	PEX14	PEX14	PEX14	peroxisomal biogenesis factor 14	4451	0.015589706599712372	0.18218727	No	
+row_88	PLIN2	PLIN2	null	null	4535	0.012995190918445587	0.1766003	No	
+row_89	UCP2	UCP2	UCP2	uncoupling protein 2 (mitochondrial, proton carrier)	4558	0.012154048308730125	0.17540653	No	
+row_90	ACLY	ACLY	ACLY	ATP citrate lyase	4600	0.01081543043255806	0.17279163	No	
+row_91	MGLL	MGLL	MGLL	monoglyceride lipase	4618	0.010124561376869678	0.17189333	No	
+row_92	ACOX1	ACOX1	ACOX1	acyl-Coenzyme A oxidase 1, palmitoyl	4679	0.007352306507527828	0.16778724	No	
+row_93	RTN3	RTN3	RTN3	reticulon 3	4730	0.005086258053779602	0.1643312	No	
+row_94	ATL2	ATL2	null	null	4746	0.004286955110728741	0.1633854	No	
+row_95	SLC5A6	SLC5A6	SLC5A6	solute carrier family 5 (sodium-dependent vitamin transporter), member 6	4917	-0.0035078306682407856	0.15118042	No	
+row_96	ABCB8	ABCB8	ABCB8	ATP-binding cassette, sub-family B (MDR/TAP), member 8	5059	-0.009310271590948105	0.14126846	No	
+row_97	CS	CS	CS	citrate synthase	5103	-0.010810162872076035	0.13850842	No	
+row_98	G3BP2	G3BP2	G3BP2	-	5119	-0.01137224119156599	0.13779621	No	
+row_99	CCNG2	CCNG2	CCNG2	cyclin G2	5430	-0.022633960470557213	0.11607532	No	
+row_100	UQCRC1	UQCRC1	UQCRC1	ubiquinol-cytochrome c reductase core protein I	5499	-0.02520045079290867	0.111977816	No	
+row_101	DLD	DLD	DLD	dihydrolipoamide dehydrogenase	5519	-0.026172729209065437	0.11146361	No	
+row_102	CDKN2C	CDKN2C	CDKN2C	cyclin-dependent kinase inhibitor 2C (p18, inhibits CDK4)	5641	-0.030343545600771904	0.103694506	No	
+row_103	NDUFAB1	NDUFAB1	NDUFAB1	NADH dehydrogenase (ubiquinone) 1, alpha/beta subcomplex, 1, 8kDa	5664	-0.03128204122185707	0.1031313	No	
+row_104	ANGPTL4	ANGPTL4	ANGPTL4	angiopoietin-like 4	5698	-0.0322515070438385	0.10180283	No	
+row_105	ACADM	ACADM	ACADM	acyl-Coenzyme A dehydrogenase, C-4 to C-12 straight chain	6000	-0.04551272466778755	0.08148843	No	
+row_106	CHUK	CHUK	CHUK	conserved helix-loop-helix ubiquitous kinase	6130	-0.04979870095849037	0.07378089	No	
+row_107	SDHC	SDHC	SDHC	succinate dehydrogenase complex, subunit C, integral membrane protein, 15kDa	6134	-0.049978166818618774	0.07521102	No	
+row_108	UQCRQ	UQCRQ	UQCRQ	ubiquinol-cytochrome c reductase, complex III subunit VII, 9.5kDa	6603	-0.06795240193605423	0.043533146	No	
+row_109	COQ5	COQ5	COQ5	coenzyme Q5 homolog, methyltransferase (S. cerevisiae)	7009	-0.08181970566511154	0.016878292	No	
+row_110	AGPAT6	AGPAT6	AGPAT6	1-acylglycerol-3-phosphate O-acyltransferase 6 (lysophosphatidic acid acyltransferase, zeta)	7047	-0.08376451581716537	0.016958084	No	
+row_111	PPM1B	PPM1B	PPM1B	protein phosphatase 1B (formerly 2C), magnesium-dependent, beta isoform	7201	-0.08895990997552872	0.008802127	No	
+row_112	GHITM	GHITM	GHITM	growth hormone inducible transmembrane protein	7277	-0.09117724746465683	0.00637226	No	
+row_113	DDT	DDT	DDT	D-dopachrome tautomerase	7334	-0.0933963805437088	0.0053925584	No	
+row_114	SLC25A10	SLC25A10	SLC25A10	solute carrier family 25 (mitochondrial carrier; dicarboxylate transporter), member 10	7345	-0.09388167411088943	0.0077626714	No	
+row_115	SUCLG1	SUCLG1	SUCLG1	succinate-CoA ligase, GDP-forming, alpha subunit	7520	-0.10027676820755005	-0.0015421784	No	
+row_116	COQ9	COQ9	COQ9	coenzyme Q9 homolog (S. cerevisiae)	7660	-0.10554701834917068	-0.008136692	No	
+row_117	IMMT	IMMT	IMMT	inner membrane protein, mitochondrial (mitofilin)	7706	-0.10742902755737305	-0.007856584	No	
+row_118	FAH	FAH	FAH	fumarylacetoacetate hydrolase (fumarylacetoacetase)	7824	-0.11143051087856293	-0.012662712	No	
+row_119	DHRS7	DHRS7	DHRS7	dehydrogenase/reductase (SDR family) member 7	7878	-0.11291158199310303	-0.012781662	No	
+row_120	ATP5O	ATP5O	ATP5O	ATP synthase, H+ transporting, mitochondrial F1 complex, O subunit (oligomycin sensitivity conferring protein)	7953	-0.11559485644102097	-0.014334116	No	
+row_121	POR	POR	POR	P450 (cytochrome) oxidoreductase	8026	-0.11800701916217804	-0.015662104	No	
+row_122	SPARCL1	SPARCL1	SPARCL1	SPARC-like 1 (mast9, hevin)	8125	-0.12127876281738281	-0.018766569	No	
+row_123	GADD45A	GADD45A	GADD45A	growth arrest and DNA-damage-inducible, alpha	8142	-0.12172728031873703	-0.015913356	No	
+row_124	MTCH2	MTCH2	MTCH2	mitochondrial carrier homolog 2 (C. elegans)	8154	-0.12209416180849075	-0.01268568	No	
+row_125	HADH	HADH	HADH	hydroxyacyl-Coenzyme A dehydrogenase	8227	-0.12488187104463577	-0.013787034	No	
+row_126	PHLDB1	PHLDB1	PHLDB1	pleckstrin homology-like domain, family B, member 1	8310	-0.12766490876674652	-0.015521388	No	
+row_127	FAM73B	FAM73B	FAM73B	family with sequence similarity 73, member B	8570	-0.13650818169116974	-0.029792164	No	
+row_128	COQ3	COQ3	COQ3	coenzyme Q3 homolog, methyltransferase (S. cerevisiae)	8710	-0.1420835554599762	-0.035182234	No	
+row_129	NDUFA5	NDUFA5	NDUFA5	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 5, 13kDa	8790	-0.14471271634101868	-0.036137175	No	
+row_130	PPP1R15B	PPP1R15B	PPP1R15B	protein phosphatase 1, regulatory (inhibitor) subunit 15B	8793	-0.14495161175727844	-0.031503722	No	
+row_131	NDUFS3	NDUFS3	NDUFS3	NADH dehydrogenase (ubiquinone) Fe-S protein 3, 30kDa (NADH-coenzyme Q reductase)	8978	-0.150875061750412	-0.039865315	No	
+row_132	ITSN1	ITSN1	ITSN1	intersectin 1 (SH3 domain protein)	9038	-0.15322670340538025	-0.039090104	No	
+row_133	RAB34	RAB34	RAB34	RAB34, member RAS oncogene family	9300	-0.16309618949890137	-0.052629344	No	
+row_134	ECH1	ECH1	ECH1	enoyl Coenzyme A hydratase 1, peroxisomal	9309	-0.16338051855564117	-0.047823217	No	
+row_135	ATP1B3	ATP1B3	ATP1B3	ATPase, Na+/K+ transporting, beta 3 polypeptide	9438	-0.16773560643196106	-0.051570438	No	
+row_136	DHRS7B	DHRS7B	DHRS7B	dehydrogenase/reductase (SDR family) member 7B	9481	-0.169290691614151	-0.049033605	No	
+row_137	AIFM1	AIFM1	null	null	9695	-0.1776437759399414	-0.05861451	No	
+row_138	ESYT1	ESYT1	null	null	9731	-0.1790996491909027	-0.055247	No	
+row_139	COL15A1	COL15A1	COL15A1	collagen, type XV, alpha 1	9791	-0.18100176751613617	-0.05355617	No	
+row_140	GRPEL1	GRPEL1	GRPEL1	GrpE-like 1, mitochondrial (E. coli)	9909	-0.18509264290332794	-0.05593399	No	
+row_141	ADIPOR2	ADIPOR2	ADIPOR2	adiponectin receptor 2	10003	-0.1892460584640503	-0.056435507	No	
+row_142	SLC25A1	SLC25A1	SLC25A1	solute carrier family 25 (mitochondrial carrier; citrate transporter), member 1	10005	-0.18932877480983734	-0.050266664	No	
+row_143	ACO2	ACO2	ACO2	aconitase 2, mitochondrial	10194	-0.1964668333530426	-0.057415202	No	
+row_144	BCL2L13	BCL2L13	BCL2L13	BCL2-like 13 (apoptosis facilitator)	10450	-0.2066543847322464	-0.069083676	No	
+row_145	MYLK	MYLK	MYLK	myosin, light chain kinase	10486	-0.2083854228258133	-0.064750746	No	
+row_146	PTRF	PTRF	PTRF	polymerase I and transcript release factor	10495	-0.20868375897407532	-0.05845118	No	
+row_147	SAMM50	SAMM50	SAMM50	sorting and assembly machinery component 50 homolog (S. cerevisiae)	10690	-0.21626907587051392	-0.06538177	No	
+row_148	IDH3A	IDH3A	IDH3A	isocitrate dehydrogenase 3 (NAD+) alpha	10708	-0.2171589583158493	-0.05945508	No	
+row_149	DHCR7	DHCR7	DHCR7	7-dehydrocholesterol reductase	10764	-0.21922090649604797	-0.05621444	No	
+row_150	SDPR	SDPR	SDPR	serum deprivation response (phosphatidylserine binding protein)	10915	-0.2251894623041153	-0.0596621	No	
+row_151	JAGN1	JAGN1	JAGN1	jagunal homolog 1 (Drosophila)	11023	-0.23002196848392487	-0.05983406	No	
+row_152	GBE1	GBE1	GBE1	glucan (1,4-alpha-), branching enzyme 1 (glycogen branching enzyme, Andersen disease, glycogen storage disease type IV)	11024	-0.230182483792305	-0.05224598	No	
+row_153	ELMOD3	ELMOD3	null	null	11099	-0.23424409329891205	-0.049887102	No	
+row_154	CHCHD10	CHCHD10	null	null	11187	-0.23812107741832733	-0.048342586	No	
+row_155	FZD4	FZD4	FZD4	frizzled homolog 4 (Drosophila)	11402	-0.24807332456111908	-0.055674218	No	
+row_156	PTCD3	PTCD3	PTCD3	Pentatricopeptide repeat domain 3	11403	-0.2480885535478592	-0.047495857	No	
+row_157	UQCR10	UQCR10	null	null	11592	-0.25799360871315	-0.052616134	No	
+row_158	PGM1	PGM1	PGM1	phosphoglucomutase 1	11666	-0.2609286606311798	-0.049305115	No	
+row_159	SCARB1	SCARB1	SCARB1	scavenger receptor class B, member 1	11954	-0.2765689492225647	-0.060987998	No	
+row_160	ENPP2	ENPP2	ENPP2	ectonucleotide pyrophosphatase/phosphodiesterase 2 (autotaxin)	12002	-0.2793976664543152	-0.055183806	No	
+row_161	GPHN	GPHN	GPHN	gephyrin	12003	-0.279465913772583	-0.045971073	No	
+row_162	IDH3G	IDH3G	IDH3G	isocitrate dehydrogenase 3 (NAD+) gamma	12091	-0.28448253870010376	-0.042898227	No	
+row_163	PEMT	PEMT	PEMT	phosphatidylethanolamine N-methyltransferase	12118	-0.28627723455429077	-0.03534529	No	
+row_164	ITGA7	ITGA7	ITGA7	integrin, alpha 7	12412	-0.30423107743263245	-0.046551123	No	
+row_165	SORBS1	SORBS1	SORBS1	sorbin and SH3 domain containing 1	12789	-0.334210604429245	-0.06278403	No	
+row_166	PHYH	PHYH	PHYH	phytanoyl-CoA 2-hydroxylase	12817	-0.3363942503929138	-0.053651433	No	
+row_167	COL4A1	COL4A1	COL4A1	collagen, type IV, alpha 1	12871	-0.34024566411972046	-0.046276204	No	
+row_168	ADCY6	ADCY6	ADCY6	adenylate cyclase 6	12874	-0.34082087874412537	-0.035185825	No	
+row_169	GPAM	GPAM	GPAM	glycerol-3-phosphate acyltransferase, mitochondrial	12955	-0.34838762879371643	-0.029498994	No	
+row_170	SSPN	SSPN	SSPN	sarcospan (Kras oncogene-associated gene)	13025	-0.35439473390579224	-0.022816923	No	
+row_171	SNCG	SNCG	SNCG	synuclein, gamma (breast cancer-specific protein 1)	13121	-0.36375805735588074	-0.017710514	No	
+row_172	C3	C3	C3	complement component 3	13354	-0.3933850824832916	-0.021556411	No	
+row_173	LAMA4	LAMA4	LAMA4	laminin, alpha 4	13369	-0.3954387307167053	-0.009535219	No	
+row_174	ARAF	ARAF	ARAF	v-raf murine sarcoma 3611 viral oncogene homolog	13782	-0.48875677585601807	-0.023282511	No	
+row_175	PIM3	PIM3	PIM3	pim-3 oncogene	13829	-0.5082204937934875	-0.009862586	No	
+row_176	MCCC1	MCCC1	MCCC1	methylcrotonoyl-Coenzyme A carboxylase 1 (alpha)	13939	-0.6157614588737488	0.0025365995	No	

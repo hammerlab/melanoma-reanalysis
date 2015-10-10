@@ -1,0 +1,11 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	LMO2	LMO2	LMO2	LIM domain only 2 (rhombotin-like 1)	206	0.7078311443328857	0.1495877	No	
+row_1	MAFB	MAFB	MAFB	v-maf musculoaponeurotic fibrosarcoma oncogene homolog B (avian)	587	0.5794032216072083	0.25689828	No	
+row_2	SRP14	SRP14	SRP14	signal recognition particle 14kDa (homologous Alu RNA binding protein)	5335	0.0032762789633125067	-0.08226228	No	
+row_3	SPCS1	SPCS1	SPCS1	signal peptidase complex subunit 1 homolog (S. cerevisiae)	8407	-0.196880504488945	-0.25645897	No	
+row_4	STXBP1	STXBP1	STXBP1	syntaxin binding protein 1	10497	-0.32641351222991943	-0.330263	Yes	
+row_5	SRPRB	SRPRB	SRPRB	signal recognition particle receptor, B subunit	10981	-0.36153435707092285	-0.28091115	Yes	
+row_6	SRP9	SRP9	SRP9	signal recognition particle 9kDa	11823	-0.42591285705566406	-0.24224791	Yes	
+row_7	SEC11A	SEC11A	null	null	12697	-0.5203030109405518	-0.18396133	Yes	
+row_8	AKT3	AKT3	AKT3	v-akt murine thymoma viral oncogene homolog 3 (protein kinase B, gamma)	12936	-0.5523659586906433	-0.072759785	Yes	
+row_9	ELP4	ELP4	ELP4	elongation protein 4 homolog (S. cerevisiae)	13345	-0.6332228183746338	0.0450412	Yes	

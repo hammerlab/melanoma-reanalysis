@@ -1,0 +1,82 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SOD2	SOD2	SOD2	superoxide dismutase 2, mitochondrial	68	0.4838011860847473	0.031303357	Yes	
+row_1	EHHADH	EHHADH	EHHADH	enoyl-Coenzyme A, hydratase/3-hydroxyacyl Coenzyme A dehydrogenase	312	0.36872461438179016	0.041401424	Yes	
+row_2	SOD1	SOD1	SOD1	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))	490	0.3260122537612915	0.053054046	Yes	
+row_3	CLN6	CLN6	CLN6	ceroid-lipofuscinosis, neuronal 6, late infantile, variant	571	0.307669073343277	0.070315674	Yes	
+row_4	PRDX1	PRDX1	PRDX1	peroxiredoxin 1	577	0.3058645725250244	0.092840314	Yes	
+row_5	CADM1	CADM1	null	null	597	0.30301788449287415	0.11414433	Yes	
+row_6	ACSL5	ACSL5	ACSL5	acyl-CoA synthetase long-chain family member 5	606	0.30113211274147034	0.13609897	Yes	
+row_7	IDH2	IDH2	IDH2	isocitrate dehydrogenase 2 (NADP+), mitochondrial	670	0.28800779581069946	0.15311311	Yes	
+row_8	PEX2	PEX2	null	null	846	0.26154518127441406	0.16008632	Yes	
+row_9	SCP2	SCP2	SCP2	sterol carrier protein 2	871	0.2579653263092041	0.17765968	Yes	
+row_10	DHRS3	DHRS3	DHRS3	dehydrogenase/reductase (SDR family) member 3	943	0.24787774682044983	0.19109553	Yes	
+row_11	ACAA1	ACAA1	ACAA1	acetyl-Coenzyme A acyltransferase 1 (peroxisomal 3-oxoacyl-Coenzyme A thiolase)	992	0.24224676191806793	0.20576549	Yes	
+row_12	ACSL1	ACSL1	ACSL1	acyl-CoA synthetase long-chain family member 1	1024	0.2387423813343048	0.22139679	Yes	
+row_13	ATXN1	ATXN1	ATXN1	ataxin 1	1033	0.23759713768959045	0.2385978	Yes	
+row_14	PRDX5	PRDX5	PRDX5	peroxiredoxin 5	1102	0.2286294400691986	0.25080943	Yes	
+row_15	PABPC1	PABPC1	PABPC1	poly(A) binding protein, cytoplasmic 1	1130	0.22529636323451996	0.2657226	Yes	
+row_16	RETSAT	RETSAT	RETSAT	retinol saturase (all-trans-retinol 13,14-reductase)	1146	0.2228648066520691	0.28131756	Yes	
+row_17	IDE	IDE	IDE	insulin-degrading enzyme	1170	0.22088775038719177	0.29618877	Yes	
+row_18	IDH1	IDH1	IDH1	isocitrate dehydrogenase 1 (NADP+), soluble	1209	0.21644771099090576	0.3096482	Yes	
+row_19	HSD17B11	HSD17B11	null	null	1516	0.18535257875919342	0.3014922	Yes	
+row_20	PEX13	PEX13	PEX13	peroxisome biogenesis factor 13	1626	0.17549438774585724	0.30677742	Yes	
+row_21	CLN8	CLN8	CLN8	ceroid-lipofuscinosis, neuronal 8 (epilepsy, progressive with mental retardation)	1816	0.16197510063648224	0.30529326	Yes	
+row_22	CAT	CAT	CAT	catalase	1827	0.16097521781921387	0.31661755	Yes	
+row_23	SIAH1	SIAH1	SIAH1	seven in absentia homolog 1 (Drosophila)	1992	0.14921173453330994	0.31597775	Yes	
+row_24	HSD17B4	HSD17B4	HSD17B4	hydroxysteroid (17-beta) dehydrogenase 4	2120	0.13928844034671783	0.31725857	Yes	
+row_25	HMGCL	HMGCL	HMGCL	3-hydroxymethyl-3-methylglutaryl-Coenzyme A lyase (hydroxymethylglutaricaciduria)	2241	0.1306459605693817	0.31839654	Yes	
+row_26	LONP2	LONP2	null	null	2613	0.10668422281742096	0.2996764	Yes	
+row_27	BCL10	BCL10	BCL10	B-cell CLL/lymphoma 10	2694	0.1018052026629448	0.3015355	Yes	
+row_28	NUDT19	NUDT19	NUDT19	nudix (nucleoside diphosphate linked moiety X)-type motif 19	2714	0.10044947266578674	0.30768353	Yes	
+row_29	GNPAT	GNPAT	GNPAT	glyceronephosphate O-acyltransferase	2723	0.10010736435651779	0.31459767	Yes	
+row_30	ABCD3	ABCD3	ABCD3	ATP-binding cassette, sub-family D (ALD), member 3	2809	0.09426755458116531	0.31553292	Yes	
+row_31	CDK7	CDK7	CDK7	cyclin-dependent kinase 7 (MO15 homolog, Xenopus laevis, cdk-activating kinase)	2814	0.09410068392753601	0.32228556	Yes	
+row_32	VPS4B	VPS4B	VPS4B	vacuolar protein sorting 4 homolog B (S. cerevisiae)	2987	0.08399521559476852	0.31619057	No	
+row_33	SLC35B2	SLC35B2	SLC35B2	solute carrier family 35, member B2	3105	0.07782051712274551	0.31359214	No	
+row_34	PEX11A	PEX11A	PEX11A	peroxisomal biogenesis factor 11A	3160	0.07525698840618134	0.3153362	No	
+row_35	MVP	MVP	MVP	major vault protein	3258	0.07014477252960205	0.31360295	No	
+row_36	HSD3B7	HSD3B7	HSD3B7	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 7	3264	0.06939719617366791	0.3184353	No	
+row_37	ALDH1A1	ALDH1A1	ALDH1A1	aldehyde dehydrogenase 1 family, member A1	3389	0.06284517049789429	0.31421262	No	
+row_38	ELOVL5	ELOVL5	ELOVL5	ELOVL family member 5, elongation of long chain fatty acids (FEN1/Elo2, SUR4/Elo3-like, yeast)	3401	0.062380239367485046	0.31808814	No	
+row_39	CRAT	CRAT	CRAT	carnitine acetyltransferase	3419	0.06164348125457764	0.3214767	No	
+row_40	TSPO	TSPO	TSPO	translocator protein (18kDa)	3567	0.053849589079618454	0.31492555	No	
+row_41	ABCB9	ABCB9	ABCB9	ATP-binding cassette, sub-family B (MDR/TAP), member 9	3600	0.0526576042175293	0.3165622	No	
+row_42	ABCC5	ABCC5	ABCC5	ATP-binding cassette, sub-family C (CFTR/MRP), member 5	3611	0.052208058536052704	0.31974864	No	
+row_43	SLC25A4	SLC25A4	SLC25A4	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 4	3730	0.045595452189445496	0.31466717	No	
+row_44	ACOT8	ACOT8	ACOT8	acyl-CoA thioesterase 8	4306	0.021828478202223778	0.27491558	No	
+row_45	PEX14	PEX14	PEX14	peroxisomal biogenesis factor 14	4451	0.015589706599712372	0.2657178	No	
+row_46	ACOX1	ACOX1	ACOX1	acyl-Coenzyme A oxidase 1, palmitoyl	4679	0.007352306507527828	0.2499299	No	
+row_47	PEX6	PEX6	PEX6	peroxisomal biogenesis factor 6	5185	-0.01363704539835453	0.2146036	No	
+row_48	HRAS	HRAS	HRAS	v-Ha-ras Harvey rat sarcoma viral oncogene homolog	5255	-0.016490072011947632	0.21087119	No	
+row_49	SLC23A2	SLC23A2	SLC23A2	solute carrier family 23 (nucleobase transporters), member 2	5278	-0.017198383808135986	0.21057455	No	
+row_50	GSTK1	GSTK1	GSTK1	glutathione S-transferase kappa 1	5589	-0.0285249762237072	0.19039696	No	
+row_51	TOP2A	TOP2A	TOP2A	topoisomerase (DNA) II alpha 170kDa	5666	-0.031370051205158234	0.18727407	No	
+row_52	FADS1	FADS1	FADS1	fatty acid desaturase 1	5748	-0.03442937508225441	0.18402018	No	
+row_53	CNBP	CNBP	CNBP	CCHC-type zinc finger, nucleic acid binding protein	5933	-0.04343845695257187	0.17402709	No	
+row_54	ABCD1	ABCD1	ABCD1	ATP-binding cassette, sub-family D (ALD), member 1	5946	-0.043883975595235825	0.17644675	No	
+row_55	ERCC1	ERCC1	ERCC1	excision repair cross-complementing rodent repair deficiency, complementation group 1 (includes overlapping antisense sequence)	6086	-0.04813317209482193	0.17004372	No	
+row_56	MSH2	MSH2	MSH2	mutS homolog 2, colon cancer, nonpolyposis type 1 (E. coli)	6836	-0.07621221989393234	0.12183768	No	
+row_57	ITGB1BP1	ITGB1BP1	ITGB1BP1	integrin beta 1 binding protein 1	7095	-0.08554454147815704	0.10966888	No	
+row_58	STS	STS	STS	steroid sulfatase (microsomal), arylsulfatase C, isozyme S	7135	-0.0868087038397789	0.11335686	No	
+row_59	ACSL4	ACSL4	ACSL4	acyl-CoA synthetase long-chain family member 4	7142	-0.08687369525432587	0.11942483	No	
+row_60	CRABP2	CRABP2	CRABP2	cellular retinoic acid binding protein 2	7299	-0.09178972989320755	0.11506458	No	
+row_61	MLYCD	MLYCD	MLYCD	malonyl-CoA decarboxylase	7508	-0.09968487918376923	0.107552424	No	
+row_62	SMARCC1	SMARCC1	SMARCC1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 1	7787	-0.11008493602275848	0.09578024	No	
+row_63	FIS1	FIS1	FIS1	fission 1 (mitochondrial outer membrane) homolog (S. cerevisiae)	9085	-0.1550128310918808	0.014028511	No	
+row_64	ECH1	ECH1	ECH1	enoyl Coenzyme A hydratase 1, peroxisomal	9309	-0.16338051855564117	0.010202397	No	
+row_65	ECI2	ECI2	null	null	9400	-0.16644805669784546	0.016178269	No	
+row_66	IDI1	IDI1	IDI1	isopentenyl-diphosphate delta isomerase 1	9650	-0.17574435472488403	0.011405894	No	
+row_67	ALDH9A1	ALDH9A1	ALDH9A1	aldehyde dehydrogenase 9 family, member A1	10325	-0.20190860331058502	-0.02199764	No	
+row_68	ISOC1	ISOC1	ISOC1	isochorismatase domain containing 1	10453	-0.20673248171806335	-0.015670743	No	
+row_69	ERCC3	ERCC3	ERCC3	excision repair cross-complementing rodent repair deficiency, complementation group 3 (xeroderma pigmentosum group B complementing)	10535	-0.21000857651233673	-0.0057879505	No	
+row_70	FDPS	FDPS	FDPS	farnesyl diphosphate synthase (farnesyl pyrophosphate synthetase, dimethylallyltranstransferase, geranyltranstransferase)	10701	-0.21671214699745178	-0.0014493787	No	
+row_71	YWHAH	YWHAH	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, eta polypeptide	11251	-0.241118386387825	-0.022922583	No	
+row_72	DLG4	DLG4	DLG4	discs, large homolog 4 (Drosophila)	11379	-0.24673506617546082	-0.013602731	No	
+row_73	SLC25A17	SLC25A17	SLC25A17	solute carrier family 25 (mitochondrial carrier; peroxisomal membrane protein, 34kDa), member 17	11476	-0.25226980447769165	-0.001637597	No	
+row_74	DHCR24	DHCR24	DHCR24	24-dehydrocholesterol reductase	11673	-0.2612875998020172	0.0038048902	No	
+row_75	SLC25A19	SLC25A19	SLC25A19	solute carrier family 25 (mitochondrial deoxynucleotide carrier), member 19	11685	-0.26182621717453003	0.022602776	No	
+row_76	PEX11B	PEX11B	PEX11B	peroxisomal biogenesis factor 11B	12490	-0.3100246489048004	-0.012068173	No	
+row_77	SEMA3C	SEMA3C	SEMA3C	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3C	13051	-0.35683465003967285	-0.025675302	No	
+row_78	PEX5	PEX5	PEX5	peroxisomal biogenesis factor 5	13210	-0.37440744042396545	-0.009034301	No	
+row_79	CTBP1	CTBP1	CTBP1	C-terminal binding protein 1	13341	-0.3918395936489105	0.010926216	No	
+row_80	RDH11	RDH11	RDH11	retinol dehydrogenase 11 (all-trans/9-cis/11-cis)	13707	-0.46192750334739685	0.01921687	No	
