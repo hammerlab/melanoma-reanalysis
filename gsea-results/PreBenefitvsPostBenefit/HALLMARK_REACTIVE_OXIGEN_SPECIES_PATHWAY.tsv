@@ -1,0 +1,45 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PDLIM1	PDLIM1	PDLIM1	PDZ and LIM domain 1 (elfin)	108	0.9880342483520508	0.04615614	No	
+row_1	JUNB	JUNB	JUNB	jun B proto-oncogene	950	0.5211568474769592	0.014222275	No	
+row_2	CAT	CAT	CAT	catalase	1479	0.4249332547187805	-4.938139E-4	No	
+row_3	MBP	MBP	MBP	myelin basic protein	2258	0.32096537947654724	-0.038828135	No	
+row_4	GLRX	GLRX	GLRX	glutaredoxin (thioltransferase)	2635	0.2794145941734314	-0.05057302	No	
+row_5	PFKP	PFKP	PFKP	phosphofructokinase, platelet	2887	0.2508885860443115	-0.054901537	No	
+row_6	GCLM	GCLM	GCLM	glutamate-cysteine ligase, modifier subunit	3671	0.17767508327960968	-0.1014129	No	
+row_7	FES	FES	FES	feline sarcoma oncogene	4338	0.11946771293878555	-0.14270161	No	
+row_8	SRXN1	SRXN1	SRXN1	sulfiredoxin 1 homolog (S. cerevisiae)	4446	0.11052725464105606	-0.1443518	No	
+row_9	ABCC1	ABCC1	ABCC1	ATP-binding cassette, sub-family C (CFTR/MRP), member 1	5331	0.039486415684223175	-0.20565295	No	
+row_10	MSRA	MSRA	MSRA	methionine sulfoxide reductase A	5359	0.036809034645557404	-0.20558272	No	
+row_11	NQO1	NQO1	NQO1	NAD(P)H dehydrogenase, quinone 1	7851	-0.14593514800071716	-0.37643012	No	
+row_12	STK25	STK25	STK25	serine/threonine kinase 25 (STE20 homolog, yeast)	8032	-0.15902119874954224	-0.38067454	No	
+row_13	SOD2	SOD2	SOD2	superoxide dismutase 2, mitochondrial	8247	-0.17495816946029663	-0.38648996	No	
+row_14	LSP1	LSP1	LSP1	lymphocyte-specific protein 1	8488	-0.1923360973596573	-0.39322358	No	
+row_15	FTL	FTL	FTL	ferritin, light polypeptide	8999	-0.22864417731761932	-0.41735741	No	
+row_16	GSR	GSR	GSR	glutathione reductase	9395	-0.26055222749710083	-0.43149534	No	
+row_17	SCAF4	SCAF4	null	null	9440	-0.2649676203727722	-0.4201967	No	
+row_18	NDUFB4	NDUFB4	NDUFB4	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 4, 15kDa	9615	-0.2781349718570709	-0.4175114	No	
+row_19	ERCC2	ERCC2	ERCC2	excision repair cross-complementing rodent repair deficiency, complementation group 2 (xeroderma pigmentosum D)	9907	-0.30055373907089233	-0.4220014	No	
+row_20	SOD1	SOD1	SOD1	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))	10420	-0.3431653678417206	-0.44003034	Yes	
+row_21	TXNRD2	TXNRD2	TXNRD2	thioredoxin reductase 2	10629	-0.36251604557037354	-0.43518165	Yes	
+row_22	SBNO2	SBNO2	SBNO2	strawberry notch homolog 2 (Drosophila)	10826	-0.3778238296508789	-0.42863637	Yes	
+row_23	GCLC	GCLC	GCLC	glutamate-cysteine ligase, catalytic subunit	10923	-0.3865776062011719	-0.4144352	Yes	
+row_24	OXSR1	OXSR1	OXSR1	oxidative-stress responsive 1	11182	-0.40960177779197693	-0.4106066	Yes	
+row_25	PRDX4	PRDX4	PRDX4	peroxiredoxin 4	11186	-0.41029641032218933	-0.38843554	Yes	
+row_26	TXN	TXN	TXN	thioredoxin	11466	-0.4391994774341583	-0.38449943	Yes	
+row_27	EGLN2	EGLN2	EGLN2	egl nine homolog 2 (C. elegans)	11634	-0.45721831917762756	-0.37154058	Yes	
+row_28	TXNRD1	TXNRD1	TXNRD1	thioredoxin reductase 1	11662	-0.4610804617404938	-0.34832147	Yes	
+row_29	GLRX2	GLRX2	GLRX2	glutaredoxin 2	11692	-0.46530699729919434	-0.3250153	Yes	
+row_30	PRDX1	PRDX1	PRDX1	peroxiredoxin 1	11701	-0.46644359827041626	-0.3001397	Yes	
+row_31	HHEX	HHEX	HHEX	homeobox, hematopoietically expressed	11789	-0.4779357612133026	-0.28030786	Yes	
+row_32	GPX3	GPX3	GPX3	glutathione peroxidase 3 (plasma)	11833	-0.4836955666542053	-0.25700334	Yes	
+row_33	GPX4	GPX4	GPX4	glutathione peroxidase 4 (phospholipid hydroperoxidase)	12345	-0.5471134781837463	-0.2638328	Yes	
+row_34	PRDX2	PRDX2	PRDX2	peroxiredoxin 2	12408	-0.5534443259239197	-0.23808655	Yes	
+row_35	HMOX2	HMOX2	HMOX2	heme oxygenase (decycling) 2	12655	-0.591850757598877	-0.22345275	Yes	
+row_36	ATOX1	ATOX1	ATOX1	ATX1 antioxidant protein 1 homolog (yeast)	12691	-0.5987779498100281	-0.19329491	Yes	
+row_37	NDUFA6	NDUFA6	NDUFA6	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 6, 14kDa	12795	-0.6192016005516052	-0.16690393	Yes	
+row_38	PRNP	PRNP	PRNP	prion protein (p27-30) (Creutzfeldt-Jakob disease, Gerstmann-Strausler-Scheinker syndrome, fatal familial insomnia)	13026	-0.6717286109924316	-0.14676334	Yes	
+row_39	G6PD	G6PD	G6PD	glucose-6-phosphate dehydrogenase	13192	-0.7196058630943298	-0.11934466	Yes	
+row_40	CDKN2D	CDKN2D	CDKN2D	cyclin-dependent kinase inhibitor 2D (p19, inhibits CDK4)	13222	-0.727576494216919	-0.08172868	Yes	
+row_41	NDUFS2	NDUFS2	NDUFS2	NADH dehydrogenase (ubiquinone) Fe-S protein 2, 49kDa (NADH-coenzyme Q reductase)	13291	-0.7521790266036987	-0.045569867	Yes	
+row_42	PRDX6	PRDX6	PRDX6	peroxiredoxin 6	13533	-0.8560113310813904	-0.016164154	Yes	
+row_43	PPP2R4	PPP2R4	PPP2R4	protein phosphatase 2A, regulatory subunit B' (PR 53)	13574	-0.8751299381256104	0.028712953	Yes	

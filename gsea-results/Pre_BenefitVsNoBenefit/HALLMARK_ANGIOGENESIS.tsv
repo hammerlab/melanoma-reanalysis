@@ -1,0 +1,26 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	VEGFA	VEGFA	null	null	1653	0.39897626638412476	-0.07926504	No	
+row_1	PDGFA	PDGFA	PDGFA	platelet-derived growth factor alpha polypeptide	2302	0.3238951563835144	-0.09386947	No	
+row_2	PTK2	PTK2	PTK2	PTK2 protein tyrosine kinase 2	2555	0.2964399456977844	-0.08278635	No	
+row_3	ITGAV	ITGAV	ITGAV	integrin, alpha V (vitronectin receptor, alpha polypeptide, antigen CD51)	2726	0.2795834541320801	-0.06748252	No	
+row_4	TNFRSF21	TNFRSF21	TNFRSF21	tumor necrosis factor receptor superfamily, member 21	3517	0.21099276840686798	-0.10336736	No	
+row_5	S100A4	S100A4	S100A4	S100 calcium binding protein A4	4360	0.14456728100776672	-0.14951111	No	
+row_6	FSTL1	FSTL1	FSTL1	follistatin-like 1	5205	0.082572802901268	-0.20189388	No	
+row_7	MSX1	MSX1	MSX1	msh homeobox homolog 1 (Drosophila)	5676	0.0471380390226841	-0.23095077	No	
+row_8	CCND2	CCND2	CCND2	cyclin D2	6702	-0.026578787714242935	-0.3018141	No	
+row_9	JAG2	JAG2	JAG2	jagged 2	7123	-0.059162069112062454	-0.3261045	No	
+row_10	JAG1	JAG1	JAG1	jagged 1 (Alagille syndrome)	7722	-0.102849580347538	-0.35885912	No	
+row_11	VAV2	VAV2	VAV2	vav 2 oncogene	7924	-0.11861822754144669	-0.3616045	No	
+row_12	STC1	STC1	STC1	stanniocalcin 1	8378	-0.15397322177886963	-0.3789381	No	
+row_13	TIMP1	TIMP1	TIMP1	TIMP metallopeptidase inhibitor 1	8619	-0.17190831899642944	-0.37923944	No	
+row_14	POSTN	POSTN	POSTN	periostin, osteoblast specific factor	9854	-0.26627540588378906	-0.44151652	No	
+row_15	VCAN	VCAN	null	null	9981	-0.27616938948631287	-0.42339426	No	
+row_16	COL5A2	COL5A2	COL5A2	collagen, type V, alpha 2	10705	-0.3386358618736267	-0.44192564	No	
+row_17	LRPAP1	LRPAP1	LRPAP1	low density lipoprotein receptor-related protein associated protein 1	10786	-0.3452506363391876	-0.41371343	No	
+row_18	THBD	THBD	THBD	thrombomodulin	11288	-0.39159974455833435	-0.41112313	No	
+row_19	SPP1	SPP1	SPP1	secreted phosphoprotein 1 (osteopontin, bone sialoprotein I, early T-lymphocyte activation 1)	12438	-0.5187839865684509	-0.44247898	Yes	
+row_20	LUM	LUM	LUM	lumican	12519	-0.5310338139533997	-0.39599952	Yes	
+row_21	COL3A1	COL3A1	COL3A1	collagen, type III, alpha 1 (Ehlers-Danlos syndrome type IV, autosomal dominant)	12872	-0.5954629182815552	-0.36268327	Yes	
+row_22	LPL	LPL	LPL	lipoprotein lipase	13888	-1.0530400276184082	-0.33190233	Yes	
+row_23	KCNJ8	KCNJ8	KCNJ8	potassium inwardly-rectifying channel, subfamily J, member 8	13967	-1.658961296081543	-0.17437534	Yes	
+row_24	FGFR1	FGFR1	FGFR1	fibroblast growth factor receptor 1 (fms-related tyrosine kinase 2, Pfeiffer syndrome)	13971	-1.77782142162323	2.1496389E-4	Yes	

@@ -1,0 +1,25 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ETS2	ETS2	ETS2	v-ets erythroblastosis virus E26 oncogene homolog 2 (avian)	196	0.5042849779129028	0.08539145	No	
+row_1	CDK5R1	CDK5R1	CDK5R1	cyclin-dependent kinase 5, regulatory subunit 1 (p35)	454	0.41766178607940674	0.14932911	No	
+row_2	THY1	THY1	THY1	Thy-1 cell surface antigen	832	0.34247860312461853	0.18983975	No	
+row_3	CRMP1	CRMP1	CRMP1	collapsin response mediator protein 1	2990	0.12005840241909027	0.058901653	No	
+row_4	TLE3	TLE3	TLE3	transducin-like enhancer of split 3 (E(sp1) homolog, Drosophila)	3332	0.09759156405925751	0.053703167	No	
+row_5	PTCH1	PTCH1	PTCH1	patched homolog 1 (Drosophila)	4161	0.04572010785341263	0.0033681882	No	
+row_6	UNC5C	UNC5C	UNC5C	unc-5 homolog C (C. elegans)	4246	0.04129049926996231	0.0054892427	No	
+row_7	LDB1	LDB1	LDB1	LIM domain binding 1	4504	0.0268955547362566	-0.007628807	No	
+row_8	GPR56	GPR56	GPR56	G protein-coupled receptor 56	4805	0.011369368061423302	-0.026890703	No	
+row_9	CELSR1	CELSR1	CELSR1	cadherin, EGF LAG seven-pass G-type receptor 1 (flamingo homolog, Drosophila)	4891	0.00676122959703207	-0.0316502	No	
+row_10	PML	PML	PML	promyelocytic leukemia	5570	-0.027232103049755096	-0.07487893	No	
+row_11	MYH9	MYH9	MYH9	myosin, heavy chain 9, non-muscle	5893	-0.042040202766656876	-0.08966976	No	
+row_12	NF1	NF1	NF1	neurofibromin 1 (neurofibromatosis, von Recklinghausen disease, Watson disease)	5964	-0.0453670471906662	-0.085741326	No	
+row_13	NRP2	NRP2	NRP2	neuropilin 2	6641	-0.07651479542255402	-0.11910859	No	
+row_14	HEY1	HEY1	HEY1	hairy/enhancer-of-split related with YRPW motif 1	8216	-0.1516495943069458	-0.20202807	No	
+row_15	CDK6	CDK6	CDK6	cyclin-dependent kinase 6	8277	-0.15480124950408936	-0.17580336	No	
+row_16	HEY2	HEY2	HEY2	hairy/enhancer-of-split related with YRPW motif 2	8994	-0.1875440776348114	-0.1901438	No	
+row_17	AMOT	AMOT	AMOT	angiomotin	10319	-0.25206848978996277	-0.23534167	No	
+row_18	DPYSL2	DPYSL2	DPYSL2	dihydropyrimidinase-like 2	10489	-0.2624930441379547	-0.19569415	No	
+row_19	L1CAM	L1CAM	L1CAM	L1 cell adhesion molecule	12536	-0.3940371572971344	-0.2646496	Yes	
+row_20	RASA1	RASA1	RASA1	RAS p21 protein activator (GTPase activating protein) 1	12721	-0.4111022353172302	-0.19677281	Yes	
+row_21	VEGFA	VEGFA	null	null	12769	-0.4154036343097687	-0.11822776	Yes	
+row_22	VLDLR	VLDLR	VLDLR	very low density lipoprotein receptor	13017	-0.44456747174263	-0.048267733	Yes	
+row_23	TLE1	TLE1	TLE1	transducin-like enhancer of split 1 (E(sp1) homolog, Drosophila)	13703	-0.5922838449478149	0.01942508	Yes	

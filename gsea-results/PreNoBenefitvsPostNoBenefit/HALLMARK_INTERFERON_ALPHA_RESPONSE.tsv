@@ -1,0 +1,87 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	LPAR6	LPAR6	null	null	124	0.7838815450668335	0.02546726	Yes	
+row_1	IL4R	IL4R	IL4R	interleukin 4 receptor	466	0.6126741766929626	0.027798403	Yes	
+row_2	TXNIP	TXNIP	TXNIP	thioredoxin interacting protein	528	0.5943257212638855	0.049484286	Yes	
+row_3	UBE2L6	UBE2L6	UBE2L6	ubiquitin-conjugating enzyme E2L 6	551	0.5882692933082581	0.07371241	Yes	
+row_4	NMI	NMI	NMI	N-myc (and STAT) interactor	582	0.5808236598968506	0.09703783	Yes	
+row_5	CASP8	CASP8	CASP8	caspase 8, apoptosis-related cysteine peptidase	685	0.5538017749786377	0.11399363	Yes	
+row_6	IRF2	IRF2	IRF2	interferon regulatory factor 2	772	0.5309963822364807	0.13110076	Yes	
+row_7	ISG20	ISG20	ISG20	interferon stimulated exonuclease gene 20kDa	789	0.525117814540863	0.15298991	Yes	
+row_8	CD74	CD74	CD74	CD74 molecule, major histocompatibility complex, class II invariant chain	848	0.5085396766662598	0.17112768	Yes	
+row_9	UBA7	UBA7	null	null	981	0.4828853905200958	0.18281181	Yes	
+row_10	GBP4	GBP4	GBP4	guanylate binding protein 4	1050	0.46854957938194275	0.1984749	Yes	
+row_11	TRAFD1	TRAFD1	TRAFD1	TRAF-type zinc finger domain containing 1	1182	0.4430096447467804	0.20848137	Yes	
+row_12	IFI30	IFI30	IFI30	interferon, gamma-inducible protein 30	1322	0.41435471177101135	0.21665452	Yes	
+row_13	PROCR	PROCR	PROCR	protein C receptor, endothelial (EPCR)	1323	0.4142512381076813	0.23483105	Yes	
+row_14	DHX58	DHX58	null	null	1362	0.4036896228790283	0.24980819	Yes	
+row_15	PARP12	PARP12	PARP12	poly (ADP-ribose) polymerase family, member 12	1394	0.39737609028816223	0.2650123	Yes	
+row_16	SLC25A28	SLC25A28	SLC25A28	solute carrier family 25, member 28	1416	0.3939043879508972	0.28078407	Yes	
+row_17	OGFR	OGFR	OGFR	opioid growth factor receptor	1535	0.37342706322669983	0.28867337	Yes	
+row_18	SP110	SP110	SP110	SP110 nuclear body protein	1538	0.3729514181613922	0.30489376	Yes	
+row_19	TRIM14	TRIM14	TRIM14	tripartite motif-containing 14	1580	0.3663763701915741	0.31801766	Yes	
+row_20	IRF7	IRF7	IRF7	interferon regulatory factor 7	1599	0.3617585003376007	0.33259493	Yes	
+row_21	SAMD9L	SAMD9L	SAMD9L	sterile alpha motif domain containing 9-like	1670	0.35118111968040466	0.3429641	Yes	
+row_22	C1S	C1S	C1S	complement component 1, s subcomponent	1681	0.34937217831611633	0.35757387	Yes	
+row_23	EPSTI1	EPSTI1	EPSTI1	epithelial stromal interaction 1 (breast)	1707	0.3466431796550751	0.37098393	Yes	
+row_24	IRF9	IRF9	null	null	1816	0.3317975103855133	0.3777666	Yes	
+row_25	DDX60	DDX60	null	null	1859	0.3257639706134796	0.3890365	Yes	
+row_26	IFI35	IFI35	IFI35	interferon-induced protein 35	1886	0.3225507140159607	0.40131742	Yes	
+row_27	LAP3	LAP3	LAP3	leucine aminopeptidase 3	1915	0.31871315836906433	0.41328594	Yes	
+row_28	GBP2	GBP2	GBP2	guanylate binding protein 2, interferon-inducible	1987	0.3084737956523895	0.4217092	Yes	
+row_29	PSMB9	PSMB9	PSMB9	proteasome (prosome, macropain) subunit, beta type, 9 (large multifunctional peptidase 2)	2061	0.3008710443973541	0.4296549	Yes	
+row_30	B2M	B2M	B2M	beta-2-microglobulin	2157	0.28849735856056213	0.43547365	Yes	
+row_31	IFITM1	IFITM1	IFITM1	interferon induced transmembrane protein 1 (9-27)	2169	0.28643807768821716	0.44725	Yes	
+row_32	ISG15	ISG15	ISG15	ISG15 ubiquitin-like modifier	2275	0.2732466757297516	0.4516796	Yes	
+row_33	CCRL2	CCRL2	CCRL2	chemokine (C-C motif) receptor-like 2	2349	0.265522301197052	0.45807424	Yes	
+row_34	RNF31	RNF31	RNF31	ring finger protein 31	2351	0.2651565372943878	0.4696368	Yes	
+row_35	IRF1	IRF1	IRF1	interferon regulatory factor 1	2352	0.26509159803390503	0.4812685	Yes	
+row_36	PARP14	PARP14	PARP14	poly (ADP-ribose) polymerase family, member 14	2385	0.2611222267150879	0.49042204	Yes	
+row_37	HLA-C	HLA-C	HLA-C	major histocompatibility complex, class I, C	2560	0.24281707406044006	0.4885485	Yes	
+row_38	TRIM21	TRIM21	TRIM21	tripartite motif-containing 21	2708	0.2272607386112213	0.48793632	Yes	
+row_39	IFITM3	IFITM3	IFITM3	interferon induced transmembrane protein 3 (1-8U)	2741	0.22286951541900635	0.49541143	Yes	
+row_40	PSMB8	PSMB8	PSMB8	proteasome (prosome, macropain) subunit, beta type, 8 (large multifunctional peptidase 7)	2747	0.22221240401268005	0.5048017	Yes	
+row_41	IFI44	IFI44	IFI44	interferon-induced protein 44	2764	0.219575896859169	0.5132842	Yes	
+row_42	CASP1	CASP1	CASP1	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)	2781	0.2171998918056488	0.52166253	Yes	
+row_43	PSME2	PSME2	PSME2	proteasome (prosome, macropain) activator subunit 2 (PA28 beta)	2842	0.21004998683929443	0.5265592	Yes	
+row_44	MX1	MX1	MX1	myxovirus (influenza virus) resistance 1, interferon-inducible protein p78 (mouse)	2861	0.20766527950763702	0.53437513	Yes	
+row_45	USP18	USP18	USP18	ubiquitin specific peptidase 18	2880	0.20550157129764557	0.54209614	Yes	
+row_46	ELF1	ELF1	ELF1	E74-like factor 1 (ets domain transcription factor)	3093	0.18375347554683685	0.534895	Yes	
+row_47	MOV10	MOV10	MOV10	Mov10, Moloney leukemia virus 10, homolog (mouse)	3266	0.1685226559638977	0.52990556	Yes	
+row_48	CSF1	CSF1	CSF1	colony stimulating factor 1 (macrophage)	3304	0.1643623411655426	0.53445345	Yes	
+row_49	PARP9	PARP9	PARP9	poly (ADP-ribose) polymerase family, member 9	3320	0.1633228212594986	0.54053974	Yes	
+row_50	TAP1	TAP1	TAP1	transporter 1, ATP-binding cassette, sub-family B (MDR/TAP)	3329	0.16233564913272858	0.5470867	Yes	
+row_51	IFIT3	IFIT3	IFIT3	interferon-induced protein with tetratricopeptide repeats 3	3454	0.1511509120464325	0.54479104	Yes	
+row_52	STAT2	STAT2	STAT2	signal transducer and activator of transcription 2, 113kDa	3523	0.1436152309179306	0.54619664	Yes	
+row_53	PSME1	PSME1	PSME1	proteasome (prosome, macropain) activator subunit 1 (PA28 alpha)	3673	0.13116119801998138	0.5412238	Yes	
+row_54	FAM46A	FAM46A	FAM46A	family with sequence similarity 46, member A	3681	0.13066652417182922	0.5464532	Yes	
+row_55	TRIM25	TRIM25	TRIM25	tripartite motif-containing 25	3791	0.12240009009838104	0.54397595	Yes	
+row_56	IFITM2	IFITM2	IFITM2	interferon induced transmembrane protein 2 (1-8D)	3806	0.12159688025712967	0.54830337	Yes	
+row_57	CXCL10	CXCL10	CXCL10	chemokine (C-X-C motif) ligand 10	3917	0.11305109411478043	0.5453439	No	
+row_58	OAS1	OAS1	OAS1	2',5'-oligoadenylate synthetase 1, 40/46kDa	3964	0.10974084585905075	0.54684716	No	
+row_59	HERC6	HERC6	HERC6	hect domain and RLD 6	4016	0.10538681596517563	0.54779935	No	
+row_60	TRIM26	TRIM26	TRIM26	tripartite motif-containing 26	4351	0.07844231277704239	0.5271934	No	
+row_61	OASL	OASL	OASL	2'-5'-oligoadenylate synthetase-like	4571	0.059678997844457626	0.51404417	No	
+row_62	IFIT2	IFIT2	IFIT2	interferon-induced protein with tetratricopeptide repeats 2	4607	0.05698375403881073	0.5140245	No	
+row_63	TRIM5	TRIM5	TRIM5	tripartite motif-containing 5	4882	0.037062425166368484	0.4959229	No	
+row_64	SAMD9	SAMD9	SAMD9	sterile alpha motif domain containing 9	5003	0.02701818011701107	0.48846847	No	
+row_65	LY6E	LY6E	LY6E	lymphocyte antigen 6 complex, locus E	5101	0.02053876593708992	0.48238572	No	
+row_66	IFIH1	IFIH1	IFIH1	interferon induced with helicase C domain 1	5215	0.01209653913974762	0.47478056	No	
+row_67	EIF2AK2	EIF2AK2	EIF2AK2	eukaryotic translation initiation factor 2-alpha kinase 2	5354	0.0019287517061457038	0.46492928	No	
+row_68	RTP4	RTP4	RTP4	receptor transporter protein 4	5636	-0.019145233556628227	0.44553748	No	
+row_69	CNP	CNP	CNP	2',3'-cyclic nucleotide 3' phosphodiesterase	5884	-0.036587994545698166	0.42935905	No	
+row_70	IFI27	IFI27	IFI27	interferon, alpha-inducible protein 27	5931	-0.040114887058734894	0.42780724	No	
+row_71	PLSCR1	PLSCR1	PLSCR1	phospholipid scramblase 1	6422	-0.07316824793815613	0.395738	No	
+row_72	NCOA7	NCOA7	NCOA7	nuclear receptor coactivator 7	6439	-0.07394234091043472	0.39783046	No	
+row_73	ADAR	ADAR	ADAR	adenosine deaminase, RNA-specific	6608	-0.08474276214838028	0.3894529	No	
+row_74	PSMA3	PSMA3	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3	7080	-0.11537022143602371	0.3606034	No	
+row_75	BATF2	BATF2	BATF2	basic leucine zipper transcription factor, ATF-like 2	7594	-0.14698605239391327	0.33011714	No	
+row_76	WARS	WARS	WARS	tryptophanyl-tRNA synthetase	7691	-0.15261194109916687	0.32990152	No	
+row_77	BST2	BST2	BST2	bone marrow stromal cell antigen 2	8024	-0.17283599078655243	0.3135814	No	
+row_78	NUB1	NUB1	NUB1	negative regulator of ubiquitin-like proteins 1	8396	-0.19632676243782043	0.29548407	No	
+row_79	PNPT1	PNPT1	PNPT1	polyribonucleotide nucleotidyltransferase 1	8913	-0.22730112075805664	0.2683059	No	
+row_80	TDRD7	TDRD7	TDRD7	tudor domain containing 7	9694	-0.2750488519668579	0.22421494	No	
+row_81	RIPK2	RIPK2	RIPK2	receptor-interacting serine-threonine kinase 2	9711	-0.276040643453598	0.23517507	No	
+row_82	CD47	CD47	CD47	CD47 molecule	10507	-0.3272983133792877	0.19229674	No	
+row_83	TMEM140	TMEM140	TMEM140	transmembrane protein 140	11337	-0.38833174109458923	0.14964847	No	
+row_84	LGALS3BP	LGALS3BP	LGALS3BP	lectin, galactoside-binding, soluble, 3 binding protein	11636	-0.4112544655799866	0.14623769	No	
+row_85	GMPR	GMPR	GMPR	guanosine monophosphate reductase	12550	-0.5019608736038208	0.102527276	No	

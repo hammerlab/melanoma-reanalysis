@@ -1,0 +1,142 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PLA2G7	PLA2G7	PLA2G7	phospholipase A2, group VII (platelet-activating factor acetylhydrolase, plasma)	15	0.5646399855613708	0.017536158	Yes	
+row_1	CTSS	CTSS	CTSS	cathepsin S	27	0.5299922823905945	0.034218863	Yes	
+row_2	CASP7	CASP7	CASP7	caspase 7, apoptosis-related cysteine peptidase	44	0.5079469084739685	0.049813136	Yes	
+row_3	VCPIP1	VCPIP1	VCPIP1	valosin containing protein (p97)/p47 complex interacting protein 1	54	0.4943731725215912	0.06546578	Yes	
+row_4	GZMA	GZMA	GZMA	granzyme A (granzyme 1, cytotoxic T-lymphocyte-associated serine esterase 3)	59	0.49081316590309143	0.081362456	Yes	
+row_5	S100A9	S100A9	S100A9	S100 calcium binding protein A9	73	0.48217275738716125	0.09632362	Yes	
+row_6	SERPINA1	SERPINA1	SERPINA1	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1	79	0.4753512144088745	0.11163811	Yes	
+row_7	LIPA	LIPA	LIPA	lipase A, lysosomal acid, cholesterol esterase (Wolman disease)	80	0.4748615622520447	0.12729788	Yes	
+row_8	IRF1	IRF1	IRF1	interferon regulatory factor 1	123	0.43793749809265137	0.13870399	Yes	
+row_9	CCL5	CCL5	CCL5	chemokine (C-C motif) ligand 5	130	0.4353519380092621	0.15262711	Yes	
+row_10	LAP3	LAP3	LAP3	leucine aminopeptidase 3	163	0.4199296534061432	0.16416222	Yes	
+row_11	PIM1	PIM1	PIM1	pim-1 oncogene	182	0.4140949845314026	0.17651692	Yes	
+row_12	CA2	CA2	CA2	carbonic anhydrase II	193	0.41077667474746704	0.18934047	Yes	
+row_13	GPD2	GPD2	GPD2	glycerol-3-phosphate dehydrogenase 2 (mitochondrial)	208	0.4040926992893219	0.20165445	Yes	
+row_14	LCP2	LCP2	LCP2	lymphocyte cytosolic protein 2 (SH2 domain containing leukocyte protein of 76kDa)	245	0.39055004715919495	0.21193156	Yes	
+row_15	FCER1G	FCER1G	FCER1G	Fc fragment of IgE, high affinity I, receptor for; gamma polypeptide	258	0.3871991038322449	0.22383301	Yes	
+row_16	PSMB9	PSMB9	PSMB9	proteasome (prosome, macropain) subunit, beta type, 9 (large multifunctional peptidase 2)	299	0.3721367120742798	0.23321374	Yes	
+row_17	LYN	LYN	LYN	v-yes-1 Yamaguchi sarcoma viral related oncogene homolog	315	0.3684099018573761	0.2442787	Yes	
+row_18	GZMB	GZMB	GZMB	granzyme B (granzyme 2, cytotoxic T-lymphocyte-associated serine esterase 1)	318	0.3674626648426056	0.25625214	Yes	
+row_19	KYNU	KYNU	KYNU	kynureninase (L-kynurenine hydrolase)	320	0.36694028973579407	0.26828066	Yes	
+row_20	C1QA	C1QA	C1QA	complement component 1, q subcomponent, A chain	361	0.3564609885215759	0.27714443	Yes	
+row_21	C2	C2	C2	complement component 2	368	0.3555329740047455	0.28843534	Yes	
+row_22	PLEK	PLEK	PLEK	pleckstrin	394	0.34943637251853943	0.29815176	Yes	
+row_23	CTSD	CTSD	CTSD	cathepsin D (lysosomal aspartyl peptidase)	403	0.34696075320243835	0.30901536	Yes	
+row_24	CTSC	CTSC	CTSC	cathepsin C	423	0.3416592478752136	0.31890902	Yes	
+row_25	CASP10	CASP10	CASP10	caspase 10, apoptosis-related cysteine peptidase	478	0.33002370595932007	0.325889	Yes	
+row_26	C1QC	C1QC	C1QC	complement component 1, q subcomponent, C chain	544	0.3134697675704956	0.3315279	Yes	
+row_27	ANG	ANG	ANG	angiogenin, ribonuclease, RNase A family, 5	574	0.3069458603858948	0.33955392	Yes	
+row_28	CTSB	CTSB	CTSB	cathepsin B	605	0.3013592064380646	0.34732345	Yes	
+row_29	CD36	CD36	CD36	CD36 molecule (thrombospondin receptor)	660	0.2914324998855591	0.35303074	Yes	
+row_30	CASP3	CASP3	CASP3	caspase 3, apoptosis-related cysteine peptidase	674	0.28727248311042786	0.36156458	Yes	
+row_31	CD59	CD59	CD59	CD59 molecule, complement regulatory protein	681	0.2858436703681946	0.37055728	Yes	
+row_32	SERPING1	SERPING1	SERPING1	serpin peptidase inhibitor, clade G (C1 inhibitor), member 1, (angioedema, hereditary)	757	0.27434444427490234	0.37418306	Yes	
+row_33	LGMN	LGMN	LGMN	legumain	767	0.2722436189651489	0.38251042	Yes	
+row_34	CASP4	CASP4	CASP4	caspase 4, apoptosis-related cysteine peptidase	819	0.2647269070148468	0.3875539	Yes	
+row_35	CASP1	CASP1	CASP1	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)	918	0.2508699595928192	0.38874298	Yes	
+row_36	GCA	GCA	GCA	grancalcin, EF-hand calcium binding protein	936	0.24835285544395447	0.39570418	Yes	
+row_37	SRC	SRC	SRC	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)	942	0.24790439009666443	0.40351802	Yes	
+row_38	CPM	CPM	CPM	carboxypeptidase M	946	0.24746882915496826	0.4114621	Yes	
+row_39	RABIF	RABIF	RABIF	RAB interacting factor	952	0.24664177000522614	0.4192343	Yes	
+row_40	F3	F3	F3	coagulation factor III (thromboplastin, tissue factor)	1084	0.2312420904636383	0.41739067	Yes	
+row_41	ATOX1	ATOX1	ATOX1	ATX1 antioxidant protein 1 homolog (yeast)	1090	0.23059605062007904	0.42463374	Yes	
+row_42	CFB	CFB	CFB	complement factor B	1103	0.22845838963985443	0.4313003	Yes	
+row_43	APOBEC3G	APOBEC3G	APOBEC3G	apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3G	1119	0.2264314740896225	0.4376832	Yes	
+row_44	LTA4H	LTA4H	LTA4H	leukotriene A4 hydrolase	1196	0.2182547003030777	0.43938696	Yes	
+row_45	PRCP	PRCP	PRCP	prolylcarboxypeptidase (angiotensinase C)	1301	0.20492267608642578	0.43862712	Yes	
+row_46	GNGT2	GNGT2	GNGT2	guanine nucleotide binding protein (G protein), gamma transducing activity polypeptide 2	1305	0.20473356544971466	0.44516188	Yes	
+row_47	ME1	ME1	ME1	malic enzyme 1, NADP(+)-dependent, cytosolic	1363	0.19956649839878082	0.4476228	Yes	
+row_48	DGKH	DGKH	DGKH	diacylglycerol kinase, eta	1476	0.18960954248905182	0.44577965	Yes	
+row_49	F8	F8	F8	coagulation factor VIII, procoagulant component (hemophilia A)	1492	0.18794915080070496	0.4508935	Yes	
+row_50	C1S	C1S	C1S	complement component 1, s subcomponent	1596	0.17816732823848724	0.44932356	Yes	
+row_51	BRPF3	BRPF3	BRPF3	bromodomain and PHD finger containing, 3	1604	0.177239328622818	0.4546625	Yes	
+row_52	APOC1	APOC1	APOC1	apolipoprotein C-I	1682	0.171017125248909	0.45473623	Yes	
+row_53	IRF2	IRF2	IRF2	interferon regulatory factor 2	1873	0.15739776194095612	0.44619253	Yes	
+row_54	ITGAM	ITGAM	ITGAM	integrin, alpha M (complement component 3 receptor 3 subunit)	1903	0.1553007960319519	0.4492177	Yes	
+row_55	PRKCD	PRKCD	PRKCD	protein kinase C, delta	1955	0.15169301629066467	0.4505336	Yes	
+row_56	PDP1	PDP1	null	null	1998	0.1490863412618637	0.4524141	Yes	
+row_57	PPP2CB	PPP2CB	PPP2CB	protein phosphatase 2 (formerly 2A), catalytic subunit, beta isoform	2028	0.14709311723709106	0.45516858	Yes	
+row_58	CTSH	CTSH	CTSH	cathepsin H	2311	0.12573449313640594	0.43893045	No	
+row_59	JAK2	JAK2	JAK2	Janus kinase 2 (a protein tyrosine kinase)	2325	0.12487369030714035	0.44210875	No	
+row_60	USP15	USP15	USP15	ubiquitin specific peptidase 15	2453	0.11650507897138596	0.43677053	No	
+row_61	GNAI3	GNAI3	GNAI3	guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 3	2488	0.11385829001665115	0.4380676	No	
+row_62	PLSCR1	PLSCR1	PLSCR1	phospholipid scramblase 1	2652	0.10447975993156433	0.4297305	No	
+row_63	CD55	CD55	CD55	CD55 molecule, decay accelerating factor for complement (Cromer blood group)	2669	0.10333850234746933	0.43198177	No	
+row_64	KIF2A	KIF2A	KIF2A	kinesin heavy chain member 2A	2905	0.08912742882966995	0.41793385	No	
+row_65	HSPA5	HSPA5	HSPA5	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa)	3097	0.07816807180643082	0.40670508	No	
+row_66	LGALS3	LGALS3	LGALS3	lectin, galactoside-binding, soluble, 3 (galectin 3)	3205	0.07279909402132034	0.40137124	No	
+row_67	CDK5R1	CDK5R1	CDK5R1	cyclin-dependent kinase 5, regulatory subunit 1 (p35)	3546	0.05472288653254509	0.37859875	No	
+row_68	GRB2	GRB2	GRB2	growth factor receptor-bound protein 2	3669	0.049434538930654526	0.37141013	No	
+row_69	C1R	C1R	C1R	complement component 1, r subcomponent	3701	0.04753172770142555	0.37073675	No	
+row_70	HSPA1A	HSPA1A	HSPA1A	heat shock 70kDa protein 1A	3777	0.043364785611629486	0.36674538	No	
+row_71	PIK3R5	PIK3R5	PIK3R5	phosphoinositide-3-kinase, regulatory subunit 5, p101	3850	0.04018528759479523	0.36286604	No	
+row_72	DOCK10	DOCK10	DOCK10	dedicator of cytokinesis 10	4017	0.03286753594875336	0.3519505	No	
+row_73	ADAM9	ADAM9	ADAM9	ADAM metallopeptidase domain 9 (meltrin gamma)	4057	0.031168850138783455	0.35015923	No	
+row_74	CDA	CDA	CDA	cytidine deaminase	4200	0.02636759728193283	0.3407642	No	
+row_75	RHOG	RHOG	RHOG	ras homolog gene family, member G (rho G)	4206	0.02616257593035698	0.34126556	No	
+row_76	PDGFB	PDGFB	PDGFB	platelet-derived growth factor beta polypeptide (simian sarcoma viral (v-sis) oncogene homolog)	4333	0.020678404718637466	0.3328395	No	
+row_77	DOCK4	DOCK4	DOCK4	dedicator of cytokinesis 4	4346	0.020000804215669632	0.33263165	No	
+row_78	GNG2	GNG2	GNG2	guanine nucleotide binding protein (G protein), gamma 2	4411	0.01745164953172207	0.32858086	No	
+row_79	USP14	USP14	USP14	ubiquitin specific peptidase 14 (tRNA-guanine transglycosylase)	4466	0.015030655078589916	0.3251731	No	
+row_80	CALM3	CALM3	CALM3	calmodulin 3 (phosphorylase kinase, delta)	4756	0.0039039861876517534	0.3044113	No	
+row_81	APOBEC3F	APOBEC3F	APOBEC3F	apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3F	4886	-0.002041487954556942	0.29515377	No	
+row_82	USP8	USP8	USP8	ubiquitin specific peptidase 8	4998	-0.00655804667621851	0.28734633	No	
+row_83	GNAI2	GNAI2	GNAI2	guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 2	5208	-0.015025756321847439	0.27273414	No	
+row_84	WAS	WAS	WAS	Wiskott-Aldrich syndrome (eczema-thrombocytopenia)	5389	-0.021289827302098274	0.2604248	No	
+row_85	CEBPB	CEBPB	CEBPB	CCAAT/enhancer binding protein (C/EBP), beta	5501	-0.025245504453778267	0.2532336	No	
+row_86	TNFAIP3	TNFAIP3	TNFAIP3	tumor necrosis factor, alpha-induced protein 3	5590	-0.028529057279229164	0.2478133	No	
+row_87	TIMP1	TIMP1	TIMP1	TIMP metallopeptidase inhibitor 1	5761	-0.03511248156428337	0.23668267	No	
+row_88	PLAUR	PLAUR	PLAUR	plasminogen activator, urokinase receptor	5850	-0.0397760346531868	0.23163325	No	
+row_89	CTSO	CTSO	CTSO	cathepsin O	6066	-0.04735730215907097	0.21765354	No	
+row_90	CSRP1	CSRP1	CSRP1	cysteine and glycine-rich protein 1	6078	-0.04780328646302223	0.21843484	No	
+row_91	LRP1	LRP1	LRP1	low density lipoprotein-related protein 1 (alpha-2-macroglobulin receptor)	6322	-0.05719204246997833	0.20275548	No	
+row_92	PLA2G4A	PLA2G4A	PLA2G4A	phospholipase A2, group IVA (cytosolic, calcium-dependent)	6498	-0.06391366571187973	0.19221321	No	
+row_93	PSEN1	PSEN1	PSEN1	presenilin 1 (Alzheimer disease 3)	6508	-0.06436935812234879	0.19368537	No	
+row_94	EHD1	EHD1	EHD1	EH-domain containing 1	6521	-0.06502796709537506	0.19496241	No	
+row_95	GNB4	GNB4	GNB4	guanine nucleotide binding protein (G protein), beta polypeptide 4	6604	-0.06797721982002258	0.1912767	No	
+row_96	ANXA5	ANXA5	ANXA5	annexin A5	6626	-0.0689045712351799	0.19203101	No	
+row_97	SH2B3	SH2B3	SH2B3	SH2B adaptor protein 3	7177	-0.08810871094465256	0.1551795	No	
+row_98	CALM1	CALM1	CALM1	calmodulin 1 (phosphorylase kinase, delta)	7389	-0.09541381895542145	0.14307374	No	
+row_99	LAMP2	LAMP2	LAMP2	lysosomal-associated membrane protein 2	7428	-0.09678348153829575	0.14351857	No	
+row_100	IRF7	IRF7	IRF7	interferon regulatory factor 7	7516	-0.10015035420656204	0.14053242	No	
+row_101	DUSP6	DUSP6	DUSP6	dual specificity phosphatase 6	7829	-0.11155590415000916	0.12165814	No	
+row_102	RNF4	RNF4	RNF4	ring finger protein 4	7877	-0.1128140315413475	0.12198104	No	
+row_103	PRSS36	PRSS36	PRSS36	protease, serine, 36	8090	-0.12010489404201508	0.11061724	No	
+row_104	PPP4C	PPP4C	PPP4C	protein phosphatase 4 (formerly X), catalytic subunit	8578	-0.13684596121311188	0.07992697	No	
+row_105	PFN1	PFN1	PFN1	profilin 1	8579	-0.13692308962345123	0.084442355	No	
+row_106	GMFB	GMFB	GMFB	glia maturation factor, beta	8616	-0.1382952630519867	0.08640071	No	
+row_107	STX4	STX4	STX4	syntaxin 4	8760	-0.14346551895141602	0.080795	No	
+row_108	DOCK9	DOCK9	DOCK9	dedicator of cytokinesis 9	8783	-0.14441293478012085	0.0839671	No	
+row_109	CFH	CFH	CFH	complement factor H	9023	-0.15254035592079163	0.071721226	No	
+row_110	MMP15	MMP15	MMP15	matrix metallopeptidase 15 (membrane-inserted)	9027	-0.15266789495944977	0.07653899	No	
+row_111	DUSP5	DUSP5	DUSP5	dual specificity phosphatase 5	9192	-0.15913458168506622	0.06993201	No	
+row_112	GNB2	GNB2	GNB2	guanine nucleotide binding protein (G protein), beta polypeptide 2	9589	-0.17338712513446808	0.04702476	No	
+row_113	SIRT6	SIRT6	SIRT6	sirtuin (silent mating type information regulation 2 homolog) 6 (S. cerevisiae)	9637	-0.17520809173583984	0.04940527	No	
+row_114	FDX1	FDX1	FDX1	ferredoxin 1	10163	-0.1954290121793747	0.01790006	No	
+row_115	TIMP2	TIMP2	TIMP2	TIMP metallopeptidase inhibitor 2	10358	-0.20303386449813843	0.010572199	No	
+row_116	KCNIP3	KCNIP3	KCNIP3	Kv channel interacting protein 3, calsenilin	10404	-0.20480744540691376	0.014073391	No	
+row_117	PIK3CA	PIK3CA	PIK3CA	phosphoinositide-3-kinase, catalytic, alpha polypeptide	10420	-0.20569463074207306	0.01977241	No	
+row_118	RCE1	RCE1	RCE1	RCE1 homolog, prenyl protein peptidase (S. cerevisiae)	10532	-0.20986293256282806	0.018669467	No	
+row_119	USP16	USP16	USP16	ubiquitin specific peptidase 16	10586	-0.21229392290115356	0.02183926	No	
+row_120	SPOCK2	SPOCK2	SPOCK2	sparc/osteonectin, cwcv and kazal-like domains proteoglycan (testican) 2	10737	-0.21810437738895416	0.018188957	No	
+row_121	MAFF	MAFF	MAFF	v-maf musculoaponeurotic fibrosarcoma oncogene homolog F (avian)	10836	-0.2216731756925583	0.0184152	No	
+row_122	PLAT	PLAT	PLAT	plasminogen activator, tissue	11146	-0.23629266023635864	0.0038712802	No	
+row_123	CBLB	CBLB	CBLB	Cas-Br-M (murine) ecotropic retroviral transforming sequence b	11180	-0.2377997785806656	0.009327907	No	
+row_124	ZFYVE20	ZFYVE20	ZFYVE20	zinc finger, FYVE domain containing 20	11265	-0.24156735837459564	0.01122221	No	
+row_125	S100A13	S100A13	S100A13	S100 calcium binding protein A13	11691	-0.26219233870506287	-0.010852739	No	
+row_126	CASP9	CASP9	CASP9	caspase 9, apoptosis-related cysteine peptidase	11736	-0.2638869881629944	-0.0053309626	No	
+row_127	XPNPEP1	XPNPEP1	XPNPEP1	X-prolyl aminopeptidase (aminopeptidase P) 1, soluble	12098	-0.2849249839782715	-0.022029962	No	
+row_128	RAF1	RAF1	RAF1	v-raf-1 murine leukemia viral oncogene homolog 1	12415	-0.304403156042099	-0.034833767	No	
+row_129	FYN	FYN	FYN	FYN oncogene related to SRC, FGR, YES	12436	-0.3061928451061249	-0.026181988	No	
+row_130	AKAP10	AKAP10	AKAP10	A kinase (PRKA) anchor protein 10	12544	-0.3147995173931122	-0.023535239	No	
+row_131	PREP	PREP	PREP	prolyl endopeptidase	12721	-0.3292863368988037	-0.025398461	No	
+row_132	ZEB1	ZEB1	null	null	12851	-0.3386668562889099	-0.02355491	No	
+row_133	MMP14	MMP14	MMP14	matrix metallopeptidase 14 (membrane-inserted)	12933	-0.3458261787891388	-0.018005548	No	
+row_134	COL4A2	COL4A2	COL4A2	collagen, type IV, alpha 2	12991	-0.3520471751689911	-0.010516179	No	
+row_135	SERPINE1	SERPINE1	SERPINE1	serpin peptidase inhibitor, clade E (nexin, plasminogen activator inhibitor type 1), member 1	13088	-0.3601949214935303	-0.005577257	No	
+row_136	PRDM4	PRDM4	PRDM4	PR domain containing 4	13236	-0.37786319851875305	-0.0037422485	No	
+row_137	C3	C3	C3	complement component 3	13354	-0.3933850824832916	7.732044E-4	No	
+row_138	DYRK2	DYRK2	DYRK2	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 2	13413	-0.40160590410232544	0.009824614	No	
+row_139	NOTCH4	NOTCH4	NOTCH4	Notch homolog 4 (Drosophila)	13691	-0.45727068185806274	0.00488115	No	
+row_140	CLU	CLU	CLU	clusterin	13735	-0.4701186418533325	0.017276227	No	

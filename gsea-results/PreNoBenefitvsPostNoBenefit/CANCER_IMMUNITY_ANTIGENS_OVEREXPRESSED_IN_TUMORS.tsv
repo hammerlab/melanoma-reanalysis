@@ -1,0 +1,28 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PTPRC	PTPRC	PTPRC	protein tyrosine phosphatase, receptor type, C	659	0.5601046085357666	0.038017858	No	
+row_1	CCND1	CCND1	CCND1	cyclin D1	2549	0.2437528520822525	-0.060307223	No	
+row_2	CPSF1	CPSF1	CPSF1	cleavage and polyadenylation specific factor 1, 160kDa	2586	0.23871314525604248	-0.026548913	No	
+row_3	MDM2	MDM2	MDM2	Mdm2, transformed 3T3 cell double minute 2, p53 binding protein (mouse)	2739	0.22328603267669678	-0.0034556799	No	
+row_4	CSF1	CSF1	CSF1	colony stimulating factor 1 (macrophage)	3304	0.1643623411655426	-0.018870689	No	
+row_5	ALDH1A1	ALDH1A1	ALDH1A1	aldehyde dehydrogenase 1 family, member A1	3440	0.15275289118289948	-0.00529591	No	
+row_6	RGS5	RGS5	RGS5	regulator of G-protein signalling 5	3611	0.13637736439704895	0.0032767027	No	
+row_7	MMP2	MMP2	MMP2	matrix metallopeptidase 2 (gelatinase A, 72kDa gelatinase, 72kDa type IV collagenase)	3634	0.13445395231246948	0.022167353	No	
+row_8	CES2	CES2	CES2	carboxylesterase 2 (intestine, liver)	3859	0.11682343482971191	0.023891745	No	
+row_9	EPHA3	EPHA3	EPHA3	EPH receptor A3	4162	0.0935911014676094	0.016487278	No	
+row_10	PLIN2	PLIN2	null	null	4190	0.09127292782068253	0.028446004	No	
+row_11	WDR46	WDR46	WDR46	WD repeat domain 46	4337	0.08041087538003922	0.030219508	No	
+row_12	ZNF395	ZNF395	ZNF395	zinc finger protein 395	5898	-0.03770465403795242	-0.07588469	No	
+row_13	SCRN1	SCRN1	SCRN1	secernin 1	6392	-0.0711180791258812	-0.10040395	No	
+row_14	CSPG4	CSPG4	CSPG4	chondroitin sulfate proteoglycan 4 (melanoma-associated)	7908	-0.1647796630859375	-0.18393725	Yes	
+row_15	GPC3	GPC3	GPC3	glypican 3	8258	-0.18692681193351746	-0.18050288	Yes	
+row_16	ERBB2	ERBB2	ERBB2	v-erb-b2 erythroblastic leukemia viral oncogene homolog 2, neuro/glioblastoma derived oncogene homolog (avian)	8608	-0.20933321118354797	-0.17365757	Yes	
+row_17	ENAH	ENAH	ENAH	enabled homolog (Drosophila)	9079	-0.23788775503635406	-0.17114048	Yes	
+row_18	FOLH1	FOLH1	FOLH1	folate hydrolase (prostate-specific membrane antigen) 1	9292	-0.2511448562145233	-0.14810798	Yes	
+row_19	KIF20A	KIF20A	KIF20A	kinesin family member 20A	9645	-0.27262556552886963	-0.13184276	Yes	
+row_20	BIRC5	BIRC5	BIRC5	baculoviral IAP repeat-containing 5 (survivin)	9894	-0.28763455152511597	-0.10583645	Yes	
+row_21	STEAP1	STEAP1	STEAP1	six transmembrane epithelial antigen of the prostate 1	10056	-0.2983165979385376	-0.07196656	Yes	
+row_22	EZH2	EZH2	EZH2	enhancer of zeste homolog 2 (Drosophila)	10681	-0.34043821692466736	-0.064879216	Yes	
+row_23	MDK	MDK	MDK	midkine (neurite growth-promoting factor 2)	11349	-0.38919809460639954	-0.05345203	Yes	
+row_24	BCL2L1	BCL2L1	BCL2L1	BCL2-like 1	11724	-0.4190312325954437	-0.01647675	Yes	
+row_25	TPBG	TPBG	TPBG	trophoblast glycoprotein	12223	-0.4629013240337372	0.018286718	Yes	
+row_26	VEGFA	VEGFA	null	null	13597	-0.7040619254112244	0.02702908	Yes	

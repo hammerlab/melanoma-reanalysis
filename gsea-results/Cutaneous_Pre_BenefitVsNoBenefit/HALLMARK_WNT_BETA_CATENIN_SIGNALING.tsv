@@ -1,0 +1,36 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GNAI1	GNAI1	GNAI1	guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 1	1105	0.6433195471763611	-0.034303322	No	
+row_1	FZD1	FZD1	FZD1	frizzled homolog 1 (Drosophila)	1610	0.5422986149787903	-0.032554183	No	
+row_2	PTCH1	PTCH1	PTCH1	patched homolog 1 (Drosophila)	2372	0.43051040172576904	-0.05705466	No	
+row_3	HDAC11	HDAC11	HDAC11	histone deacetylase 11	2893	0.369529128074646	-0.06852906	No	
+row_4	CUL1	CUL1	CUL1	cullin 1	3550	0.29499873518943787	-0.09496888	No	
+row_5	JAG2	JAG2	JAG2	jagged 2	4132	0.22972694039344788	-0.12059068	No	
+row_6	DVL2	DVL2	DVL2	dishevelled, dsh homolog 2 (Drosophila)	5073	0.143352210521698	-0.1780029	No	
+row_7	HDAC2	HDAC2	HDAC2	histone deacetylase 2	5167	0.13438411056995392	-0.17528154	No	
+row_8	HEY1	HEY1	HEY1	hairy/enhancer-of-split related with YRPW motif 1	5229	0.1285156011581421	-0.1706748	No	
+row_9	JAG1	JAG1	JAG1	jagged 1 (Alagille syndrome)	5403	0.11238334327936172	-0.17523007	No	
+row_10	CTNNB1	CTNNB1	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa	6049	0.051073554903268814	-0.21793	No	
+row_11	RBPJ	RBPJ	null	null	6087	0.04846153408288956	-0.217197	No	
+row_12	NUMB	NUMB	NUMB	numb homolog (Drosophila)	6316	0.02588377147912979	-0.23174366	No	
+row_13	PSEN2	PSEN2	PSEN2	presenilin 2 (Alzheimer disease 4)	6957	-0.032802775502204895	-0.27536196	No	
+row_14	PPARD	PPARD	PPARD	peroxisome proliferative activated receptor, delta	7326	-0.06943994760513306	-0.29690728	No	
+row_15	MYC	MYC	MYC	v-myc myelocytomatosis viral oncogene homolog (avian)	7376	-0.07404634356498718	-0.29524687	No	
+row_16	LEF1	LEF1	LEF1	lymphoid enhancer-binding factor 1	7595	-0.09451070427894592	-0.30427945	No	
+row_17	ADAM17	ADAM17	ADAM17	ADAM metallopeptidase domain 17 (tumor necrosis factor, alpha, converting enzyme)	7640	-0.09914002567529678	-0.30050644	No	
+row_18	CSNK1E	CSNK1E	CSNK1E	casein kinase 1, epsilon	7877	-0.12169316411018372	-0.30893037	No	
+row_19	AXIN2	AXIN2	AXIN2	axin 2 (conductin, axil)	8271	-0.15895095467567444	-0.3260127	No	
+row_20	KAT2A	KAT2A	null	null	8403	-0.1716938316822052	-0.32340953	No	
+row_21	NCSTN	NCSTN	NCSTN	nicastrin	8725	-0.20228366553783417	-0.33229813	No	
+row_22	CCND2	CCND2	CCND2	cyclin D2	8758	-0.20523497462272644	-0.32024872	No	
+row_23	SKP2	SKP2	SKP2	S-phase kinase-associated protein 2 (p45)	9882	-0.32739245891571045	-0.3779251	No	
+row_24	HEY2	HEY2	HEY2	hairy/enhancer-of-split related with YRPW motif 2	11112	-0.4805868864059448	-0.43249792	No	
+row_25	MAML1	MAML1	MAML1	mastermind-like 1 (Drosophila)	11731	-0.5673689842224121	-0.43717438	Yes	
+row_26	AXIN1	AXIN1	AXIN1	axin 1	12070	-0.6233187913894653	-0.41785416	Yes	
+row_27	NOTCH1	NOTCH1	NOTCH1	Notch homolog 1, translocation-associated (Drosophila)	12144	-0.6352639198303223	-0.37868896	Yes	
+row_28	FZD8	FZD8	FZD8	frizzled homolog 8 (Drosophila)	12154	-0.637790858745575	-0.33475605	Yes	
+row_29	DLL1	DLL1	DLL1	delta-like 1 (Drosophila)	12693	-0.7430563569068909	-0.32141393	Yes	
+row_30	HDAC5	HDAC5	HDAC5	histone deacetylase 5	13325	-0.9247334003448486	-0.3020449	Yes	
+row_31	FRAT1	FRAT1	FRAT1	frequently rearranged in advanced T-cell lymphomas	13548	-1.0512802600860596	-0.24449082	Yes	
+row_32	TCF7	TCF7	TCF7	transcription factor 7 (T-cell specific, HMG-box)	13563	-1.0607901811599731	-0.17135094	Yes	
+row_33	NCOR2	NCOR2	NCOR2	nuclear receptor co-repressor 2	13723	-1.1802966594696045	-0.10025986	Yes	
+row_34	NOTCH4	NOTCH4	NOTCH4	Notch homolog 4 (Drosophila)	13937	-1.6910159587860107	0.0026543122	Yes	
