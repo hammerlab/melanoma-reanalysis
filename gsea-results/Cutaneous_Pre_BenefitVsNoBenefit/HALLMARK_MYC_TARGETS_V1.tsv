@@ -1,0 +1,198 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CANX	CANX	CANX	calnexin	80	1.3067463636398315	0.012811246	Yes	
+row_1	EIF3J	EIF3J	null	null	162	1.1323729753494263	0.023065563	Yes	
+row_2	EIF1AX	EIF1AX	EIF1AX	eukaryotic translation initiation factor 1A, X-linked	207	1.0833899974822998	0.035307445	Yes	
+row_3	CYC1	CYC1	CYC1	cytochrome c-1	270	1.023576021194458	0.04539071	Yes	
+row_4	EIF2S2	EIF2S2	EIF2S2	eukaryotic translation initiation factor 2, subunit 2 beta, 38kDa	301	0.9935895800590515	0.05736929	Yes	
+row_5	LDHA	LDHA	LDHA	lactate dehydrogenase A	317	0.9801933765411377	0.070245706	Yes	
+row_6	COPS5	COPS5	COPS5	COP9 constitutive photomorphogenic homolog subunit 5 (Arabidopsis)	434	0.9013643264770508	0.07466849	Yes	
+row_7	VDAC1	VDAC1	VDAC1	voltage-dependent anion channel 1	447	0.8906715512275696	0.086487204	Yes	
+row_8	SYNCRIP	SYNCRIP	SYNCRIP	synaptotagmin binding, cytoplasmic RNA interacting protein	567	0.8251213431358337	0.089605995	Yes	
+row_9	PTGES3	PTGES3	PTGES3	prostaglandin E synthase 3 (cytosolic)	569	0.8245038390159607	0.10128036	Yes	
+row_10	HSPE1	HSPE1	HSPE1	heat shock 10kDa protein 1 (chaperonin 10)	581	0.8198177814483643	0.11216218	Yes	
+row_11	IFRD1	IFRD1	IFRD1	interferon-related developmental regulator 1	651	0.7932546734809875	0.11845593	Yes	
+row_12	SRPK1	SRPK1	SRPK1	SFRS protein kinase 1	669	0.7845698595046997	0.12840007	Yes	
+row_13	ETF1	ETF1	ETF1	eukaryotic translation termination factor 1	764	0.7457033395767212	0.13220187	Yes	
+row_14	XPOT	XPOT	XPOT	exportin, tRNA (nuclear export receptor for tRNAs)	794	0.7332247495651245	0.14054354	Yes	
+row_15	PCNA	PCNA	PCNA	proliferating cell nuclear antigen	837	0.7203561663627625	0.14775832	Yes	
+row_16	HPRT1	HPRT1	HPRT1	hypoxanthine phosphoribosyltransferase 1 (Lesch-Nyhan syndrome)	927	0.696133553981781	0.15121678	Yes	
+row_17	GLO1	GLO1	GLO1	glyoxalase I	1010	0.6672772169113159	0.15477215	Yes	
+row_18	CCT2	CCT2	CCT2	chaperonin containing TCP1, subunit 2 (beta)	1056	0.6559798717498779	0.16085202	Yes	
+row_19	MCM2	MCM2	MCM2	MCM2 minichromosome maintenance deficient 2, mitotin (S. cerevisiae)	1075	0.6500586867332458	0.16880716	Yes	
+row_20	COX5A	COX5A	COX5A	cytochrome c oxidase subunit Va	1081	0.6496704816818237	0.17770031	Yes	
+row_21	HSPD1	HSPD1	HSPD1	heat shock 60kDa protein 1 (chaperonin)	1152	0.6311884522438049	0.18161248	Yes	
+row_22	PGK1	PGK1	PGK1	phosphoglycerate kinase 1	1189	0.620601236820221	0.1878415	Yes	
+row_23	PSMA4	PSMA4	PSMA4	proteasome (prosome, macropain) subunit, alpha type, 4	1241	0.6105737090110779	0.19283898	Yes	
+row_24	G3BP1	G3BP1	null	null	1332	0.5904392004013062	0.19471899	Yes	
+row_25	CBX3	CBX3	CBX3	chromobox homolog 3 (HP1 gamma homolog, Drosophila)	1383	0.582338273525238	0.19938676	Yes	
+row_26	MCM4	MCM4	MCM4	MCM4 minichromosome maintenance deficient 4 (S. cerevisiae)	1422	0.5783141851425171	0.20486815	Yes	
+row_27	PSMD14	PSMD14	PSMD14	proteasome (prosome, macropain) 26S subunit, non-ATPase, 14	1451	0.5728147625923157	0.210997	Yes	
+row_28	DUT	DUT	DUT	dUTP pyrophosphatase	1534	0.5546680688858032	0.212948	Yes	
+row_29	YWHAE	YWHAE	YWHAE	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, epsilon polypeptide	1574	0.5481488108634949	0.21792704	Yes	
+row_30	GNL3	GNL3	GNL3	guanine nucleotide binding protein-like 3 (nucleolar)	1575	0.5478125810623169	0.22573188	Yes	
+row_31	RPLP0	RPLP0	RPLP0	ribosomal protein, large, P0	1595	0.5438117980957031	0.23210073	Yes	
+row_32	PSMA6	PSMA6	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6	1645	0.5369954705238342	0.23619506	Yes	
+row_33	MAD2L1	MAD2L1	MAD2L1	MAD2 mitotic arrest deficient-like 1 (yeast)	1672	0.5322695374488831	0.2418914	Yes	
+row_34	CLNS1A	CLNS1A	CLNS1A	chloride channel, nucleotide-sensitive, 1A	1776	0.5162051916122437	0.24177024	Yes	
+row_35	NCBP2	NCBP2	NCBP2	nuclear cap binding protein subunit 2, 20kDa	1780	0.5157884955406189	0.2489011	Yes	
+row_36	UBE2E1	UBE2E1	UBE2E1	ubiquitin-conjugating enzyme E2E 1 (UBC4/5 homolog, yeast)	1812	0.5100262761116028	0.25391763	Yes	
+row_37	EIF4H	EIF4H	null	null	1875	0.49895331263542175	0.25652644	Yes	
+row_38	SSBP1	SSBP1	SSBP1	single-stranded DNA binding protein 1	1907	0.4928603172302246	0.2612984	Yes	
+row_39	NDUFAB1	NDUFAB1	NDUFAB1	NADH dehydrogenase (ubiquinone) 1, alpha/beta subcomplex, 1, 8kDa	1924	0.48993396759033203	0.26711735	Yes	
+row_40	VBP1	VBP1	VBP1	von Hippel-Lindau binding protein 1	1949	0.48687544465065	0.2723121	Yes	
+row_41	PSMA2	PSMA2	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2	2016	0.4793054163455963	0.27435067	Yes	
+row_42	C1QBP	C1QBP	C1QBP	complement component 1, q subcomponent binding protein	2017	0.4792737066745758	0.28117904	Yes	
+row_43	SNRPB2	SNRPB2	SNRPB2	small nuclear ribonucleoprotein polypeptide B''	2050	0.47586145997047424	0.28563622	Yes	
+row_44	SMARCC1	SMARCC1	SMARCC1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 1	2125	0.4648306965827942	0.28688794	Yes	
+row_45	DEK	DEK	DEK	DEK oncogene (DNA binding)	2128	0.4647798240184784	0.2933646	Yes	
+row_46	PSMC6	PSMC6	PSMC6	proteasome (prosome, macropain) 26S subunit, ATPase, 6	2193	0.45663630962371826	0.29522538	Yes	
+row_47	EIF4G2	EIF4G2	EIF4G2	eukaryotic translation initiation factor 4 gamma, 2	2212	0.453890860080719	0.30038565	Yes	
+row_48	PABPC1	PABPC1	PABPC1	poly(A) binding protein, cytoplasmic 1	2230	0.4515344798564911	0.30558497	Yes	
+row_49	NPM1	NPM1	NPM1	nucleophosmin (nucleolar phosphoprotein B23, numatrin)	2325	0.4383906424045563	0.30500838	Yes	
+row_50	AIMP2	AIMP2	null	null	2342	0.4349954128265381	0.31004462	Yes	
+row_51	IMPDH2	IMPDH2	IMPDH2	IMP (inosine monophosphate) dehydrogenase 2	2359	0.4326551556587219	0.3150475	Yes	
+row_52	PSMA1	PSMA1	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1	2429	0.4235151410102844	0.31607345	Yes	
+row_53	TFDP1	TFDP1	TFDP1	transcription factor Dp-1	2471	0.4172899127006531	0.31904295	Yes	
+row_54	FAM120A	FAM120A	FAM120A	family with sequence similarity 120A	2505	0.41399019956588745	0.32254606	Yes	
+row_55	CNBP	CNBP	CNBP	CCHC-type zinc finger, nucleic acid binding protein	2530	0.4114808142185211	0.32666665	Yes	
+row_56	PRDX3	PRDX3	PRDX3	peroxiredoxin 3	2533	0.41080591082572937	0.33237436	Yes	
+row_57	POLE3	POLE3	POLE3	polymerase (DNA directed), epsilon 3 (p17 subunit)	2551	0.40897372364997864	0.3369673	Yes	
+row_58	TCP1	TCP1	TCP1	t-complex 1	2560	0.40819495916366577	0.34220234	Yes	
+row_59	YWHAQ	YWHAQ	YWHAQ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, theta polypeptide	2564	0.4078930914402008	0.34779596	Yes	
+row_60	H2AFZ	H2AFZ	H2AFZ	H2A histone family, member Z	2573	0.40626606345176697	0.35300353	Yes	
+row_61	RUVBL2	RUVBL2	RUVBL2	RuvB-like 2 (E. coli)	2625	0.4008120000362396	0.35501245	Yes	
+row_62	STARD7	STARD7	STARD7	START domain containing 7	2646	0.3987216651439667	0.35924158	Yes	
+row_63	RRM1	RRM1	RRM1	ribonucleotide reductase M1 polypeptide	2724	0.3883729577064514	0.35918623	Yes	
+row_64	TOMM70A	TOMM70A	TOMM70A	translocase of outer mitochondrial membrane 70 homolog A (S. cerevisiae)	2789	0.3819926977157593	0.3599835	Yes	
+row_65	PPIA	PPIA	PPIA	peptidylprolyl isomerase A (cyclophilin A)	2909	0.3681420385837555	0.35659158	Yes	
+row_66	GSPT1	GSPT1	GSPT1	G1 to S phase transition 1	3007	0.35524654388427734	0.35461268	Yes	
+row_67	DHX15	DHX15	DHX15	DEAH (Asp-Glu-Ala-His) box polypeptide 15	3080	0.34804481267929077	0.35434565	Yes	
+row_68	USP1	USP1	USP1	ubiquitin specific peptidase 1	3127	0.341815322637558	0.35587692	Yes	
+row_69	IARS	IARS	IARS	isoleucine-tRNA synthetase	3258	0.3283185064792633	0.35111925	Yes	
+row_70	SNRPG	SNRPG	SNRPG	small nuclear ribonucleoprotein polypeptide G	3298	0.3248293995857239	0.3529166	Yes	
+row_71	PSMD1	PSMD1	PSMD1	proteasome (prosome, macropain) 26S subunit, non-ATPase, 1	3313	0.3226473033428192	0.35649732	Yes	
+row_72	PRDX4	PRDX4	PRDX4	peroxiredoxin 4	3346	0.3200390636920929	0.3587345	Yes	
+row_73	EIF4E	EIF4E	EIF4E	eukaryotic translation initiation factor 4E	3381	0.31609830260276794	0.36077031	Yes	
+row_74	HSP90AB1	HSP90AB1	HSP90AB1	heat shock protein 90kDa alpha (cytosolic), class B member 1	3442	0.30832818150520325	0.3608084	Yes	
+row_75	RSL1D1	RSL1D1	RSL1D1	ribosomal L1 domain containing 1	3488	0.30264028906822205	0.36185414	Yes	
+row_76	CUL1	CUL1	CUL1	cullin 1	3550	0.29499873518943787	0.36162972	Yes	
+row_77	SSB	SSB	SSB	Sjogren syndrome antigen B (autoantigen La)	3566	0.29291000962257385	0.3647142	Yes	
+row_78	TYMS	TYMS	TYMS	thymidylate synthetase	3586	0.28991833329200745	0.36746573	Yes	
+row_79	CCNA2	CCNA2	CCNA2	cyclin A2	3590	0.28938964009284973	0.37137103	Yes	
+row_80	VDAC3	VDAC3	VDAC3	voltage-dependent anion channel 3	3609	0.2874717116355896	0.3741603	Yes	
+row_81	RAD23B	RAD23B	RAD23B	RAD23 homolog B (S. cerevisiae)	3621	0.28604698181152344	0.3774373	Yes	
+row_82	NOP16	NOP16	null	null	3625	0.28566575050354004	0.38128954	Yes	
+row_83	EIF2S1	EIF2S1	EIF2S1	eukaryotic translation initiation factor 2, subunit 1 alpha, 35kDa	3644	0.28376442193984985	0.384026	Yes	
+row_84	NME1	NME1	NME1	non-metastatic cells 1, protein (NM23A) expressed in	3684	0.2793141305446625	0.38517484	Yes	
+row_85	CDK4	CDK4	CDK4	cyclin-dependent kinase 4	3766	0.26866230368614197	0.38312364	Yes	
+row_86	SRSF3	SRSF3	null	null	3868	0.2574242651462555	0.3794607	Yes	
+row_87	CCT4	CCT4	CCT4	chaperonin containing TCP1, subunit 4 (delta)	3909	0.2533715069293976	0.38016737	Yes	
+row_88	ACP1	ACP1	ACP1	acid phosphatase 1, soluble	3919	0.25281694531440735	0.38311613	Yes	
+row_89	HDDC2	HDDC2	HDDC2	HD domain containing 2	3930	0.2513854205608368	0.3859719	Yes	
+row_90	ABCE1	ABCE1	ABCE1	ATP-binding cassette, sub-family E (OABP), member 1	3933	0.25091660022735596	0.3894016	Yes	
+row_91	CCT5	CCT5	CCT5	chaperonin containing TCP1, subunit 5 (epsilon)	4007	0.24206937849521637	0.38755214	No	
+row_92	HNRNPR	HNRNPR	null	null	4429	0.20266589522361755	0.35988364	No	
+row_93	NOP56	NOP56	null	null	4464	0.1990845501422882	0.36025235	No	
+row_94	TXNL4A	TXNL4A	TXNL4A	thioredoxin-like 4A	4467	0.19862279295921326	0.36293703	No	
+row_95	NHP2	NHP2	null	null	4607	0.1832713782787323	0.3554596	No	
+row_96	TRA2B	TRA2B	null	null	4635	0.1805821806192398	0.35607275	No	
+row_97	RFC4	RFC4	RFC4	replication factor C (activator 1) 4, 37kDa	4784	0.16726495325565338	0.34771407	No	
+row_98	KPNA2	KPNA2	KPNA2	karyopherin alpha 2 (RAG cohort 1, importin alpha 1)	4993	0.14979054033756256	0.33475167	No	
+row_99	SLC25A3	SLC25A3	SLC25A3	solute carrier family 25 (mitochondrial carrier; phosphate carrier), member 3	5018	0.14778390526771545	0.33511525	No	
+row_100	PSMD7	PSMD7	PSMD7	proteasome (prosome, macropain) 26S subunit, non-ATPase, 7 (Mov34 homolog)	5069	0.1435776799917221	0.3335319	No	
+row_101	NOLC1	NOLC1	NOLC1	nucleolar and coiled-body phosphoprotein 1	5114	0.13905610144138336	0.33231956	No	
+row_102	HDAC2	HDAC2	HDAC2	histone deacetylase 2	5167	0.13438411056995392	0.33046004	No	
+row_103	SRSF1	SRSF1	null	null	5181	0.13311785459518433	0.3314131	No	
+row_104	POLD2	POLD2	POLD2	polymerase (DNA directed), delta 2, regulatory subunit 50kDa	5231	0.12849417328834534	0.3296874	No	
+row_105	MRPL23	MRPL23	MRPL23	mitochondrial ribosomal protein L23	5300	0.12130039930343628	0.32648018	No	
+row_106	DDX21	DDX21	DDX21	DEAD (Asp-Glu-Ala-Asp) box polypeptide 21	5343	0.1179073378443718	0.3251117	No	
+row_107	XPO1	XPO1	XPO1	exportin 1 (CRM1 homolog, yeast)	5428	0.10997191071510315	0.32058182	No	
+row_108	CCT7	CCT7	CCT7	chaperonin containing TCP1, subunit 7 (eta)	5455	0.10741453617811203	0.32022512	No	
+row_109	EIF4A1	EIF4A1	EIF4A1	eukaryotic translation initiation factor 4A, isoform 1	5457	0.10726021975278854	0.32168072	No	
+row_110	CCT3	CCT3	CCT3	chaperonin containing TCP1, subunit 3 (gamma)	5529	0.10051163285970688	0.31795958	No	
+row_111	SERBP1	SERBP1	SERBP1	SERPINE1 mRNA binding protein 1	5563	0.09788373857736588	0.31695905	No	
+row_112	NCBP1	NCBP1	NCBP1	nuclear cap binding protein subunit 1, 80kDa	5599	0.09460286796092987	0.3157666	No	
+row_113	PA2G4	PA2G4	PA2G4	proliferation-associated 2G4, 38kDa	5604	0.0940810963511467	0.3168167	No	
+row_114	LSM2	LSM2	LSM2	LSM2 homolog, U6 small nuclear RNA associated (S. cerevisiae)	5629	0.0906129851937294	0.31636578	No	
+row_115	RAN	RAN	RAN	RAN, member RAS oncogene family	5653	0.08811238408088684	0.3159518	No	
+row_116	RPS10	RPS10	RPS10	ribosomal protein S10	5708	0.08306727558374405	0.313216	No	
+row_117	EPRS	EPRS	EPRS	glutamyl-prolyl-tRNA synthetase	5816	0.07397045195102692	0.30650386	No	
+row_118	SET	SET	SET	SET translocation (myeloid leukemia-associated)	5835	0.07245980203151703	0.3062298	No	
+row_119	PSMB2	PSMB2	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2	5934	0.06286422163248062	0.30001265	No	
+row_120	SRM	SRM	SRM	spermidine synthase	6111	0.04614232853055	0.28789607	No	
+row_121	ERH	ERH	ERH	enhancer of rudimentary homolog (Drosophila)	6129	0.0440191775560379	0.28728938	No	
+row_122	HNRNPA2B1	HNRNPA2B1	null	null	6180	0.039267510175704956	0.28421986	No	
+row_123	DDX18	DDX18	DDX18	DEAD (Asp-Glu-Ala-Asp) box polypeptide 18	6204	0.03744227811694145	0.28308398	No	
+row_124	SNRPD3	SNRPD3	SNRPD3	small nuclear ribonucleoprotein D3 polypeptide 18kDa	6231	0.03465625271201134	0.28169066	No	
+row_125	CDC45	CDC45	null	null	6272	0.03004578873515129	0.27921557	No	
+row_126	KPNB1	KPNB1	KPNB1	karyopherin (importin) beta 1	6290	0.028018373996019363	0.2783809	No	
+row_127	EIF3B	EIF3B	null	null	6321	0.025636540725827217	0.27656877	No	
+row_128	PSMA7	PSMA7	PSMA7	proteasome (prosome, macropain) subunit, alpha type, 7	6339	0.023947158828377724	0.2756761	No	
+row_129	HNRNPA3	HNRNPA3	null	null	6418	0.01699286885559559	0.270257	No	
+row_130	KARS	KARS	KARS	lysyl-tRNA synthetase	6486	0.010849538259208202	0.26554874	No	
+row_131	RPS5	RPS5	RPS5	ribosomal protein S5	6489	0.010479694232344627	0.2655529	No	
+row_132	PHB	PHB	PHB	prohibitin	6493	0.010219117626547813	0.26548076	No	
+row_133	PWP1	PWP1	PWP1	PWP1 homolog (S. cerevisiae)	6559	0.00479887006804347	0.26083145	No	
+row_134	RANBP1	RANBP1	RANBP1	RAN binding protein 1	6614	-1.7270565149374306E-4	0.25691462	No	
+row_135	RRP9	RRP9	null	null	6629	-0.0014866930432617664	0.2559197	No	
+row_136	PRPS2	PRPS2	PRPS2	phosphoribosyl pyrophosphate synthetase 2	6714	-0.010089000687003136	0.24996676	No	
+row_137	HNRNPU	HNRNPU	null	null	6755	-0.01320444606244564	0.2472517	No	
+row_138	MCM7	MCM7	MCM7	MCM7 minichromosome maintenance deficient 7 (S. cerevisiae)	6786	-0.01638253591954708	0.24530773	No	
+row_139	MCM6	MCM6	MCM6	MCM6 minichromosome maintenance deficient 6 (MIS5 homolog, S. pombe) (S. cerevisiae)	6933	-0.030625881627202034	0.23514746	No	
+row_140	NAP1L1	NAP1L1	NAP1L1	nucleosome assembly protein 1-like 1	6956	-0.03261984884738922	0.23401546	No	
+row_141	UBE2L3	UBE2L3	UBE2L3	ubiquitin-conjugating enzyme E2L 3	6977	-0.034356262534856796	0.23305336	No	
+row_142	MRPS18B	MRPS18B	MRPS18B	mitochondrial ribosomal protein S18B	7065	-0.04289538785815239	0.22735009	No	
+row_143	BUB3	BUB3	BUB3	BUB3 budding uninhibited by benzimidazoles 3 homolog (yeast)	7203	-0.05739981308579445	0.2182245	No	
+row_144	ORC2	ORC2	null	null	7248	-0.061992544680833817	0.21591422	No	
+row_145	MYC	MYC	MYC	v-myc myelocytomatosis viral oncogene homolog (avian)	7376	-0.07404634356498718	0.20775159	No	
+row_146	SF3A1	SF3A1	SF3A1	splicing factor 3a, subunit 1, 120kDa	7449	-0.08070734143257141	0.20367573	No	
+row_147	PSMD3	PSMD3	PSMD3	proteasome (prosome, macropain) 26S subunit, non-ATPase, 3	7453	-0.08107088506221771	0.20461303	No	
+row_148	SNRPD1	SNRPD1	SNRPD1	small nuclear ribonucleoprotein D1 polypeptide 16kDa	7499	-0.0851595550775528	0.20256025	No	
+row_149	CSTF2	CSTF2	CSTF2	cleavage stimulation factor, 3' pre-RNA, subunit 2, 64kDa	7536	-0.08914496004581451	0.20121746	No	
+row_150	SNRPD2	SNRPD2	SNRPD2	small nuclear ribonucleoprotein D2 polypeptide 16.5kDa	7558	-0.09102542698383331	0.20099016	No	
+row_151	GNB2L1	GNB2L1	GNB2L1	guanine nucleotide binding protein (G protein), beta polypeptide 2-like 1	7606	-0.09555528312921524	0.19894032	No	
+row_152	RPL22	RPL22	RPL22	ribosomal protein L22	7710	-0.10497865825891495	0.1929603	No	
+row_153	ILF2	ILF2	ILF2	interleukin enhancer binding factor 2, 45kDa	7734	-0.10700277984142303	0.19281548	No	
+row_154	HNRNPC	HNRNPC	null	null	7765	-0.10968280583620071	0.19220078	No	
+row_155	PABPC4	PABPC4	PABPC4	poly(A) binding protein, cytoplasmic 4 (inducible form)	7779	-0.11102434247732162	0.19283904	No	
+row_156	CDC20	CDC20	CDC20	CDC20 cell division cycle 20 homolog (S. cerevisiae)	7783	-0.11138956993818283	0.1942083	No	
+row_157	CDK2	CDK2	CDK2	cyclin-dependent kinase 2	7971	-0.13077646493911743	0.18249916	No	
+row_158	GOT2	GOT2	GOT2	glutamic-oxaloacetic transaminase 2, mitochondrial (aspartate aminotransferase 2)	8028	-0.13723763823509216	0.18038997	No	
+row_159	SNRPA1	SNRPA1	SNRPA1	small nuclear ribonucleoprotein polypeptide A'	8069	-0.1413251906633377	0.17950028	No	
+row_160	EXOSC7	EXOSC7	EXOSC7	exosome component 7	8095	-0.1438988596200943	0.17973597	No	
+row_161	RPS2	RPS2	RPS2	ribosomal protein S2	8298	-0.1618390530347824	0.16738069	No	
+row_162	PHB2	PHB2	PHB2	prohibitin 2	8358	-0.16744230687618256	0.1654841	No	
+row_163	RPS3	RPS3	RPS3	ribosomal protein S3	8382	-0.1697612851858139	0.1662334	No	
+row_164	PSMD8	PSMD8	PSMD8	proteasome (prosome, macropain) 26S subunit, non-ATPase, 8	8614	-0.19061142206192017	0.15218325	No	
+row_165	TARDBP	TARDBP	TARDBP	TAR DNA binding protein	8705	-0.1999616175889969	0.14850001	No	
+row_166	RPL6	RPL6	RPL6	ribosomal protein L6	8791	-0.20974195003509521	0.14531901	No	
+row_167	HDGF	HDGF	HDGF	hepatoma-derived growth factor (high-mobility group protein 1-like)	8805	-0.21074384450912476	0.147378	No	
+row_168	UBA2	UBA2	UBA2	-	9521	-0.2884123623371124	0.099592775	No	
+row_169	EIF3D	EIF3D	null	null	9550	-0.2918544411659241	0.10171869	No	
+row_170	APEX1	APEX1	APEX1	APEX nuclease (multifunctional DNA repair enzyme) 1	9636	-0.3011898100376129	0.099840574	No	
+row_171	SRSF7	SRSF7	null	null	9669	-0.3038865327835083	0.1018476	No	
+row_172	TUFM	TUFM	TUFM	Tu translation elongation factor, mitochondrial	9680	-0.30509504675865173	0.10546858	No	
+row_173	RPL18	RPL18	RPL18	ribosomal protein L18	9749	-0.31293877959251404	0.104991704	No	
+row_174	CAD	CAD	CAD	carbamoyl-phosphate synthetase 2, aspartate transcarbamylase, and dihydroorotase	9841	-0.32264962792396545	0.10298386	No	
+row_175	PSMB3	PSMB3	PSMB3	proteasome (prosome, macropain) subunit, beta type, 3	9869	-0.3259868323802948	0.10566864	No	
+row_176	RPS6	RPS6	RPS6	ribosomal protein S6	9963	-0.3353963792324066	0.10369725	No	
+row_177	RPL34	RPL34	RPL34	ribosomal protein L34	10036	-0.34314051270484924	0.10336035	No	
+row_178	XRCC6	XRCC6	XRCC6	X-ray repair complementing defective repair in Chinese hamster cells 6 (Ku autoantigen, 70kDa)	10121	-0.3547608256340027	0.102318056	No	
+row_179	PSMC4	PSMC4	PSMC4	proteasome (prosome, macropain) 26S subunit, ATPase, 4	10658	-0.42360344529151917	0.06945066	No	
+row_180	TRIM28	TRIM28	TRIM28	tripartite motif-containing 28	10669	-0.4248597323894501	0.07477797	No	
+row_181	RPL14	RPL14	RPL14	ribosomal protein L14	11226	-0.49492335319519043	0.041475102	No	
+row_182	RNPS1	RNPS1	RNPS1	RNA binding protein S1, serine-rich domain	11309	-0.5063632726669312	0.042737894	No	
+row_183	LSM7	LSM7	LSM7	LSM7 homolog, U6 small nuclear RNA associated (S. cerevisiae)	11640	-0.5529233813285828	0.02666433	No	
+row_184	SF3B3	SF3B3	SF3B3	splicing factor 3b, subunit 3, 130kDa	11851	-0.5857864022254944	0.019768514	No	
+row_185	SRSF2	SRSF2	null	null	11959	-0.6045064926147461	0.020615093	No	
+row_186	HNRNPA1	HNRNPA1	null	null	11971	-0.6063011884689331	0.028454872	No	
+row_187	PCBP1	PCBP1	PCBP1	poly(rC) binding protein 1	12135	-0.6339563727378845	0.02565658	No	
+row_188	PRPF31	PRPF31	PRPF31	PRP31 pre-mRNA processing factor 31 homolog (S. cerevisiae)	12262	-0.6553984880447388	0.025849225	No	
+row_189	MCM5	MCM5	MCM5	MCM5 minichromosome maintenance deficient 5, cell division cycle 46 (S. cerevisiae)	12793	-0.7693551778793335	-0.0016566647	No	
+row_190	ODC1	ODC1	ODC1	ornithine decarboxylase 1	13033	-0.826473593711853	-0.007228144	No	
+row_191	HNRNPD	HNRNPD	null	null	13061	-0.832099437713623	0.0026673784	No	
+row_192	FBL	FBL	FBL	fibrillarin	13070	-0.8345121741294861	0.013976286	No	
+row_193	U2AF1	U2AF1	U2AF1	U2 small nuclear RNA auxiliary factor 1	13114	-0.8470946550369263	0.022924177	No	
+row_194	SNRPA	SNRPA	SNRPA	small nuclear ribonucleoprotein polypeptide A	13252	-0.8920841813087463	0.025690578	No	
+row_195	PPM1G	PPM1G	PPM1G	protein phosphatase 1G (formerly 2C), magnesium-dependent, gamma isoform	13296	-0.9122610688209534	0.035566915	No	
+row_196	MRPL9	MRPL9	MRPL9	mitochondrial ribosomal protein L9	13375	-0.9524279236793518	0.04347524	No	

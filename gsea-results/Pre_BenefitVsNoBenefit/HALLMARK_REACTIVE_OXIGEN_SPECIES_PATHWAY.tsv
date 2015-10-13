@@ -1,0 +1,45 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SRXN1	SRXN1	SRXN1	sulfiredoxin 1 homolog (S. cerevisiae)	5	1.5500723123550415	0.09436952	Yes	
+row_1	GCLM	GCLM	GCLM	glutamate-cysteine ligase, modifier subunit	302	0.7007623910903931	0.11594712	Yes	
+row_2	NDUFB4	NDUFB4	NDUFB4	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 4, 15kDa	481	0.6265593767166138	0.14146033	Yes	
+row_3	TXN	TXN	TXN	thioredoxin	781	0.5426192879676819	0.1531581	Yes	
+row_4	PRDX2	PRDX2	PRDX2	peroxiredoxin 2	825	0.5306868553161621	0.18250293	Yes	
+row_5	PRNP	PRNP	PRNP	prion protein (p27-30) (Creutzfeldt-Jakob disease, Gerstmann-Strausler-Scheinker syndrome, fatal familial insomnia)	884	0.5202678442001343	0.2101343	Yes	
+row_6	SOD2	SOD2	SOD2	superoxide dismutase 2, mitochondrial	1485	0.423675537109375	0.19295666	Yes	
+row_7	CAT	CAT	CAT	catalase	1833	0.3753868639469147	0.19098891	Yes	
+row_8	GCLC	GCLC	GCLC	glutamate-cysteine ligase, catalytic subunit	2017	0.3548484444618225	0.19953834	Yes	
+row_9	MBP	MBP	MBP	myelin basic protein	2128	0.34330353140830994	0.21262233	Yes	
+row_10	GLRX2	GLRX2	GLRX2	glutaredoxin 2	2184	0.337586909532547	0.22930501	Yes	
+row_11	NQO1	NQO1	NQO1	NAD(P)H dehydrogenase, quinone 1	2225	0.3323262631893158	0.24674292	Yes	
+row_12	GLRX	GLRX	GLRX	glutaredoxin (thioltransferase)	2500	0.3020993173122406	0.24553654	Yes	
+row_13	TXNRD1	TXNRD1	TXNRD1	thioredoxin reductase 1	2667	0.2848833203315735	0.25103053	Yes	
+row_14	PFKP	PFKP	PFKP	phosphofructokinase, platelet	2907	0.2639251947402954	0.2500036	No	
+row_15	GSR	GSR	GSR	glutathione reductase	3198	0.2385523021221161	0.2437652	No	
+row_16	SOD1	SOD1	SOD1	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))	3383	0.22338861227035522	0.24420904	No	
+row_17	MSRA	MSRA	MSRA	methionine sulfoxide reductase A	4015	0.16839154064655304	0.20920515	No	
+row_18	OXSR1	OXSR1	OXSR1	oxidative-stress responsive 1	4459	0.13770344853401184	0.18582094	No	
+row_19	FES	FES	FES	feline sarcoma oncogene	5336	0.07367271929979324	0.1274419	No	
+row_20	SBNO2	SBNO2	SBNO2	strawberry notch homolog 2 (Drosophila)	5388	0.06905684620141983	0.12800121	No	
+row_21	PRDX1	PRDX1	PRDX1	peroxiredoxin 1	5590	0.05403004214167595	0.116874866	No	
+row_22	PDLIM1	PDLIM1	PDLIM1	PDZ and LIM domain 1 (elfin)	5896	0.030373655259609222	0.096837446	No	
+row_23	G6PD	G6PD	G6PD	glucose-6-phosphate dehydrogenase	6007	0.022221587598323822	0.0902994	No	
+row_24	PRDX4	PRDX4	PRDX4	peroxiredoxin 4	6744	-0.0298616960644722	0.039292503	No	
+row_25	ERCC2	ERCC2	ERCC2	excision repair cross-complementing rodent repair deficiency, complementation group 2 (xeroderma pigmentosum D)	6816	-0.03545708209276199	0.03636282	No	
+row_26	STK25	STK25	STK25	serine/threonine kinase 25 (STE20 homolog, yeast)	7844	-0.11213313043117523	-0.030504953	No	
+row_27	FTL	FTL	FTL	ferritin, light polypeptide	7859	-0.11343026161193848	-0.024577925	No	
+row_28	ABCC1	ABCC1	ABCC1	ATP-binding cassette, sub-family C (CFTR/MRP), member 1	8603	-0.17084716260433197	-0.06747136	No	
+row_29	PPP2R4	PPP2R4	PPP2R4	protein phosphatase 2A, regulatory subunit B' (PR 53)	9200	-0.2148595005273819	-0.097123094	No	
+row_30	NDUFS2	NDUFS2	NDUFS2	NADH dehydrogenase (ubiquinone) Fe-S protein 2, 49kDa (NADH-coenzyme Q reductase)	9701	-0.2541657090187073	-0.11748163	No	
+row_31	HMOX2	HMOX2	HMOX2	heme oxygenase (decycling) 2	9846	-0.2656426429748535	-0.11158427	No	
+row_32	GPX4	GPX4	GPX4	glutathione peroxidase 4 (phospholipid hydroperoxidase)	9907	-0.26957884430885315	-0.09941663	No	
+row_33	ATOX1	ATOX1	ATOX1	ATX1 antioxidant protein 1 homolog (yeast)	11183	-0.3790948987007141	-0.16777179	No	
+row_34	SCAF4	SCAF4	null	null	11719	-0.43371179699897766	-0.17967024	No	
+row_35	NDUFA6	NDUFA6	NDUFA6	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 6, 14kDa	11918	-0.45490533113479614	-0.16608284	No	
+row_36	PRDX6	PRDX6	PRDX6	peroxiredoxin 6	12259	-0.4945622980594635	-0.16026503	No	
+row_37	JUNB	JUNB	JUNB	jun B proto-oncogene	12297	-0.49869197607040405	-0.13244478	No	
+row_38	GPX3	GPX3	GPX3	glutathione peroxidase 3 (plasma)	12446	-0.5203819870948792	-0.111266844	No	
+row_39	CDKN2D	CDKN2D	CDKN2D	cyclin-dependent kinase inhibitor 2D (p19, inhibits CDK4)	12833	-0.5878549814224243	-0.10304969	No	
+row_40	LSP1	LSP1	LSP1	lymphocyte-specific protein 1	12843	-0.5903327465057373	-0.06761915	No	
+row_41	EGLN2	EGLN2	EGLN2	egl nine homolog 2 (C. elegans)	13240	-0.6736027002334595	-0.05487958	No	
+row_42	HHEX	HHEX	HHEX	homeobox, hematopoietically expressed	13531	-0.7656940221786499	-0.028903164	No	
+row_43	TXNRD2	TXNRD2	TXNRD2	thioredoxin reductase 2	13851	-0.9921237230300903	0.008829192	No	

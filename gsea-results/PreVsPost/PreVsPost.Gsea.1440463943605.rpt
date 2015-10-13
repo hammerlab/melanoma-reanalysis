@@ -1,0 +1,32 @@
+producer_class	xtools.gsea.Gsea
+producer_timestamp	1440463943605
+param	collapse	false
+param	cls	/Users/arman/Projects/checkpoint-trials/analysis/GSEA/post-pre_phenotype.cls#pre_versus_post
+param	plot_top_x	100
+param	norm	meandiv
+param	save_rnd_lists	false
+param	median	false
+param	num	100
+param	scoring_scheme	weighted
+param	make_sets	true
+param	mode	Max_probe
+param	gmx	/Users/arman/Projects/checkpoint-trials/analysis/GSEA/genesets/custom.cancer.immunity.symbols.gmt,/Users/arman/Projects/checkpoint-trials/analysis/GSEA/genesets/h.all.v5.0.symbols.gmt
+param	gui	false
+param	chip	/Users/arman/Projects/checkpoint-trials/analysis/GSEA/GENE_SYMBOL.chip
+param	metric	Signal2Noise
+param	rpt_label	PreVsPost
+param	help	false
+param	order	descending
+param	out	/Users/arman/gsea_home/output/aug24
+param	permute	phenotype
+param	rnd_type	no_balance
+param	set_min	1
+param	include_only_symbols	true
+param	sort	real
+param	rnd_seed	timestamp
+param	nperm	1000
+param	zip_report	false
+param	set_max	500
+param	res	/Users/arman/Projects/checkpoint-trials/analysis/GSEA/expression_fpkm.txt
+
+file	/Users/arman/gsea_home/output/aug24/PreVsPost.Gsea.1440463943605/index.html

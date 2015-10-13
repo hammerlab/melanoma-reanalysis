@@ -1,0 +1,87 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GUCY1A3	GUCY1A3	GUCY1A3	guanylate cyclase 1, soluble, alpha 3	126	0.7795920372009277	0.02107068	No	
+row_1	PTK2B	PTK2B	PTK2B	PTK2B protein tyrosine kinase 2 beta	458	0.615630567073822	0.021041978	No	
+row_2	TNFAIP8	TNFAIP8	TNFAIP8	tumor necrosis factor, alpha-induced protein 8	498	0.6024949550628662	0.041529223	No	
+row_3	MAF	MAF	MAF	v-maf musculoaponeurotic fibrosarcoma oncogene homolog (avian)	622	0.5703852772712708	0.054727007	No	
+row_4	ZMIZ1	ZMIZ1	null	null	1028	0.4731549024581909	0.043861583	No	
+row_5	FKBP5	FKBP5	FKBP5	FK506 binding protein 5	1091	0.45973360538482666	0.057173032	No	
+row_6	IQGAP2	IQGAP2	IQGAP2	IQ motif containing GTPase activating protein 2	1476	0.38278716802597046	0.044325564	No	
+row_7	SAT1	SAT1	SAT1	spermidine/spermine N1-acetyltransferase 1	1924	0.3174569606781006	0.024416167	No	
+row_8	B2M	B2M	B2M	beta-2-microglobulin	2157	0.28849735856056213	0.018866936	No	
+row_9	SEPP1	SEPP1	SEPP1	selenoprotein P, plasma, 1	2187	0.2837025225162506	0.027748194	No	
+row_10	UBE2J1	UBE2J1	UBE2J1	ubiquitin-conjugating enzyme E2, J1 (UBC6 homolog, yeast)	2382	0.26117241382598877	0.023878431	No	
+row_11	NCOA4	NCOA4	NCOA4	nuclear receptor coactivator 4	2406	0.2594701051712036	0.03225475	No	
+row_12	PPAP2A	PPAP2A	PPAP2A	phosphatidic acid phosphatase type 2A	2410	0.25925326347351074	0.042062674	No	
+row_13	RPS6KA3	RPS6KA3	RPS6KA3	ribosomal protein S6 kinase, 90kDa, polypeptide 3	2484	0.2519990801811218	0.04655016	No	
+row_14	CCND1	CCND1	CCND1	cyclin D1	2549	0.2437528520822525	0.0513668	No	
+row_15	CAMKK2	CAMKK2	CAMKK2	calcium/calmodulin-dependent protein kinase kinase 2, beta	2577	0.24016158282756805	0.058708563	No	
+row_16	MYL12A	MYL12A	null	null	2793	0.21553562581539154	0.051562287	No	
+row_17	INPP4B	INPP4B	INPP4B	inositol polyphosphate-4-phosphatase, type II, 105kDa	3092	0.1839303821325302	0.037218053	No	
+row_18	PIAS1	PIAS1	PIAS1	protein inhibitor of activated STAT, 1	3108	0.18273460865020752	0.04320342	No	
+row_19	SGK1	SGK1	null	null	3113	0.18235911428928375	0.049966265	No	
+row_20	SPCS3	SPCS3	SPCS3	signal peptidase complex subunit 3 homolog (S. cerevisiae)	3210	0.17386679351329803	0.049776807	No	
+row_21	TPD52	TPD52	TPD52	tumor protein D52	3353	0.16022256016731262	0.045747828	No	
+row_22	HSD17B14	HSD17B14	null	null	3604	0.1366516351699829	0.033031553	No	
+row_23	ELK4	ELK4	ELK4	ELK4, ETS-domain protein (SRF accessory protein 1)	3726	0.12811273336410522	0.029273052	No	
+row_24	CCND3	CCND3	CCND3	cyclin D3	3887	0.11520148813724518	0.022207363	No	
+row_25	SEC24D	SEC24D	SEC24D	SEC24 related gene family, member D (S. cerevisiae)	3984	0.10839790850877762	0.019486578	No	
+row_26	MERTK	MERTK	MERTK	c-mer proto-oncogene tyrosine kinase	4295	0.08358816057443619	3.9866008E-4	No	
+row_27	B4GALT1	B4GALT1	B4GALT1	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 1	4470	0.06781643629074097	-0.009507144	No	
+row_28	NDRG1	NDRG1	NDRG1	N-myc downstream regulated gene 1	4521	0.06272773444652557	-0.010681773	No	
+row_29	DBI	DBI	DBI	diazepam binding inhibitor (GABA receptor modulator, acyl-Coenzyme A binding protein)	4697	0.04963948205113411	-0.021362381	No	
+row_30	MAP7	MAP7	MAP7	microtubule-associated protein 7	4948	0.03143630549311638	-0.038146764	No	
+row_31	ARID5B	ARID5B	ARID5B	AT rich interactive domain 5B (MRF1-like)	4983	0.028432313352823257	-0.03949542	No	
+row_32	ZBTB10	ZBTB10	ZBTB10	zinc finger and BTB domain containing 10	5011	0.026217961683869362	-0.0404257	No	
+row_33	PDLIM5	PDLIM5	PDLIM5	PDZ and LIM domain 5	5377	5.695738364011049E-4	-0.066683464	No	
+row_34	ITGAV	ITGAV	ITGAV	integrin, alpha V (vitronectin receptor, alpha polypeptide, antigen CD51)	5953	-0.041155580431222916	-0.10649187	No	
+row_35	GPD1L	GPD1L	GPD1L	glycerol-3-phosphate dehydrogenase 1-like	5974	-0.04225670173764229	-0.106298015	No	
+row_36	ADRM1	ADRM1	ADRM1	adhesion regulating molecule 1	6570	-0.08218742907047272	-0.14595993	No	
+row_37	ADAMTS1	ADAMTS1	ADAMTS1	ADAM metallopeptidase with thrombospondin type 1 motif, 1	6671	-0.08984815329313278	-0.14968593	No	
+row_38	STK39	STK39	STK39	serine threonine kinase 39 (STE20/SPS1 homolog, yeast)	6791	-0.09819303452968597	-0.15445727	No	
+row_39	CENPN	CENPN	CENPN	centromere protein N	6852	-0.10161188989877701	-0.15484846	No	
+row_40	SLC26A2	SLC26A2	SLC26A2	solute carrier family 26 (sulfate transporter), member 2	6978	-0.10957901924848557	-0.15961155	No	
+row_41	ANKH	ANKH	ANKH	ankylosis, progressive homolog (mouse)	7038	-0.11281740665435791	-0.15949747	No	
+row_42	TSC22D1	TSC22D1	TSC22D1	TSC22 domain family, member 1	7159	-0.11967479437589645	-0.16351023	No	
+row_43	ACSL3	ACSL3	ACSL3	acyl-CoA synthetase long-chain family member 3	7250	-0.12549307942390442	-0.16513804	No	
+row_44	TMEM50A	TMEM50A	TMEM50A	transmembrane protein 50A	7338	-0.13075298070907593	-0.16634648	No	
+row_45	HERC3	HERC3	HERC3	hect domain and RLD 3	7376	-0.13402517139911652	-0.16382843	No	
+row_46	NGLY1	NGLY1	NGLY1	N-glycanase 1	7387	-0.13450512290000916	-0.15934783	No	
+row_47	ELL2	ELL2	ELL2	elongation factor, RNA polymerase II, 2	7988	-0.1699245125055313	-0.19597742	No	
+row_48	UBE2I	UBE2I	UBE2I	ubiquitin-conjugating enzyme E2I (UBC9 homolog, yeast)	8033	-0.17305772006511688	-0.19245419	No	
+row_49	CDC14B	CDC14B	CDC14B	CDC14 cell division cycle 14 homolog B (S. cerevisiae)	8047	-0.17377859354019165	-0.18667111	No	
+row_50	AKAP12	AKAP12	AKAP12	A kinase (PRKA) anchor protein (gravin) 12	9297	-0.25134459137916565	-0.26688024	No	
+row_51	XRCC6	XRCC6	XRCC6	X-ray repair complementing defective repair in Chinese hamster cells 6 (Ku autoantigen, 70kDa)	9544	-0.26696035265922546	-0.2742702	Yes	
+row_52	PTPN21	PTPN21	PTPN21	protein tyrosine phosphatase, non-receptor type 21	9667	-0.2737274765968323	-0.27247056	Yes	
+row_53	ABHD2	ABHD2	ABHD2	abhydrolase domain containing 2	9714	-0.27618280053138733	-0.26510403	Yes	
+row_54	SCD	SCD	SCD	stearoyl-CoA desaturase (delta-9-desaturase)	9941	-0.29099684953689575	-0.27012464	Yes	
+row_55	SRP19	SRP19	SRP19	signal recognition particle 19kDa	9971	-0.2923702597618103	-0.26090825	Yes	
+row_56	SMS	SMS	SMS	spermine synthase	10074	-0.29988282918930054	-0.25665733	Yes	
+row_57	ALDH1A3	ALDH1A3	ALDH1A3	aldehyde dehydrogenase 1 family, member A3	10126	-0.3027656078338623	-0.248623	Yes	
+row_58	GSR	GSR	GSR	glutathione reductase	10137	-0.3034929037094116	-0.23760857	Yes	
+row_59	HMGCS1	HMGCS1	HMGCS1	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 1 (soluble)	10183	-0.30622008442878723	-0.22900866	Yes	
+row_60	VAPA	VAPA	VAPA	VAMP (vesicle-associated membrane protein)-associated protein A, 33kDa	10282	-0.3123140335083008	-0.22398911	Yes	
+row_61	PGM3	PGM3	PGM3	phosphoglucomutase 3	10542	-0.3300792872905731	-0.22987458	Yes	
+row_62	ABCC4	ABCC4	ABCC4	ATP-binding cassette, sub-family C (CFTR/MRP), member 4	10602	-0.33466148376464844	-0.22118299	Yes	
+row_63	PA2G4	PA2G4	PA2G4	proliferation-associated 2G4, 38kDa	10845	-0.35213330388069153	-0.22499177	Yes	
+row_64	AKT1	AKT1	AKT1	v-akt murine thymoma viral oncogene homolog 1	10949	-0.3596709668636322	-0.21850117	Yes	
+row_65	H1F0	H1F0	H1F0	H1 histone family, member 0	11284	-0.38441771268844604	-0.22768563	Yes	
+row_66	PMEPA1	PMEPA1	null	null	11302	-0.3856964707374573	-0.21399681	Yes	
+row_67	RRP12	RRP12	null	null	11409	-0.3943151831626892	-0.20638272	Yes	
+row_68	RAB4A	RAB4A	RAB4A	RAB4A, member RAS oncogene family	11554	-0.40503475069999695	-0.20109013	Yes	
+row_69	SLC38A2	SLC38A2	SLC38A2	solute carrier family 38, member 2	11572	-0.40642690658569336	-0.18659979	Yes	
+row_70	ACTN1	ACTN1	ACTN1	actinin, alpha 1	11648	-0.41207432746887207	-0.17606707	Yes	
+row_71	IDI1	IDI1	IDI1	isopentenyl-diphosphate delta isomerase 1	11732	-0.41977816820144653	-0.16581246	Yes	
+row_72	UAP1	UAP1	UAP1	UDP-N-acteylglucosamine pyrophosphorylase 1	11865	-0.4297744929790497	-0.15869933	Yes	
+row_73	APPBP2	APPBP2	APPBP2	amyloid beta precursor protein (cytoplasmic tail) binding protein 2	11963	-0.43930378556251526	-0.14869778	Yes	
+row_74	FADS1	FADS1	FADS1	fatty acid desaturase 1	12118	-0.4530807435512543	-0.14226751	Yes	
+row_75	INSIG1	INSIG1	INSIG1	insulin induced gene 1	12156	-0.4558616876602173	-0.12730578	Yes	
+row_76	DHCR24	DHCR24	DHCR24	24-dehydrocholesterol reductase	12346	-0.47665727138519287	-0.12248391	Yes	
+row_77	GNAI3	GNAI3	GNAI3	guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 3	12801	-0.5347254872322083	-0.1344967	Yes	
+row_78	XRCC5	XRCC5	XRCC5	X-ray repair complementing defective repair in Chinese hamster cells 5 (double-strand-break rejoining; Ku autoantigen, 80kDa)	12859	-0.5421651005744934	-0.117638074	Yes	
+row_79	ELOVL5	ELOVL5	ELOVL5	ELOVL family member 5, elongation of long chain fatty acids (FEN1/Elo2, SUR4/Elo3-like, yeast)	12876	-0.5446262955665588	-0.09773231	Yes	
+row_80	LMAN1	LMAN1	LMAN1	lectin, mannose-binding, 1	12881	-0.5453071594238281	-0.07693623	Yes	
+row_81	HMGCR	HMGCR	HMGCR	3-hydroxy-3-methylglutaryl-Coenzyme A reductase	13479	-0.6717275977134705	-0.09394781	Yes	
+row_82	CDK6	CDK6	CDK6	cyclin-dependent kinase 6	13582	-0.6986019015312195	-0.0742806	Yes	
+row_83	DNAJB9	DNAJB9	DNAJB9	DnaJ (Hsp40) homolog, subfamily B, member 9	13655	-0.7244465947151184	-0.051454123	Yes	
+row_84	SRF	SRF	SRF	serum response factor (c-fos serum response element-binding transcription factor)	13854	-0.8593994975090027	-0.032481678	Yes	
+row_85	SORD	SORD	SORD	sorbitol dehydrogenase	13951	-1.061679482460022	0.0016557799	Yes	

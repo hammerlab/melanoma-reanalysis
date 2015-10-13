@@ -1,0 +1,68 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FBXO6	FBXO6	FBXO6	F-box protein 6	213	0.4907130002975464	0.02111117	No	
+row_1	FAM129A	FAM129A	null	null	238	0.4810757040977478	0.055096257	No	
+row_2	CXCL16	CXCL16	CXCL16	chemokine (C-X-C motif) ligand 16	415	0.4167647361755371	0.07337852	No	
+row_3	PDK3	PDK3	PDK3	pyruvate dehydrogenase kinase, isozyme 3	583	0.3761162757873535	0.08929051	No	
+row_4	ATF5	ATF5	ATF5	activating transcription factor 5	802	0.3383326232433319	0.09873083	No	
+row_5	ALDOC	ALDOC	ALDOC	aldolase C, fructose-bisphosphate	1170	0.2843627333641052	0.093451664	No	
+row_6	FABP5	FABP5	FABP5	fatty acid binding protein 5 (psoriasis-associated)	1303	0.2669113874435425	0.10377381	No	
+row_7	STARD4	STARD4	STARD4	START domain containing 4, sterol regulated	1679	0.22503776848316193	0.09351568	No	
+row_8	LGMN	LGMN	LGMN	legumain	1737	0.21987666189670563	0.105738975	No	
+row_9	CHKA	CHKA	CHKA	choline kinase alpha	2116	0.185745507478714	0.09234844	No	
+row_10	SCD	SCD	SCD	stearoyl-CoA desaturase (delta-9-desaturase)	2318	0.17189668118953705	0.090656385	No	
+row_11	GUSB	GUSB	GUSB	glucuronidase, beta	2536	0.15545755624771118	0.08659362	No	
+row_12	PLSCR1	PLSCR1	PLSCR1	phospholipid scramblase 1	2589	0.15177959203720093	0.09412151	No	
+row_13	LPL	LPL	LPL	lipoprotein lipase	2591	0.1517069786787033	0.10531096	No	
+row_14	LGALS3	LGALS3	LGALS3	lectin, galactoside-binding, soluble, 3 (galectin 3)	2647	0.1484980434179306	0.11237955	No	
+row_15	GNAI1	GNAI1	GNAI1	guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 1	3128	0.11733069270849228	0.08657661	No	
+row_16	GSTM2	GSTM2	GSTM2	glutathione S-transferase M2 (muscle)	3185	0.11467985063791275	0.09106295	No	
+row_17	TMEM97	TMEM97	TMEM97	transmembrane protein 97	3541	0.09528996050357819	0.07261153	No	
+row_18	SQLE	SQLE	SQLE	squalene epoxidase	3711	0.08396278321743011	0.066692896	No	
+row_19	S100A11	S100A11	S100A11	S100 calcium binding protein A11	3879	0.07422997802495956	0.06019558	No	
+row_20	SEMA3B	SEMA3B	SEMA3B	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3B	3943	0.07056830078363419	0.060904164	No	
+row_21	PPARG	PPARG	PPARG	peroxisome proliferative activated receptor, gamma	4141	0.060064610093832016	0.051198307	No	
+row_22	JAG1	JAG1	JAG1	jagged 1 (Alagille syndrome)	4175	0.05784342810511589	0.053119346	No	
+row_23	CTNNB1	CTNNB1	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa	4473	0.04196202754974365	0.034879614	No	
+row_24	FDFT1	FDFT1	FDFT1	farnesyl-diphosphate farnesyltransferase 1	4911	0.0210281815379858	0.00501979	No	
+row_25	ETHE1	ETHE1	ETHE1	ethylmalonic encephalopathy 1	5051	0.014798028394579887	-0.003875986	No	
+row_26	ACSS2	ACSS2	ACSS2	acyl-CoA synthetase short-chain family member 2	5174	0.008936607278883457	-0.011984543	No	
+row_27	CBS	CBS	CBS	cystathionine-beta-synthase	5281	0.004666667897254229	-0.019259645	No	
+row_28	ABCA2	ABCA2	ABCA2	ATP-binding cassette, sub-family A (ABC1), member 2	5435	-0.002025796566158533	-0.03011013	No	
+row_29	FADS2	FADS2	FADS2	fatty acid desaturase 2	5493	-0.004679674282670021	-0.033861116	No	
+row_30	TP53INP1	TP53INP1	TP53INP1	tumor protein p53 inducible nuclear protein 1	5607	-0.010151931084692478	-0.041232347	No	
+row_31	ANXA5	ANXA5	ANXA5	annexin A5	6325	-0.04225102439522743	-0.089649074	No	
+row_32	GPX8	GPX8	null	null	6466	-0.0477617047727108	-0.09616983	No	
+row_33	HMGCR	HMGCR	HMGCR	3-hydroxy-3-methylglutaryl-Coenzyme A reductase	6524	-0.050231192260980606	-0.09653948	No	
+row_34	CPEB2	CPEB2	CPEB2	cytoplasmic polyadenylation element binding protein 2	6635	-0.05493399500846863	-0.100370795	No	
+row_35	STX5	STX5	STX5	syntaxin 5	6918	-0.06655260920524597	-0.11570663	No	
+row_36	PLAUR	PLAUR	PLAUR	plasminogen activator, urokinase receptor	7589	-0.09383128583431244	-0.15691516	No	
+row_37	CD9	CD9	CD9	CD9 molecule	8086	-0.11475302278995514	-0.18405986	No	
+row_38	ATF3	ATF3	ATF3	activating transcription factor 3	8398	-0.12648533284664154	-0.19703196	No	
+row_39	PCYT2	PCYT2	PCYT2	phosphate cytidylyltransferase 2, ethanolamine	8409	-0.12688596546649933	-0.1883321	No	
+row_40	ACTG1	ACTG1	ACTG1	actin, gamma 1	9274	-0.16296043992042542	-0.23835792	No	
+row_41	PMVK	PMVK	PMVK	phosphomevalonate kinase	9551	-0.17492219805717468	-0.24521796	No	
+row_42	PNRC1	PNRC1	PNRC1	proline-rich nuclear receptor coactivator 1	9647	-0.17938950657844543	-0.23873231	No	
+row_43	NFIL3	NFIL3	NFIL3	nuclear factor, interleukin 3 regulated	10350	-0.21220743656158447	-0.2734545	Yes	
+row_44	HMGCS1	HMGCS1	HMGCS1	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 1 (soluble)	10393	-0.2144922912120819	-0.26055238	Yes	
+row_45	MVD	MVD	MVD	mevalonate (diphospho) decarboxylase	10401	-0.21482567489147186	-0.24510896	Yes	
+row_46	ECH1	ECH1	ECH1	enoyl Coenzyme A hydratase 1, peroxisomal	10480	-0.21823829412460327	-0.2345172	Yes	
+row_47	ATXN2	ATXN2	ATXN2	ataxin 2	10513	-0.2191379964351654	-0.22055122	Yes	
+row_48	FASN	FASN	FASN	fatty acid synthase	10568	-0.221201553940773	-0.20801388	Yes	
+row_49	MVK	MVK	MVK	mevalonate kinase (mevalonic aciduria)	10617	-0.2246214598417282	-0.19479126	Yes	
+row_50	ANTXR2	ANTXR2	ANTXR2	anthrax toxin receptor 2	10635	-0.22558939456939697	-0.17926785	Yes	
+row_51	NSDHL	NSDHL	NSDHL	NAD(P) dependent steroid dehydrogenase-like	10741	-0.23138487339019775	-0.16964154	Yes	
+row_52	LDLR	LDLR	LDLR	low density lipoprotein receptor (familial hypercholesterolemia)	11438	-0.267807275056839	-0.1998051	Yes	
+row_53	LSS	LSS	LSS	lanosterol synthase (2,3-oxidosqualene-lanosterol cyclase)	11566	-0.2750978469848633	-0.18851575	Yes	
+row_54	EBP	EBP	EBP	emopamil binding protein (sterol isomerase)	11627	-0.2785036265850067	-0.17215623	Yes	
+row_55	ERRFI1	ERRFI1	ERRFI1	ERBB receptor feedback inhibitor 1	11769	-0.2866136431694031	-0.16101867	Yes	
+row_56	TRIB3	TRIB3	TRIB3	tribbles homolog 3 (Drosophila)	12280	-0.3178071081638336	-0.17409709	Yes	
+row_57	HSD17B7	HSD17B7	HSD17B7	hydroxysteroid (17-beta) dehydrogenase 7	12501	-0.3325267732143402	-0.16523154	Yes	
+row_58	DHCR7	DHCR7	DHCR7	7-dehydrocholesterol reductase	12598	-0.34338122606277466	-0.14664452	Yes	
+row_59	FDPS	FDPS	FDPS	farnesyl diphosphate synthase (farnesyl pyrophosphate synthetase, dimethylallyltranstransferase, geranyltranstransferase)	12672	-0.3496132493019104	-0.12594117	Yes	
+row_60	TM7SF2	TM7SF2	TM7SF2	transmembrane 7 superfamily member 2	12741	-0.35418444871902466	-0.10453899	Yes	
+row_61	SREBF2	SREBF2	SREBF2	sterol regulatory element binding transcription factor 2	12983	-0.3747386038303375	-0.094049945	Yes	
+row_62	ACAT2	ACAT2	ACAT2	acetyl-Coenzyme A acetyltransferase 2 (acetoacetyl Coenzyme A thiolase)	13107	-0.3861340880393982	-0.07423067	Yes	
+row_63	CYP51A1	CYP51A1	CYP51A1	cytochrome P450, family 51, subfamily A, polypeptide 1	13138	-0.39061370491981506	-0.04739207	Yes	
+row_64	IDI1	IDI1	IDI1	isopentenyl-diphosphate delta isomerase 1	13251	-0.40490108728408813	-0.025388794	Yes	
+row_65	CLU	CLU	CLU	clusterin	13733	-0.5088828206062317	-0.022198344	Yes	
+row_66	ALCAM	ALCAM	ALCAM	activated leukocyte cell adhesion molecule	13791	-0.531514585018158	0.013158131	Yes	

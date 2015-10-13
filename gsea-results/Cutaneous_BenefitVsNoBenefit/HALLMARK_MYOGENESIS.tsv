@@ -1,0 +1,119 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IGFBP3	IGFBP3	IGFBP3	insulin-like growth factor binding protein 3	151	0.526207685470581	0.009393902	No	
+row_1	ITGB4	ITGB4	ITGB4	integrin, beta 4	297	0.4558393657207489	0.016507348	No	
+row_2	EPHB3	EPHB3	EPHB3	EPH receptor B3	371	0.43071848154067993	0.027848044	No	
+row_3	HSPB8	HSPB8	HSPB8	heat shock 22kDa protein 8	423	0.4144276976585388	0.040148206	No	
+row_4	PC	PC	PC	pyruvate carboxylase	536	0.3875030279159546	0.047008026	No	
+row_5	LARGE	LARGE	LARGE	like-glycosyltransferase	554	0.38249364495277405	0.06053042	No	
+row_6	MRAS	MRAS	MRAS	muscle RAS oncogene homolog	608	0.37221503257751465	0.0710585	No	
+row_7	DAPK2	DAPK2	DAPK2	death-associated protein kinase 2	699	0.3535202741622925	0.078195564	No	
+row_8	SLC6A8	SLC6A8	SLC6A8	solute carrier family 6 (neurotransmitter transporter, creatine), member 8	878	0.32545042037963867	0.07789966	No	
+row_9	GSN	GSN	GSN	gelsolin (amyloidosis, Finnish type)	889	0.32335272431373596	0.0896467	No	
+row_10	CD36	CD36	CD36	CD36 molecule (thrombospondin receptor)	1217	0.27749940752983093	0.07674908	No	
+row_11	EFS	EFS	EFS	embryonal Fyn-associated substrate	1355	0.26081687211990356	0.07691965	No	
+row_12	PFKM	PFKM	PFKM	phosphofructokinase, muscle	1507	0.2446962296962738	0.07545829	No	
+row_13	SOD3	SOD3	SOD3	superoxide dismutase 3, extracellular	1562	0.23794707655906677	0.08073674	No	
+row_14	SPARC	SPARC	SPARC	secreted protein, acidic, cysteine-rich (osteonectin)	1715	0.22149793803691864	0.078308664	No	
+row_15	ATP6AP1	ATP6AP1	ATP6AP1	ATPase, H+ transporting, lysosomal accessory protein 1	1782	0.2152682989835739	0.08184662	No	
+row_16	HBEGF	HBEGF	HBEGF	heparin-binding EGF-like growth factor	1800	0.21356673538684845	0.08885508	No	
+row_17	AGL	AGL	AGL	amylo-1, 6-glucosidase, 4-alpha-glucanotransferase (glycogen debranching enzyme, glycogen storage disease type III)	1892	0.2056158035993576	0.09021668	No	
+row_18	PPP1R3C	PPP1R3C	PPP1R3C	protein phosphatase 1, regulatory (inhibitor) subunit 3C	1938	0.20157934725284576	0.09474226	No	
+row_19	NAV2	NAV2	NAV2	neuron navigator 2	2163	0.18178284168243408	0.085586816	No	
+row_20	PTP4A3	PTP4A3	PTP4A3	protein tyrosine phosphatase type IVA, member 3	2296	0.1731334775686264	0.08273709	No	
+row_21	SCD	SCD	SCD	stearoyl-CoA desaturase (delta-9-desaturase)	2318	0.17189668118953705	0.08785006	No	
+row_22	GPX3	GPX3	GPX3	glutathione peroxidase 3 (plasma)	2415	0.16351033747196198	0.08722722	No	
+row_23	PRNP	PRNP	PRNP	prion protein (p27-30) (Creutzfeldt-Jakob disease, Gerstmann-Strausler-Scheinker syndrome, fatal familial insomnia)	2564	0.15345478057861328	0.08246402	No	
+row_24	CRYAB	CRYAB	CRYAB	crystallin, alpha B	2575	0.15277767181396484	0.08763357	No	
+row_25	SGCD	SGCD	SGCD	sarcoglycan, delta (35kDa dystrophin-associated glycoprotein)	2750	0.14114239811897278	0.08051929	No	
+row_26	GABARAPL2	GABARAPL2	GABARAPL2	GABA(A) receptor-associated protein-like 2	2930	0.12946057319641113	0.07259371	No	
+row_27	ACSL1	ACSL1	ACSL1	acyl-CoA synthetase long-chain family member 1	2970	0.12622813880443573	0.0746467	No	
+row_28	FOXO4	FOXO4	null	null	3454	0.10019606351852417	0.043654293	No	
+row_29	GJA5	GJA5	GJA5	gap junction protein, alpha 5, 40kDa (connexin 40)	3537	0.09539816528558731	0.041415323	No	
+row_30	MEF2A	MEF2A	MEF2A	MADS box transcription enhancer factor 2, polypeptide A (myocyte enhancer factor 2A)	3538	0.09534047544002533	0.045091715	No	
+row_31	COX7A1	COX7A1	COX7A1	cytochrome c oxidase subunit VIIa polypeptide 1 (muscle)	3637	0.088398776948452	0.041428193	No	
+row_32	IFRD1	IFRD1	IFRD1	interferon-related developmental regulator 1	3704	0.08436315506696701	0.03991836	No	
+row_33	ADCY9	ADCY9	ADCY9	adenylate cyclase 9	3813	0.07791424542665482	0.035128888	No	
+row_34	PLXNB2	PLXNB2	PLXNB2	plexin B2	4254	0.05346744880080223	0.0054377266	No	
+row_35	SVIL	SVIL	SVIL	supervillin	4406	0.04573807120323181	-0.003695602	No	
+row_36	PDE4DIP	PDE4DIP	PDE4DIP	phosphodiesterase 4D interacting protein (myomegalin)	4815	0.025568919256329536	-0.03215325	No	
+row_37	AK1	AK1	AK1	adenylate kinase 1	4949	0.01913338713347912	-0.04101349	No	
+row_38	CDKN1A	CDKN1A	CDKN1A	cyclin-dependent kinase inhibitor 1A (p21, Cip1)	5034	0.015324124135077	-0.0464845	No	
+row_39	FABP3	FABP3	FABP3	fatty acid binding protein 3, muscle and heart (mammary-derived growth inhibitor)	5389	-6.107469671405852E-4	-0.072007604	No	
+row_40	NOTCH1	NOTCH1	NOTCH1	Notch homolog 1, translocation-associated (Drosophila)	5445	-0.0022942237555980682	-0.07588825	No	
+row_41	RIT1	RIT1	RIT1	Ras-like without CAAX 1	5459	-0.0032536836806684732	-0.07670094	No	
+row_42	BDKRB2	BDKRB2	BDKRB2	bradykinin receptor B2	5711	-0.014307224191725254	-0.09426283	No	
+row_43	ST5	ST5	ST5	suppression of tumorigenicity 5	5758	-0.017258381471037865	-0.09691696	No	
+row_44	CNN3	CNN3	CNN3	calponin 3, acidic	5952	-0.02493404597043991	-0.109883465	No	
+row_45	SPTAN1	SPTAN1	SPTAN1	spectrin, alpha, non-erythrocytic 1 (alpha-fodrin)	6322	-0.042001739144325256	-0.13489299	No	
+row_46	TPM2	TPM2	TPM2	tropomyosin 2 (beta)	6344	-0.042830754071474075	-0.13475688	No	
+row_47	GAA	GAA	GAA	glucosidase, alpha; acid (Pompe disease, glycogen storage disease type II)	6608	-0.05370942875742912	-0.15166539	No	
+row_48	CFD	CFD	CFD	complement factor D (adipsin)	6665	-0.056366488337516785	-0.15353315	No	
+row_49	OCEL1	OCEL1	OCEL1	occludin/ELL domain containing 1	6836	-0.06337081640958786	-0.16335769	No	
+row_50	SYNGR2	SYNGR2	SYNGR2	synaptogyrin 2	7180	-0.0769420936703682	-0.18514358	No	
+row_51	CRAT	CRAT	CRAT	carnitine acetyltransferase	7756	-0.10030365735292435	-0.22277108	No	
+row_52	CKB	CKB	CKB	creatine kinase, brain	7839	-0.10394514352083206	-0.22468047	No	
+row_53	SORBS3	SORBS3	SORBS3	sorbin and SH3 domain containing 3	7858	-0.10477538406848907	-0.22193924	No	
+row_54	MYL6B	MYL6B	MYL6B	myosin, light chain 6B, alkali, smooth muscle and non-muscle	7866	-0.10515429079532623	-0.21838959	No	
+row_55	ADAM12	ADAM12	ADAM12	ADAM metallopeptidase domain 12 (meltrin alpha)	8101	-0.11532939225435257	-0.23082916	No	
+row_56	STC2	STC2	STC2	stanniocalcin 2	8443	-0.12884126603603363	-0.25046948	No	
+row_57	APLNR	APLNR	null	null	8603	-0.1353912204504013	-0.25672305	No	
+row_58	NQO1	NQO1	NQO1	NAD(P)H dehydrogenase, quinone 1	8673	-0.13774412870407104	-0.25639096	No	
+row_59	SH2B1	SH2B1	SH2B1	SH2B adaptor protein 1	8869	-0.14577266573905945	-0.26484218	No	
+row_60	CHRNB1	CHRNB1	CHRNB1	cholinergic receptor, nicotinic, beta 1 (muscle)	8913	-0.14759646356105804	-0.26225388	No	
+row_61	AGRN	AGRN	null	null	9126	-0.15664492547512054	-0.2715127	No	
+row_62	ITGA7	ITGA7	ITGA7	integrin, alpha 7	9213	-0.15999682247638702	-0.27154934	Yes	
+row_63	FGF2	FGF2	FGF2	fibroblast growth factor 2 (basic)	9276	-0.16304084658622742	-0.26973665	Yes	
+row_64	PDLIM7	PDLIM7	PDLIM7	PDZ and LIM domain 7 (enigma)	9334	-0.1656692773103714	-0.26746178	Yes	
+row_65	SSPN	SSPN	SSPN	sarcospan (Kras oncogene-associated gene)	9368	-0.16709072887897491	-0.2634001	Yes	
+row_66	ITGB5	ITGB5	ITGB5	integrin, beta 5	9444	-0.1709902435541153	-0.26221904	Yes	
+row_67	LSP1	LSP1	LSP1	lymphocyte-specific protein 1	9478	-0.17229093611240387	-0.25795686	Yes	
+row_68	SH3BGR	SH3BGR	SH3BGR	SH3 domain binding glutamic acid-rich protein	9563	-0.17552287876605988	-0.2572505	Yes	
+row_69	PSEN2	PSEN2	PSEN2	presenilin 2 (Alzheimer disease 4)	9588	-0.1767590045928955	-0.25216654	Yes	
+row_70	MYO1C	MYO1C	MYO1C	myosin IC	9683	-0.18118861317634583	-0.25196335	Yes	
+row_71	WWTR1	WWTR1	WWTR1	WW domain containing transcription regulator 1	9734	-0.18377016484737396	-0.24848533	Yes	
+row_72	MYH9	MYH9	MYH9	myosin, heavy chain 9, non-muscle	9937	-0.192843958735466	-0.25562662	Yes	
+row_73	HSPB2	HSPB2	HSPB2	heat shock 27kDa protein 2	10071	-0.19948741793632507	-0.25753227	Yes	
+row_74	AKT2	AKT2	AKT2	v-akt murine thymoma viral oncogene homolog 2	10143	-0.2024051547050476	-0.25485116	Yes	
+row_75	COL4A2	COL4A2	COL4A2	collagen, type IV, alpha 2	10318	-0.21049541234970093	-0.25929114	Yes	
+row_76	COL15A1	COL15A1	COL15A1	collagen, type XV, alpha 1	10352	-0.21234863996505737	-0.2534843	Yes	
+row_77	PICK1	PICK1	PICK1	protein interacting with PRKCA 1	10374	-0.2135755866765976	-0.24676417	Yes	
+row_78	EIF4A2	EIF4A2	EIF4A2	eukaryotic translation initiation factor 4A, isoform 2	10503	-0.21887235343456268	-0.24756151	Yes	
+row_79	HDAC5	HDAC5	HDAC5	histone deacetylase 5	10644	-0.226242795586586	-0.24894063	Yes	
+row_80	KIFC3	KIFC3	KIFC3	kinesin family member C3	10646	-0.22653824090957642	-0.24027734	Yes	
+row_81	RB1	RB1	RB1	retinoblastoma 1 (including osteosarcoma)	10673	-0.22809092700481415	-0.23335831	Yes	
+row_82	TSC2	TSC2	TSC2	tuberous sclerosis 2	10696	-0.2290497124195099	-0.22611365	Yes	
+row_83	BHLHE40	BHLHE40	null	null	10718	-0.2304118126630783	-0.2187443	Yes	
+row_84	ABLIM1	ABLIM1	ABLIM1	actin binding LIM protein 1	10827	-0.2356998175382614	-0.21744944	Yes	
+row_85	AEBP1	AEBP1	AEBP1	AE binding protein 1	10848	-0.23701244592666626	-0.2097534	Yes	
+row_86	GADD45B	GADD45B	GADD45B	growth arrest and DNA-damage-inducible, beta	10968	-0.2431798130273819	-0.20896393	Yes	
+row_87	MYLK	MYLK	MYLK	myosin, light chain kinase	11014	-0.24575269222259521	-0.20273499	Yes	
+row_88	PTGIS	PTGIS	PTGIS	prostaglandin I2 (prostacyclin) synthase	11187	-0.25466424226760864	-0.20532748	Yes	
+row_89	MAPRE3	MAPRE3	MAPRE3	microtubule-associated protein, RP/EB family, member 3	11228	-0.25716716051101685	-0.19829756	Yes	
+row_90	TPD52L1	TPD52L1	TPD52L1	tumor protein D52-like 1	11270	-0.2595646381378174	-0.19124737	Yes	
+row_91	SPHK1	SPHK1	SPHK1	sphingosine kinase 1	11283	-0.26032090187072754	-0.18207522	Yes	
+row_92	FHL1	FHL1	FHL1	four and a half LIM domains 1	11325	-0.26253312826156616	-0.17491055	Yes	
+row_93	MEF2C	MEF2C	MEF2C	MADS box transcription enhancer factor 2, polypeptide C (myocyte enhancer factor 2C)	11371	-0.2648545801639557	-0.16794504	Yes	
+row_94	MAPK12	MAPK12	MAPK12	mitogen-activated protein kinase 12	11412	-0.26642826199531555	-0.16055802	Yes	
+row_95	SORBS1	SORBS1	SORBS1	sorbin and SH3 domain containing 1	11501	-0.2715400755405426	-0.15643783	Yes	
+row_96	ITGB1	ITGB1	ITGB1	integrin, beta 1 (fibronectin receptor, beta polypeptide, antigen CD29 includes MDF2, MSK12)	11644	-0.28009262681007385	-0.15588479	Yes	
+row_97	SMTN	SMTN	SMTN	smoothelin	11673	-0.2816423177719116	-0.14704512	Yes	
+row_98	IGFBP7	IGFBP7	IGFBP7	insulin-like growth factor binding protein 7	11781	-0.2872731685638428	-0.1436894	Yes	
+row_99	TEAD4	TEAD4	TEAD4	TEA domain family member 4	11872	-0.2930614948272705	-0.13888367	Yes	
+row_100	ENO3	ENO3	ENO3	enolase 3 (beta, muscle)	12123	-0.3080487847328186	-0.14504652	Yes	
+row_101	TGFB1	TGFB1	TGFB1	transforming growth factor, beta 1 (Camurati-Engelmann disease)	12133	-0.3090301752090454	-0.1337796	Yes	
+row_102	SIRT2	SIRT2	SIRT2	sirtuin (silent mating type information regulation 2 homolog) 2 (S. cerevisiae)	12155	-0.3104187250137329	-0.123325124	Yes	
+row_103	TAGLN	TAGLN	TAGLN	transgelin	12428	-0.3274272084236145	-0.13032839	Yes	
+row_104	TPM3	TPM3	TPM3	tropomyosin 3	12539	-0.33681604266166687	-0.12527876	Yes	
+row_105	FDPS	FDPS	FDPS	farnesyl diphosphate synthase (farnesyl pyrophosphate synthetase, dimethylallyltranstransferase, geranyltranstransferase)	12672	-0.3496132493019104	-0.1213233	Yes	
+row_106	LPIN1	LPIN1	LPIN1	lipin 1	12795	-0.35894593596458435	-0.11628632	Yes	
+row_107	DMPK	DMPK	DMPK	dystrophia myotonica-protein kinase	12820	-0.3605726361274719	-0.104114376	Yes	
+row_108	APOD	APOD	APOD	apolipoprotein D	13118	-0.3870237469673157	-0.11062369	Yes	
+row_109	BIN1	BIN1	BIN1	bridging integrator 1	13126	-0.38818684220314026	-0.09616011	Yes	
+row_110	BAG1	BAG1	BAG1	BCL2-associated athanogene	13286	-0.4098253846168518	-0.09183131	Yes	
+row_111	MEF2D	MEF2D	MEF2D	MADS box transcription enhancer factor 2, polypeptide D (myocyte enhancer factor 2D)	13347	-0.4183686375617981	-0.080028675	Yes	
+row_112	COL6A2	COL6A2	COL6A2	collagen, type VI, alpha 2	13580	-0.4640238285064697	-0.078878045	Yes	
+row_113	COL6A3	COL6A3	COL6A3	collagen, type VI, alpha 3	13649	-0.48087558150291443	-0.065242425	Yes	
+row_114	CLU	CLU	CLU	clusterin	13733	-0.5088828206062317	-0.051609315	Yes	
+row_115	COL3A1	COL3A1	COL3A1	collagen, type III, alpha 1 (Ehlers-Danlos syndrome type IV, autosomal dominant)	13804	-0.5387659668922424	-0.035885736	Yes	
+row_116	COL1A1	COL1A1	COL1A1	collagen, type I, alpha 1	13898	-0.6058266758918762	-0.019236064	Yes	
+row_117	FLII	FLII	FLII	flightless I homolog (Drosophila)	13921	-0.6392104029655457	0.0038246724	Yes	

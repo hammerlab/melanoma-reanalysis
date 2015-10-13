@@ -1,0 +1,55 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MTHFR	MTHFR	MTHFR	5,10-methylenetetrahydrofolate reductase (NADPH)	39	0.992779016494751	0.049079366	Yes	
+row_1	NRIP2	NRIP2	NRIP2	nuclear receptor interacting protein 2	46	0.965570867061615	0.0991074	Yes	
+row_2	KCNMB1	KCNMB1	KCNMB1	potassium large conductance calcium-activated channel, subfamily M, beta member 1	52	0.9339091777801514	0.14755268	Yes	
+row_3	CAMK1D	CAMK1D	CAMK1D	calcium/calmodulin-dependent protein kinase ID	74	0.8694896697998047	0.19148217	Yes	
+row_4	MAST3	MAST3	MAST3	microtubule associated serine/threonine kinase 3	272	0.671340823173523	0.21241398	Yes	
+row_5	CLSTN3	CLSTN3	CLSTN3	calsyntenin 3	332	0.6508638858795166	0.24218878	Yes	
+row_6	LFNG	LFNG	LFNG	lunatic fringe homolog (Drosophila)	484	0.6052173376083374	0.26296946	Yes	
+row_7	CPEB3	CPEB3	CPEB3	cytoplasmic polyadenylation element binding protein 3	581	0.580853283405304	0.28642777	Yes	
+row_8	SLC29A3	SLC29A3	SLC29A3	solute carrier family 29 (nucleoside transporters), member 3	703	0.5486544370651245	0.3064076	Yes	
+row_9	GPRC5C	GPRC5C	GPRC5C	G protein-coupled receptor, family C, group 5, member C	945	0.4891268014907837	0.31465653	Yes	
+row_10	IDUA	IDUA	IDUA	iduronidase, alpha-L-	1377	0.4001786708831787	0.30460873	Yes	
+row_11	COPZ2	COPZ2	COPZ2	coatomer protein complex, subunit zeta 2	1463	0.384822279214859	0.318613	Yes	
+row_12	LYPD3	LYPD3	LYPD3	LY6/PLAUR domain containing 3	1616	0.35920074582099915	0.32646543	Yes	
+row_13	EDN1	EDN1	EDN1	endothelin 1	2022	0.3044412136077881	0.31328225	Yes	
+row_14	EFHD1	EFHD1	EFHD1	EF-hand domain family, member D1	2115	0.29363375902175903	0.32201833	Yes	
+row_15	STAG3	STAG3	STAG3	stromal antigen 3	2126	0.29219716787338257	0.3365697	Yes	
+row_16	SEPP1	SEPP1	SEPP1	selenoprotein P, plasma, 1	2187	0.2837025225162506	0.34708545	Yes	
+row_17	BTG2	BTG2	BTG2	BTG family, member 2	2596	0.2378205507993698	0.3302053	Yes	
+row_18	SNN	SNN	SNN	stannin	2650	0.23222166299819946	0.3385336	Yes	
+row_19	SYNPO	SYNPO	SYNPO	synaptopodin	2754	0.2207879275083542	0.3426727	Yes	
+row_20	FAM46C	FAM46C	FAM46C	family with sequence similarity 46, member C	2853	0.20898187160491943	0.346554	Yes	
+row_21	MX1	MX1	MX1	myxovirus (influenza virus) resistance 1, interferon-inducible protein p78 (mouse)	2861	0.20766527950763702	0.35690337	Yes	
+row_22	SGK1	SGK1	null	null	3113	0.18235911428928375	0.34840283	No	
+row_23	ADCK3	ADCK3	null	null	3323	0.16307206451892853	0.3419114	No	
+row_24	CCDC106	CCDC106	CCDC106	coiled-coil domain containing 106	3555	0.14126978814601898	0.33270028	No	
+row_25	THNSL2	THNSL2	null	null	3992	0.10782215744256973	0.3070153	No	
+row_26	GPR3	GPR3	GPR3	G protein-coupled receptor 3	4519	0.06276147812604904	0.27251044	No	
+row_27	NR4A2	NR4A2	NR4A2	nuclear receptor subfamily 4, group A, member 2	4764	0.045000091195106506	0.2573346	No	
+row_28	MSH5	MSH5	MSH5	mutS homolog 5 (E. coli)	5333	0.003410132834687829	0.21671113	No	
+row_29	MFSD6	MFSD6	null	null	5366	0.0011621301528066397	0.21447319	No	
+row_30	SPHK2	SPHK2	SPHK2	sphingosine kinase 2	5374	6.558781024068594E-4	0.21400462	No	
+row_31	SKIL	SKIL	SKIL	SKI-like	5854	-0.03493129834532738	0.18142162	No	
+row_32	DTNB	DTNB	DTNB	dystrobrevin, beta	5904	-0.03794409707188606	0.17988466	No	
+row_33	PDK2	PDK2	PDK2	pyruvate dehydrogenase kinase, isozyme 2	5909	-0.038281843066215515	0.18159786	No	
+row_34	FGGY	FGGY	null	null	6784	-0.09752390533685684	0.12391144	No	
+row_35	ADRA2C	ADRA2C	ADRA2C	adrenergic, alpha-2C-, receptor	7101	-0.11712867766618729	0.10733286	No	
+row_36	GTF3C5	GTF3C5	GTF3C5	general transcription factor IIIC, polypeptide 5, 63kDa	8752	-0.21761451661586761	1.7904253E-4	No	
+row_37	H2AFY2	H2AFY2	H2AFY2	H2A histone family, member Y2	9165	-0.24270305037498474	-0.016733298	No	
+row_38	C5	C5	C5	complement component 5	9206	-0.24605949223041534	-0.0067480174	No	
+row_39	YPEL1	YPEL1	YPEL1	yippee-like 1 (Drosophila)	9224	-0.2476046085357666	0.0049701883	No	
+row_40	ASB7	ASB7	ASB7	ankyrin repeat and SOCS box-containing 7	9439	-0.25955089926719666	0.003161404	No	
+row_41	GPR19	GPR19	GPR19	G protein-coupled receptor 19	9631	-0.2720009684562683	0.003655418	No	
+row_42	TCF7L1	TCF7L1	TCF7L1	transcription factor 7-like 1 (T-cell specific, HMG-box)	9749	-0.27828171849250793	0.0097933635	No	
+row_43	CHST2	CHST2	CHST2	carbohydrate (N-acetylglucosamine-6-O) sulfotransferase 2	10024	-0.2956935167312622	0.005563293	No	
+row_44	GAMT	GAMT	GAMT	guanidinoacetate N-methyltransferase	10580	-0.3325501084327698	-0.016926048	No	
+row_45	IGFBP2	IGFBP2	IGFBP2	insulin-like growth factor binding protein 2, 36kDa	11668	-0.41388311982154846	-0.073380716	No	
+row_46	PTPRJ	PTPRJ	PTPRJ	protein tyrosine phosphatase, receptor type, J	11976	-0.4402233064174652	-0.072428435	No	
+row_47	ENTPD7	ENTPD7	ENTPD7	ectonucleoside triphosphate diphosphohydrolase 7	12010	-0.44330382347106934	-0.051632673	No	
+row_48	TGFB2	TGFB2	TGFB2	transforming growth factor, beta 2	12280	-0.4704052209854126	-0.046373446	No	
+row_49	NUDT11	NUDT11	NUDT11	nudix (nucleoside diphosphate linked moiety X)-type motif 11	12504	-0.49518299102783203	-0.036515016	No	
+row_50	CDKAL1	CDKAL1	CDKAL1	CDK5 regulatory subunit associated protein 1-like 1	13136	-0.5870941877365112	-0.05116171	No	
+row_51	CELSR2	CELSR2	CELSR2	cadherin, EGF LAG seven-pass G-type receptor 2 (flamingo homolog, Drosophila)	13310	-0.6242587566375732	-0.030966312	No	
+row_52	SLC25A23	SLC25A23	SLC25A23	solute carrier family 25 (mitochondrial carrier; phosphate carrier), member 23	13690	-0.7423251867294312	-0.019398758	No	
+row_53	CCDC132	CCDC132	CCDC132	coiled-coil domain containing 132	13722	-0.7602189779281616	0.0181021	No	

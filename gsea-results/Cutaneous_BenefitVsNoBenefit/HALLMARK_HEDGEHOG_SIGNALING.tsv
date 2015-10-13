@@ -1,0 +1,25 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PTCH1	PTCH1	PTCH1	patched homolog 1 (Drosophila)	588	0.37461891770362854	0.045472033	No	
+row_1	CDK6	CDK6	CDK6	cyclin-dependent kinase 6	1086	0.29636964201927185	0.07916518	No	
+row_2	ETS2	ETS2	ETS2	v-ets erythroblastosis virus E26 oncogene homolog 2 (avian)	1729	0.22030562162399292	0.08467422	No	
+row_3	CRMP1	CRMP1	CRMP1	collapsin response mediator protein 1	2512	0.15685272216796875	0.06530714	No	
+row_4	NF1	NF1	NF1	neurofibromin 1 (neurofibromatosis, von Recklinghausen disease, Watson disease)	3189	0.114342600107193	0.0435954	No	
+row_5	L1CAM	L1CAM	L1CAM	L1 cell adhesion molecule	3712	0.08389287441968918	0.025800414	No	
+row_6	NRP2	NRP2	NRP2	neuropilin 2	3986	0.06828408688306808	0.022202875	No	
+row_7	VEGFA	VEGFA	null	null	4148	0.05941975116729736	0.02456016	No	
+row_8	HEY1	HEY1	HEY1	hairy/enhancer-of-split related with YRPW motif 1	4429	0.04425746202468872	0.014841282	No	
+row_9	CDK5R1	CDK5R1	CDK5R1	cyclin-dependent kinase 5, regulatory subunit 1 (p35)	4750	0.028245441615581512	-0.0014898215	No	
+row_10	DPYSL2	DPYSL2	DPYSL2	dihydropyrimidinase-like 2	7397	-0.08538459986448288	-0.17118306	No	
+row_11	PML	PML	PML	promyelocytic leukemia	7479	-0.08911971002817154	-0.1561449	No	
+row_12	AMOT	AMOT	AMOT	angiomotin	8093	-0.1149895042181015	-0.17318954	No	
+row_13	HEY2	HEY2	HEY2	hairy/enhancer-of-split related with YRPW motif 2	9013	-0.15221454203128815	-0.20346153	Yes	
+row_14	TLE3	TLE3	TLE3	transducin-like enhancer of split 3 (E(sp1) homolog, Drosophila)	9059	-0.15396837890148163	-0.17067547	Yes	
+row_15	VLDLR	VLDLR	VLDLR	very low density lipoprotein receptor	9113	-0.1563834697008133	-0.13789797	Yes	
+row_16	GPR56	GPR56	GPR56	G protein-coupled receptor 56	9629	-0.17874620854854584	-0.13300598	Yes	
+row_17	MYH9	MYH9	MYH9	myosin, heavy chain 9, non-muscle	9937	-0.192843958735466	-0.10990733	Yes	
+row_18	RASA1	RASA1	RASA1	RAS p21 protein activator (GTPase activating protein) 1	10307	-0.21012771129608154	-0.08721031	Yes	
+row_19	TLE1	TLE1	TLE1	transducin-like enhancer of split 1 (E(sp1) homolog, Drosophila)	10495	-0.21867887675762177	-0.04946761	Yes	
+row_20	LDB1	LDB1	LDB1	LIM domain binding 1	11207	-0.2557922601699829	-0.040604495	Yes	
+row_21	UNC5C	UNC5C	UNC5C	unc-5 homolog C (C. elegans)	11818	-0.2896193265914917	-0.01658995	Yes	
+row_22	THY1	THY1	THY1	Thy-1 cell surface antigen	12448	-0.32870328426361084	0.015204024	Yes	
+row_23	CELSR1	CELSR1	CELSR1	cadherin, EGF LAG seven-pass G-type receptor 1 (flamingo homolog, Drosophila)	13223	-0.4023565649986267	0.053831235	Yes	

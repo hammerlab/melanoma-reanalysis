@@ -1,0 +1,25 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PTCH1	PTCH1	PTCH1	patched homolog 1 (Drosophila)	1780	0.4306715726852417	-0.013023413	No	
+row_1	TLE3	TLE3	TLE3	transducin-like enhancer of split 3 (E(sp1) homolog, Drosophila)	3964	0.17721955478191376	-0.12235622	No	
+row_2	HEY1	HEY1	HEY1	hairy/enhancer-of-split related with YRPW motif 1	5140	0.08589091897010803	-0.18373112	No	
+row_3	L1CAM	L1CAM	L1CAM	L1 cell adhesion molecule	5381	0.06862735748291016	-0.18267813	No	
+row_4	CDK6	CDK6	CDK6	cyclin-dependent kinase 6	5676	0.04697013646364212	-0.19125704	No	
+row_5	AMOT	AMOT	AMOT	angiomotin	6155	0.012912033125758171	-0.222085	No	
+row_6	PML	PML	PML	promyelocytic leukemia	6588	-0.016213925555348396	-0.24873734	No	
+row_7	MYH9	MYH9	MYH9	myosin, heavy chain 9, non-muscle	6733	-0.02533837966620922	-0.25231874	Yes	
+row_8	HEY2	HEY2	HEY2	hairy/enhancer-of-split related with YRPW motif 2	6821	-0.03203439339995384	-0.25003314	Yes	
+row_9	DPYSL2	DPYSL2	DPYSL2	dihydropyrimidinase-like 2	7024	-0.04665451869368553	-0.2521015	Yes	
+row_10	VEGFA	VEGFA	null	null	7089	-0.05136250704526901	-0.24302568	Yes	
+row_11	NF1	NF1	NF1	neurofibromin 1 (neurofibromatosis, von Recklinghausen disease, Watson disease)	7200	-0.05784159526228905	-0.23552357	Yes	
+row_12	LDB1	LDB1	LDB1	LIM domain binding 1	7603	-0.08659553527832031	-0.2413028	Yes	
+row_13	NRP2	NRP2	NRP2	neuropilin 2	7668	-0.08999396115541458	-0.22195035	Yes	
+row_14	UNC5C	UNC5C	UNC5C	unc-5 homolog C (C. elegans)	7966	-0.10884080827236176	-0.21428563	Yes	
+row_15	THY1	THY1	THY1	Thy-1 cell surface antigen	8028	-0.11234988272190094	-0.18877108	Yes	
+row_16	CELSR1	CELSR1	CELSR1	cadherin, EGF LAG seven-pass G-type receptor 1 (flamingo homolog, Drosophila)	8868	-0.16938909888267517	-0.20384975	Yes	
+row_17	CRMP1	CRMP1	CRMP1	collapsin response mediator protein 1	10488	-0.28705641627311707	-0.24353686	Yes	
+row_18	CDK5R1	CDK5R1	CDK5R1	cyclin-dependent kinase 5, regulatory subunit 1 (p35)	10534	-0.2900103032588959	-0.16961473	Yes	
+row_19	RASA1	RASA1	RASA1	RAS p21 protein activator (GTPase activating protein) 1	10543	-0.2908974587917328	-0.092804454	Yes	
+row_20	VLDLR	VLDLR	VLDLR	very low density lipoprotein receptor	10778	-0.3080950379371643	-0.027618894	Yes	
+row_21	TLE1	TLE1	TLE1	transducin-like enhancer of split 1 (E(sp1) homolog, Drosophila)	10836	-0.3124252259731293	0.051405836	Yes	
+row_22	ETS2	ETS2	ETS2	v-ets erythroblastosis virus E26 oncogene homolog 2 (avian)	10843	-0.3128094971179962	0.13418844	Yes	
+row_23	GPR56	GPR56	GPR56	G protein-coupled receptor 56	11162	-0.33895671367645264	0.20156266	Yes	

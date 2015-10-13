@@ -1,0 +1,26 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FSTL1	FSTL1	FSTL1	follistatin-like 1	97	0.5829925537109375	0.09648601	Yes	
+row_1	CCND2	CCND2	CCND2	cyclin D2	570	0.39068323373794556	0.13196917	Yes	
+row_2	JAG1	JAG1	JAG1	jagged 1 (Alagille syndrome)	643	0.37782689929008484	0.1938451	Yes	
+row_3	LUM	LUM	LUM	lumican	644	0.3775149881839752	0.26082695	Yes	
+row_4	KCNJ8	KCNJ8	KCNJ8	potassium inwardly-rectifying channel, subfamily J, member 8	993	0.317903608083725	0.29228583	Yes	
+row_5	THBD	THBD	THBD	thrombomodulin	999	0.31688833236694336	0.3481524	Yes	
+row_6	COL3A1	COL3A1	COL3A1	collagen, type III, alpha 1 (Ehlers-Danlos syndrome type IV, autosomal dominant)	1118	0.2978680431842804	0.39254385	Yes	
+row_7	MSX1	MSX1	MSX1	msh homeobox homolog 1 (Drosophila)	1126	0.2963494062423706	0.44462284	Yes	
+row_8	JAG2	JAG2	JAG2	jagged 2	1964	0.2031673938035965	0.4206705	No	
+row_9	ITGAV	ITGAV	ITGAV	integrin, alpha V (vitronectin receptor, alpha polypeptide, antigen CD51)	2130	0.1893227994441986	0.44243377	No	
+row_10	LRPAP1	LRPAP1	LRPAP1	low density lipoprotein receptor-related protein associated protein 1	3207	0.10500510036945343	0.38393205	No	
+row_11	COL5A2	COL5A2	COL5A2	collagen, type V, alpha 2	4387	0.033910419791936874	0.3054326	No	
+row_12	TIMP1	TIMP1	TIMP1	TIMP metallopeptidase inhibitor 1	4867	0.007634858600795269	0.2724503	No	
+row_13	LPL	LPL	LPL	lipoprotein lipase	5027	-8.772580185905099E-4	0.26120812	No	
+row_14	FGFR1	FGFR1	FGFR1	fibroblast growth factor receptor 1 (fms-related tyrosine kinase 2, Pfeiffer syndrome)	5460	-0.02209814265370369	0.2341612	No	
+row_15	S100A4	S100A4	S100A4	S100 calcium binding protein A4	5652	-0.03090919554233551	0.22595361	No	
+row_16	SPP1	SPP1	SPP1	secreted phosphoprotein 1 (osteopontin, bone sialoprotein I, early T-lymphocyte activation 1)	6667	-0.0774431899189949	0.16700606	No	
+row_17	POSTN	POSTN	POSTN	periostin, osteoblast specific factor	6783	-0.0829884335398674	0.17348683	No	
+row_18	VCAN	VCAN	null	null	6931	-0.08935169875621796	0.17880273	No	
+row_19	VAV2	VAV2	VAV2	vav 2 oncogene	8559	-0.16761869192123413	0.09191221	No	
+row_20	PDGFA	PDGFA	PDGFA	platelet-derived growth factor alpha polypeptide	10124	-0.24206353724002838	0.022746447	No	
+row_21	PTK2	PTK2	PTK2	PTK2 protein tyrosine kinase 2	10427	-0.25856608152389526	0.04697466	No	
+row_22	TNFRSF21	TNFRSF21	TNFRSF21	tumor necrosis factor receptor superfamily, member 21	12176	-0.3654786944389343	-0.013483719	No	
+row_23	STC1	STC1	STC1	stanniocalcin 1	12441	-0.38621196150779724	0.036116507	No	
+row_24	VEGFA	VEGFA	null	null	12769	-0.4154036343097687	0.08638003	No	

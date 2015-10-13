@@ -1,0 +1,26 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	POSTN	POSTN	POSTN	periostin, osteoblast specific factor	10	1.4954527616500854	0.1355056	Yes	
+row_1	ITGAV	ITGAV	ITGAV	integrin, alpha V (vitronectin receptor, alpha polypeptide, antigen CD51)	30	1.302500605583191	0.25278983	Yes	
+row_2	FSTL1	FSTL1	FSTL1	follistatin-like 1	62	1.1297959089279175	0.35348198	Yes	
+row_3	THBD	THBD	THBD	thrombomodulin	64	1.1165974140167236	0.45512238	Yes	
+row_4	MSX1	MSX1	MSX1	msh homeobox homolog 1 (Drosophila)	1103	0.4919680058956146	0.4255277	No	
+row_5	CCND2	CCND2	CCND2	cyclin D2	2005	0.3558611571788788	0.39335567	No	
+row_6	JAG1	JAG1	JAG1	jagged 1 (Alagille syndrome)	2350	0.30946749448776245	0.3968859	No	
+row_7	VCAN	VCAN	null	null	3499	0.1928287148475647	0.332157	No	
+row_8	COL3A1	COL3A1	COL3A1	collagen, type III, alpha 1 (Ehlers-Danlos syndrome type IV, autosomal dominant)	3894	0.1566128432750702	0.31817928	No	
+row_9	LUM	LUM	LUM	lumican	4027	0.1462254822254181	0.32203677	No	
+row_10	COL5A2	COL5A2	COL5A2	collagen, type V, alpha 2	4192	0.13214781880378723	0.322318	No	
+row_11	SPP1	SPP1	SPP1	secreted phosphoprotein 1 (osteopontin, bone sialoprotein I, early T-lymphocyte activation 1)	5523	0.025189606472849846	0.22927202	No	
+row_12	S100A4	S100A4	S100A4	S100 calcium binding protein A4	6813	-0.07017721980810165	0.1432631	No	
+row_13	JAG2	JAG2	JAG2	jagged 2	7079	-0.09043280780315399	0.13250431	No	
+row_14	TIMP1	TIMP1	TIMP1	TIMP metallopeptidase inhibitor 1	7632	-0.1304171234369278	0.10481426	No	
+row_15	LRPAP1	LRPAP1	LRPAP1	low density lipoprotein receptor-related protein associated protein 1	8052	-0.16047634184360504	0.08939639	No	
+row_16	PTK2	PTK2	PTK2	PTK2 protein tyrosine kinase 2	8487	-0.1923167109489441	0.07580362	No	
+row_17	VEGFA	VEGFA	null	null	8527	-0.19463393092155457	0.09073734	No	
+row_18	PDGFA	PDGFA	PDGFA	platelet-derived growth factor alpha polypeptide	8694	-0.20676825940608978	0.09767245	No	
+row_19	FGFR1	FGFR1	FGFR1	fibroblast growth factor receptor 1 (fms-related tyrosine kinase 2, Pfeiffer syndrome)	9660	-0.28179001808166504	0.054165386	No	
+row_20	VAV2	VAV2	VAV2	vav 2 oncogene	10476	-0.3473784625530243	0.027385535	No	
+row_21	KCNJ8	KCNJ8	KCNJ8	potassium inwardly-rectifying channel, subfamily J, member 8	11751	-0.4725472927093506	-0.020895775	No	
+row_22	LPL	LPL	LPL	lipoprotein lipase	12375	-0.5503545999526978	-0.015422862	No	
+row_23	STC1	STC1	STC1	stanniocalcin 1	13031	-0.6731182932853699	-0.0010611749	No	
+row_24	TNFRSF21	TNFRSF21	TNFRSF21	tumor necrosis factor receptor superfamily, member 21	13292	-0.752961277961731	0.04888891	No	

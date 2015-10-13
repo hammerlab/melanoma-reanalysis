@@ -1,0 +1,108 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IFIT1	IFIT1	IFIT1	interferon-induced protein with tetratricopeptide repeats 1	637	0.6065992712974548	-0.027878568	No	
+row_1	ATF3	ATF3	ATF3	activating transcription factor 3	642	0.6044877767562866	-0.010175331	No	
+row_2	XBP1	XBP1	XBP1	X-box binding protein 1	917	0.5287343263626099	-0.014196063	No	
+row_3	SPCS3	SPCS3	SPCS3	signal peptidase complex subunit 3 homolog (S. cerevisiae)	936	0.5250648856163025	1.3375208E-4	No	
+row_4	DNAJB9	DNAJB9	DNAJB9	DnaJ (Hsp40) homolog, subfamily B, member 9	987	0.5137816071510315	0.011820267	No	
+row_5	WFS1	WFS1	WFS1	Wolfram syndrome 1 (wolframin)	1099	0.4925108551979065	0.018475074	No	
+row_6	PSAT1	PSAT1	PSAT1	phosphoserine aminotransferase 1	1225	0.4670785367488861	0.02336341	No	
+row_7	IMP3	IMP3	IMP3	IMP3, U3 small nucleolar ribonucleoprotein, homolog (yeast)	1871	0.3728019595146179	-0.012050651	No	
+row_8	SERP1	SERP1	SERP1	-	2028	0.3533801734447479	-0.012781739	No	
+row_9	HERPUD1	HERPUD1	HERPUD1	homocysteine-inducible, endoplasmic reticulum stress-inducible, ubiquitin-like domain member 1	2109	0.34199586510658264	-0.008371422	No	
+row_10	GEMIN4	GEMIN4	GEMIN4	gem (nuclear organelle) associated protein 4	2113	0.341420441865921	0.0015741193	No	
+row_11	NFYB	NFYB	NFYB	nuclear transcription factor Y, beta	2184	0.3302558660507202	0.0063560973	No	
+row_12	CEBPG	CEBPG	CEBPG	CCAAT/enhancer binding protein (C/EBP), gamma	2491	0.2941935658454895	-0.006952859	No	
+row_13	PARN	PARN	PARN	poly(A)-specific ribonuclease (deadenylation nuclease)	2517	0.29134202003479004	-8.4212865E-5	No	
+row_14	ASNS	ASNS	ASNS	asparagine synthetase	2642	0.2786244750022888	-7.328218E-4	No	
+row_15	EIF4A1	EIF4A1	EIF4A1	eukaryotic translation initiation factor 4A, isoform 1	3128	0.22567054629325867	-0.028988676	No	
+row_16	H2AFX	H2AFX	H2AFX	H2A histone family, member X	3135	0.22501429915428162	-0.022724114	No	
+row_17	DNAJC3	DNAJC3	DNAJC3	DnaJ (Hsp40) homolog, subfamily C, member 3	3315	0.2090921700000763	-0.029408213	No	
+row_18	ALDH18A1	ALDH18A1	ALDH18A1	aldehyde dehydrogenase 18 family, member A1	3349	0.20656578242778778	-0.02563967	No	
+row_19	ERN1	ERN1	ERN1	endoplasmic reticulum to nucleus signalling 1	3365	0.20490016043186188	-0.02062275	No	
+row_20	KIF5B	KIF5B	KIF5B	kinesin family member 5B	3423	0.2003690004348755	-0.018769251	No	
+row_21	ERO1L	ERO1L	ERO1L	ERO1-like (S. cerevisiae)	3498	0.19297851622104645	-0.018361561	No	
+row_22	DDIT4	DDIT4	DDIT4	DNA-damage-inducible transcript 4	3603	0.18378013372421265	-0.0203909	No	
+row_23	ATF4	ATF4	ATF4	activating transcription factor 4 (tax-responsive enhancer element B67)	4194	0.13158753514289856	-0.05901838	No	
+row_24	EIF2AK3	EIF2AK3	EIF2AK3	eukaryotic translation initiation factor 2-alpha kinase 3	4423	0.11232132464647293	-0.07211603	No	
+row_25	BANF1	BANF1	BANF1	barrier to autointegration factor 1	4512	0.1053522378206253	-0.07532592	No	
+row_26	CXXC1	CXXC1	CXXC1	CXXC finger 1 (PHD domain)	4878	0.0764508992433548	-0.09937006	No	
+row_27	PREB	PREB	PREB	prolactin regulatory element binding	5070	0.059406254440546036	-0.11137464	No	
+row_28	LSM4	LSM4	LSM4	LSM4 homolog, U6 small nuclear RNA associated (S. cerevisiae)	5206	0.04914127290248871	-0.11964666	No	
+row_29	CNOT4	CNOT4	CNOT4	CCR4-NOT transcription complex, subunit 4	5223	0.047659873962402344	-0.119381875	No	
+row_30	EIF4A2	EIF4A2	EIF4A2	eukaryotic translation initiation factor 4A, isoform 2	5466	0.028742868453264236	-0.13597663	No	
+row_31	DKC1	DKC1	DKC1	dyskeratosis congenita 1, dyskerin	5474	0.028251945972442627	-0.13564052	No	
+row_32	SEC11A	SEC11A	null	null	5808	0.004666324704885483	-0.15951374	No	
+row_33	NOP56	NOP56	null	null	6073	-0.015529274940490723	-0.17808817	No	
+row_34	TATDN2	TATDN2	TATDN2	TatD DNase domain containing 2	6274	-0.029838772490620613	-0.19162175	No	
+row_35	PDIA6	PDIA6	PDIA6	protein disulfide isomerase family A, member 6	6399	-0.04040071368217468	-0.19936073	No	
+row_36	ARFGAP1	ARFGAP1	ARFGAP1	ADP-ribosylation factor GTPase activating protein 1	6531	-0.05063870549201965	-0.20729975	No	
+row_37	EXOSC2	EXOSC2	EXOSC2	exosome component 2	6633	-0.05806516483426094	-0.21285449	No	
+row_38	IARS	IARS	IARS	isoleucine-tRNA synthetase	6817	-0.07049074023962021	-0.22395228	No	
+row_39	EIF4E	EIF4E	EIF4E	eukaryotic translation initiation factor 4E	6902	-0.07735081017017365	-0.22770716	No	
+row_40	YWHAZ	YWHAZ	YWHAZ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, zeta polypeptide	6933	-0.07935099303722382	-0.22750865	No	
+row_41	LSM1	LSM1	LSM1	LSM1 homolog, U6 small nuclear RNA associated (S. cerevisiae)	7070	-0.08998332917690277	-0.23463719	No	
+row_42	DNAJA4	DNAJA4	DNAJA4	DnaJ (Hsp40) homolog, subfamily A, member 4	7091	-0.09121139347553253	-0.23336458	No	
+row_43	FUS	FUS	FUS	fusion (involved in t(12;16) in malignant liposarcoma)	7147	-0.0954381451010704	-0.23448998	No	
+row_44	SRPR	SRPR	SRPR	signal recognition particle receptor ('docking protein')	7185	-0.09859301149845123	-0.23422351	No	
+row_45	NOLC1	NOLC1	NOLC1	nucleolar and coiled-body phosphoprotein 1	7216	-0.10056467354297638	-0.23339361	No	
+row_46	BAG3	BAG3	BAG3	BCL2-associated athanogene 3	7417	-0.1151893362402916	-0.24438687	No	
+row_47	PDIA5	PDIA5	PDIA5	protein disulfide isomerase family A, member 5	7654	-0.13205912709236145	-0.25747392	No	
+row_48	ATP6V0D1	ATP6V0D1	ATP6V0D1	ATPase, H+ transporting, lysosomal 38kDa, V0 subunit d1	8008	-0.1574726402759552	-0.27824125	No	
+row_49	POP4	POP4	POP4	processing of precursor 4, ribonuclease P/MRP subunit (S. cerevisiae)	8012	-0.15765789151191711	-0.27376515	No	
+row_50	CCL2	CCL2	CCL2	chemokine (C-C motif) ligand 2	8051	-0.16041891276836395	-0.27173063	No	
+row_51	XPOT	XPOT	XPOT	exportin, tRNA (nuclear export receptor for tRNAs)	8107	-0.1644667536020279	-0.27080148	No	
+row_52	PAIP1	PAIP1	PAIP1	poly(A) binding protein interacting protein 1	8111	-0.16481629014015198	-0.2661123	No	
+row_53	MTHFD2	MTHFD2	MTHFD2	methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 2, methenyltetrahydrofolate cyclohydrolase	8212	-0.17175090312957764	-0.26821125	No	
+row_54	CEBPB	CEBPB	CEBPB	CCAAT/enhancer binding protein (C/EBP), beta	8283	-0.1770610511302948	-0.2679889	No	
+row_55	VEGFA	VEGFA	null	null	8527	-0.19463393092155457	-0.27971825	Yes	
+row_56	HSPA5	HSPA5	HSPA5	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa)	8546	-0.19550564885139465	-0.27519727	Yes	
+row_57	HYOU1	HYOU1	HYOU1	hypoxia up-regulated 1	8578	-0.19772030413150787	-0.27154776	Yes	
+row_58	EIF2S1	EIF2S1	EIF2S1	eukaryotic translation initiation factor 2, subunit 1 alpha, 35kDa	8691	-0.20633786916732788	-0.2734826	Yes	
+row_59	SLC30A5	SLC30A5	SLC30A5	solute carrier family 30 (zinc transporter), member 5	8692	-0.2063896507024765	-0.2673397	Yes	
+row_60	STC2	STC2	STC2	stanniocalcin 2	8734	-0.20986807346343994	-0.26404974	Yes	
+row_61	SRPRB	SRPRB	SRPRB	signal recognition particle receptor, B subunit	8823	-0.21633075177669525	-0.26395655	Yes	
+row_62	TSPYL2	TSPYL2	TSPYL2	TSPY-like 2	8963	-0.2261100709438324	-0.2672498	Yes	
+row_63	DDX10	DDX10	DDX10	DEAD (Asp-Glu-Ala-Asp) box polypeptide 10	9128	-0.2390739470720291	-0.2719599	Yes	
+row_64	NPM1	NPM1	NPM1	nucleophosmin (nucleolar phosphoprotein B23, numatrin)	9185	-0.24467377364635468	-0.26871562	Yes	
+row_65	CKS1B	CKS1B	CKS1B	CDC28 protein kinase regulatory subunit 1B	9380	-0.25954049825668335	-0.27497983	Yes	
+row_66	RPS14	RPS14	RPS14	ribosomal protein S14	9385	-0.25997334718704224	-0.26753053	Yes	
+row_67	SLC7A5	SLC7A5	SLC7A5	solute carrier family 7 (cationic amino acid transporter, y+ system), member 5	9401	-0.26113981008529663	-0.26083973	Yes	
+row_68	KDELR3	KDELR3	KDELR3	KDEL (Lys-Asp-Glu-Leu) endoplasmic reticulum protein retention receptor 3	9460	-0.26585644483566284	-0.2571092	Yes	
+row_69	HSP90B1	HSP90B1	HSP90B1	heat shock protein 90kDa beta (Grp94), member 1	9699	-0.2843968868255615	-0.26580638	Yes	
+row_70	SLC1A4	SLC1A4	SLC1A4	solute carrier family 1 (glutamate/neutral amino acid transporter), member 4	9701	-0.28455570340156555	-0.2574091	Yes	
+row_71	EDC4	EDC4	EDC4	enhancer of mRNA decapping 4	9738	-0.2877310812473297	-0.25144112	Yes	
+row_72	TARS	TARS	TARS	threonyl-tRNA synthetase	9769	-0.2904779314994812	-0.24495874	Yes	
+row_73	EEF2	EEF2	EEF2	eukaryotic translation elongation factor 2	9844	-0.2955707907676697	-0.24149755	Yes	
+row_74	DCTN1	DCTN1	DCTN1	dynactin 1 (p150, glued homolog, Drosophila)	9922	-0.30177798867225647	-0.23806792	Yes	
+row_75	EXOSC9	EXOSC9	EXOSC9	exosome component 9	10219	-0.32620441913604736	-0.24970305	Yes	
+row_76	EIF4A3	EIF4A3	null	null	10475	-0.3472941517829895	-0.257754	Yes	
+row_77	HSPA9	HSPA9	null	null	10596	-0.35909199714660645	-0.25571918	Yes	
+row_78	SPCS1	SPCS1	SPCS1	signal peptidase complex subunit 1 homolog (S. cerevisiae)	10698	-0.3675495386123657	-0.2520626	Yes	
+row_79	EXOSC4	EXOSC4	EXOSC4	exosome component 4	10700	-0.36763325333595276	-0.24119264	Yes	
+row_80	NFYA	NFYA	NFYA	nuclear transcription factor Y, alpha	10747	-0.37077176570892334	-0.23347417	Yes	
+row_81	TTC37	TTC37	null	null	10803	-0.37609562277793884	-0.22624621	Yes	
+row_82	ZBTB17	ZBTB17	ZBTB17	zinc finger and BTB domain containing 17	10862	-0.3803471624851227	-0.21910805	Yes	
+row_83	SKIV2L2	SKIV2L2	SKIV2L2	superkiller viralicidic activity 2-like 2 (S. cerevisiae)	11027	-0.39647477865219116	-0.21913335	Yes	
+row_84	DCP2	DCP2	DCP2	DCP2 decapping enzyme homolog (S. cerevisiae)	11231	-0.41546887159347534	-0.22140555	Yes	
+row_85	FKBP14	FKBP14	FKBP14	FK506 binding protein 14, 22 kDa	11256	-0.4182083010673523	-0.21068881	Yes	
+row_86	CNOT6	CNOT6	CNOT6	CCR4-NOT transcription complex, subunit 6	11308	-0.4231429696083069	-0.20177214	Yes	
+row_87	EXOSC5	EXOSC5	EXOSC5	exosome component 5	11311	-0.42350560426712036	-0.18931134	Yes	
+row_88	CALR	CALR	CALR	calreticulin	11347	-0.4270370602607727	-0.17912503	Yes	
+row_89	SDAD1	SDAD1	SDAD1	SDA1 domain containing 1	11631	-0.45681408047676086	-0.18593533	Yes	
+row_90	YIF1A	YIF1A	YIF1A	Yip1 interacting factor homolog A (S. cerevisiae)	11661	-0.4607374966144562	-0.17431332	Yes	
+row_91	EXOSC1	EXOSC1	EXOSC1	exosome component 1	11719	-0.4683668315410614	-0.16448326	Yes	
+row_92	EDEM1	EDEM1	EDEM1	ER degradation enhancer, mannosidase alpha-like 1	11776	-0.47552257776260376	-0.15436812	Yes	
+row_93	EXOSC10	EXOSC10	EXOSC10	exosome component 10	11944	-0.4956527352333069	-0.15165786	Yes	
+row_94	CHAC1	CHAC1	CHAC1	ChaC, cation transport regulator homolog 1 (E. coli)	11950	-0.4959992468357086	-0.13725574	Yes	
+row_95	GOSR2	GOSR2	GOSR2	golgi SNAP receptor complex member 2	12228	-0.5309720635414124	-0.14142619	Yes	
+row_96	NHP2	NHP2	null	null	12460	-0.5619491338729858	-0.14135768	Yes	
+row_97	KHSRP	KHSRP	KHSRP	KH-type splicing regulatory protein (FUSE binding protein 2)	12602	-0.5820658802986145	-0.13420065	Yes	
+row_98	NOP14	NOP14	null	null	12634	-0.58734530210495	-0.11895456	Yes	
+row_99	RRP9	RRP9	null	null	12911	-0.6432883143424988	-0.11970998	Yes	
+row_100	SSR1	SSR1	SSR1	signal sequence receptor, alpha (translocon-associated protein alpha)	13289	-0.7518362402915955	-0.1245176	Yes	
+row_101	EXOC2	EXOC2	EXOC2	exocyst complex component 2	13413	-0.7986266016960144	-0.10961701	Yes	
+row_102	WIPI1	WIPI1	WIPI1	WD repeat domain, phosphoinositide interacting 1	13559	-0.8684068918228149	-0.09422591	Yes	
+row_103	EIF4EBP1	EIF4EBP1	EIF4EBP1	eukaryotic translation initiation factor 4E binding protein 1	13615	-0.9033664464950562	-0.07130453	Yes	
+row_104	DCP1A	DCP1A	DCP1A	DCP1 decapping enzyme homolog A (S. cerevisiae)	13705	-0.9670568704605103	-0.048939187	Yes	
+row_105	TUBB2A	TUBB2A	TUBB2A	tubulin, beta 2A	13760	-1.0238666534423828	-0.022359192	Yes	
+row_106	ATF6	ATF6	ATF6	activating transcription factor 6	13914	-1.2672733068466187	0.0043267016	Yes	

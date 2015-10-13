@@ -1,0 +1,28 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ERBB2	ERBB2	ERBB2	v-erb-b2 erythroblastic leukemia viral oncogene homolog 2, neuro/glioblastoma derived oncogene homolog (avian)	58	0.6230377554893494	0.11024822	Yes	
+row_1	CSF1	CSF1	CSF1	colony stimulating factor 1 (macrophage)	502	0.3950130045413971	0.15102243	Yes	
+row_2	FOLH1	FOLH1	FOLH1	folate hydrolase (prostate-specific membrane antigen) 1	809	0.33766546845436096	0.19108829	Yes	
+row_3	KIF20A	KIF20A	KIF20A	kinesin family member 20A	1064	0.2980668544769287	0.2276109	Yes	
+row_4	CES2	CES2	CES2	carboxylesterase 2 (intestine, liver)	1190	0.28172919154167175	0.2703821	Yes	
+row_5	MDK	MDK	MDK	midkine (neurite growth-promoting factor 2)	2649	0.1483829766511917	0.19309811	No	
+row_6	EZH2	EZH2	EZH2	enhancer of zeste homolog 2 (Drosophila)	2730	0.14252857863903046	0.21353461	No	
+row_7	ALDH1A1	ALDH1A1	ALDH1A1	aldehyde dehydrogenase 1 family, member A1	3041	0.12205211818218231	0.21372126	No	
+row_8	RGS5	RGS5	RGS5	regulator of G-protein signalling 5	3886	0.07383879274129868	0.1667696	No	
+row_9	PTPRC	PTPRC	PTPRC	protein tyrosine phosphatase, receptor type, C	4117	0.06161343306303024	0.16159366	No	
+row_10	VEGFA	VEGFA	null	null	4148	0.05941975116729736	0.17035389	No	
+row_11	MDM2	MDM2	MDM2	Mdm2, transformed 3T3 cell double minute 2, p53 binding protein (mouse)	4246	0.05393005162477493	0.17330249	No	
+row_12	CPSF1	CPSF1	CPSF1	cleavage and polyadenylation specific factor 1, 160kDa	4755	0.028099393472075462	0.14204131	No	
+row_13	ENAH	ENAH	ENAH	enabled homolog (Drosophila)	4888	0.022285619750618935	0.13666983	No	
+row_14	ZNF395	ZNF395	ZNF395	zinc finger protein 395	5018	0.016085131093859673	0.13037485	No	
+row_15	BIRC5	BIRC5	BIRC5	baculoviral IAP repeat-containing 5 (survivin)	5716	-0.014612540602684021	0.08308679	No	
+row_16	PLIN2	PLIN2	null	null	5991	-0.026792872697114944	0.06836229	No	
+row_17	WDR46	WDR46	WDR46	WD repeat domain 46	8548	-0.13291051983833313	-0.09048383	No	
+row_18	MMP2	MMP2	MMP2	matrix metallopeptidase 2 (gelatinase A, 72kDa gelatinase, 72kDa type IV collagenase)	9800	-0.1870102435350418	-0.14583398	No	
+row_19	SCRN1	SCRN1	SCRN1	secernin 1	9835	-0.18875057995319366	-0.113611914	No	
+row_20	BCL2L1	BCL2L1	BCL2L1	BCL2-like 1	10667	-0.2279338538646698	-0.13133554	No	
+row_21	GPC3	GPC3	GPC3	glypican 3	10782	-0.2333289235830307	-0.09666328	No	
+row_22	CSPG4	CSPG4	CSPG4	chondroitin sulfate proteoglycan 4 (melanoma-associated)	11441	-0.2679763436317444	-0.094630815	No	
+row_23	TPBG	TPBG	TPBG	trophoblast glycoprotein	11821	-0.2898882031440735	-0.06857188	No	
+row_24	CCND1	CCND1	CCND1	cyclin D1	12318	-0.32051900029182434	-0.04527661	No	
+row_25	STEAP1	STEAP1	STEAP1	six transmembrane epithelial antigen of the prostate 1	12654	-0.3476961553096771	-0.005448	No	
+row_26	EPHA3	EPHA3	EPHA3	EPH receptor A3	13813	-0.5446560978889465	0.011542887	No	

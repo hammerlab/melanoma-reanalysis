@@ -1,0 +1,69 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ABCA1	ABCA1	ABCA1	ATP-binding cassette, sub-family A (ABC1), member 1	374	0.7976214289665222	0.012145077	No	
+row_1	ACSL5	ACSL5	ACSL5	acyl-CoA synthetase long-chain family member 5	705	0.6712443828582764	0.021268751	No	
+row_2	RXRA	RXRA	RXRA	retinoid X receptor, alpha	1074	0.5613434910774231	0.022281105	No	
+row_3	ATXN1	ATXN1	ATXN1	ataxin 1	1196	0.5285417437553406	0.039448883	No	
+row_4	SOD1	SOD1	SOD1	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))	1258	0.5148841142654419	0.06026259	No	
+row_5	PAOX	PAOX	PAOX	polyamine oxidase (exo-N4-amino)	1688	0.44496992230415344	0.05119299	No	
+row_6	PEX12	PEX12	PEX12	peroxisomal biogenesis factor 12	1700	0.4431156814098358	0.07208945	No	
+row_7	PEX16	PEX16	PEX16	peroxisomal biogenesis factor 16	2030	0.3933565318584442	0.06768435	No	
+row_8	PEX11G	PEX11G	PEX11G	peroxisomal biogenesis factor 11 gamma	2304	0.35427191853523254	0.06539309	No	
+row_9	CYP27A1	CYP27A1	CYP27A1	cytochrome P450, family 27, subfamily A, polypeptide 1	2451	0.33328384160995483	0.071206704	No	
+row_10	ABCD1	ABCD1	ABCD1	ATP-binding cassette, sub-family D (ALD), member 1	2549	0.3215315341949463	0.07996853	No	
+row_11	PFKM	PFKM	PFKM	phosphofructokinase, muscle	2556	0.3205830454826355	0.09522739	No	
+row_12	PEX13	PEX13	PEX13	peroxisome biogenesis factor 13	2669	0.3065652847290039	0.10217813	No	
+row_13	IDH2	IDH2	IDH2	isocitrate dehydrogenase 2 (NADP+), mitochondrial	2819	0.2902793884277344	0.10567125	No	
+row_14	HSD17B4	HSD17B4	HSD17B4	hydroxysteroid (17-beta) dehydrogenase 4	2930	0.2781285047531128	0.11137401	No	
+row_15	PECR	PECR	PECR	peroxisomal trans-2-enoyl-CoA reductase	3207	0.24809636175632477	0.10367048	No	
+row_16	GSTK1	GSTK1	GSTK1	glutathione S-transferase kappa 1	3388	0.23045973479747772	0.102006756	No	
+row_17	PEX19	PEX19	PEX19	peroxisomal biogenesis factor 19	3545	0.21634778380393982	0.1013781	No	
+row_18	ABCA2	ABCA2	ABCA2	ATP-binding cassette, sub-family A (ABC1), member 2	3603	0.2107321321964264	0.10759331	No	
+row_19	PEX6	PEX6	PEX6	peroxisomal biogenesis factor 6	3684	0.20466123521327972	0.111857556	No	
+row_20	SLC35B2	SLC35B2	SLC35B2	solute carrier family 35, member B2	3944	0.17920030653476715	0.102004446	No	
+row_21	SLC22A18	SLC22A18	SLC22A18	solute carrier family 22 (organic cation transporter), member 18	4031	0.1717836856842041	0.104228124	No	
+row_22	EFHC1	EFHC1	EFHC1	EF-hand domain (C-terminal) containing 1	4434	0.14018522202968597	0.0821829	No	
+row_23	PRDX5	PRDX5	PRDX5	peroxiredoxin 5	5253	0.07901255041360855	0.027230714	No	
+row_24	ACSL1	ACSL1	ACSL1	acyl-CoA synthetase long-chain family member 1	5260	0.07841508090496063	0.030637149	No	
+row_25	HSD3B7	HSD3B7	HSD3B7	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 7	5384	0.06841733306646347	0.025141232	No	
+row_26	ALDH1A1	ALDH1A1	ALDH1A1	aldehyde dehydrogenase 1 family, member A1	6490	-0.009550581686198711	-0.053847726	No	
+row_27	GNPAT	GNPAT	GNPAT	glyceronephosphate O-acyltransferase	6593	-0.01647125370800495	-0.060376007	No	
+row_28	OPTN	OPTN	OPTN	optineurin	6691	-0.023193206638097763	-0.06621577	No	
+row_29	SLC23A2	SLC23A2	SLC23A2	solute carrier family 23 (nucleobase transporters), member 2	7103	-0.05182093381881714	-0.09323296	No	
+row_30	LONP2	LONP2	null	null	7105	-0.05187748745083809	-0.09076583	No	
+row_31	NUDT12	NUDT12	NUDT12	nudix (nucleoside diphosphate linked moiety X)-type motif 12	7240	-0.06052769720554352	-0.09743885	No	
+row_32	FADS2	FADS2	FADS2	fatty acid desaturase 2	7436	-0.07384862750768661	-0.10784619	No	
+row_33	CAT	CAT	CAT	catalase	7593	-0.08577006310224533	-0.11486572	No	
+row_34	BMP6	BMP6	BMP6	bone morphogenetic protein 6	7664	-0.08981165289878845	-0.1155035	No	
+row_35	CYP7B1	CYP7B1	CYP7B1	cytochrome P450, family 7, subfamily B, polypeptide 1	7692	-0.09219583868980408	-0.11293262	No	
+row_36	ABCD3	ABCD3	ABCD3	ATP-binding cassette, sub-family D (ALD), member 3	7708	-0.09337370842695236	-0.10944123	No	
+row_37	IDH1	IDH1	IDH1	isocitrate dehydrogenase 1 (NADP+), soluble	7787	-0.09866402298212051	-0.110221	No	
+row_38	SLC27A5	SLC27A5	SLC27A5	solute carrier family 27 (fatty acid transporter), member 5	7965	-0.1087961345911026	-0.11762359	No	
+row_39	RBP1	RBP1	RBP1	retinol binding protein 1, cellular	8061	-0.11542677134275436	-0.11880534	No	
+row_40	MLYCD	MLYCD	MLYCD	malonyl-CoA decarboxylase	8335	-0.13510164618492126	-0.13182347	No	
+row_41	PEX26	PEX26	PEX26	peroxisome biogenesis factor 26	8517	-0.14710229635238647	-0.13763887	No	
+row_42	SCP2	SCP2	SCP2	sterol carrier protein 2	8584	-0.15099871158599854	-0.13499434	No	
+row_43	HSD17B11	HSD17B11	null	null	9436	-0.20930764079093933	-0.1859424	No	
+row_44	FADS1	FADS1	FADS1	fatty acid desaturase 1	9676	-0.22492702305316925	-0.19211937	No	
+row_45	RETSAT	RETSAT	RETSAT	retinol saturase (all-trans-retinol 13,14-reductase)	9734	-0.22972354292869568	-0.18497467	No	
+row_46	AMACR	AMACR	AMACR	alpha-methylacyl-CoA racemase	10069	-0.25508546829223633	-0.1965067	No	
+row_47	SLC29A1	SLC29A1	SLC29A1	solute carrier family 29 (nucleoside transporters), member 1	10290	-0.2707042396068573	-0.19907698	No	
+row_48	ABCA3	ABCA3	ABCA3	ATP-binding cassette, sub-family A (ABC1), member 3	10324	-0.2739149034023285	-0.18804367	No	
+row_49	ALDH9A1	ALDH9A1	ALDH9A1	aldehyde dehydrogenase 9 family, member A1	10418	-0.2813183665275574	-0.18096237	No	
+row_50	PEX1	PEX1	PEX1	peroxisome biogenesis factor 1	10594	-0.2941966950893402	-0.17914708	No	
+row_51	ISOC1	ISOC1	ISOC1	isochorismatase domain containing 1	11159	-0.3387773036956787	-0.20312141	Yes	
+row_52	PNPLA8	PNPLA8	PNPLA8	patatin-like phospholipase domain containing 8	11285	-0.3492581844329834	-0.19501594	Yes	
+row_53	BCAR3	BCAR3	BCAR3	breast cancer anti-estrogen resistance 3	11327	-0.3530168831348419	-0.18068638	Yes	
+row_54	CROT	CROT	CROT	carnitine O-octanoyltransferase	11652	-0.381485253572464	-0.18531296	Yes	
+row_55	ABCA5	ABCA5	ABCA5	ATP-binding cassette, sub-family A (ABC1), member 5	11714	-0.3880382478237152	-0.17070748	Yes	
+row_56	HACL1	HACL1	HACL1	2-hydroxyacyl-CoA lyase 1	11963	-0.4123137593269348	-0.16836034	Yes	
+row_57	PXMP2	PXMP2	PXMP2	peroxisomal membrane protein 2, 22kDa	12145	-0.4298275113105774	-0.1603383	Yes	
+row_58	GCLM	GCLM	GCLM	glutamate-cysteine ligase, modifier subunit	12508	-0.47069475054740906	-0.16333114	Yes	
+row_59	CH25H	CH25H	CH25H	cholesterol 25-hydroxylase	12573	-0.47893470525741577	-0.14449261	Yes	
+row_60	FDXR	FDXR	FDXR	ferredoxin reductase	12676	-0.4941093623638153	-0.12764385	Yes	
+row_61	DHCR24	DHCR24	DHCR24	24-dehydrocholesterol reductase	12840	-0.5158180594444275	-0.11411887	Yes	
+row_62	NPC1	NPC1	NPC1	Niemann-Pick disease, type C1	13086	-0.5644593834877014	-0.10410954	Yes	
+row_63	PEX11A	PEX11A	PEX11A	peroxisomal biogenesis factor 11A	13181	-0.5851501822471619	-0.0822297	Yes	
+row_64	IDI1	IDI1	IDI1	isopentenyl-diphosphate delta isomerase 1	13183	-0.5853074193000793	-0.053654894	Yes	
+row_65	NEDD4	NEDD4	NEDD4	neural precursor cell expressed, developmentally down-regulated 4	13212	-0.5908066034317017	-0.026752403	Yes	
+row_66	PHYH	PHYH	PHYH	phytanoyl-CoA 2-hydroxylase	13314	-0.6103404760360718	-0.004143022	Yes	
+row_67	PEX7	PEX7	PEX7	peroxisomal biogenesis factor 7	13928	-1.0528398752212524	0.0033076273	Yes	
