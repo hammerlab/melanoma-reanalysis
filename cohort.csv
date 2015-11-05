@@ -1,0 +1,65 @@
+Study ID,Age,Gender,Primary Melanoma type,M stage,Priors^,Ipi dosing (mg/kg x #),Response duration (weeks),LDH (normal <246),BRAF/NRASstatus,OS,Biopsy pre or post ipi,Alive,sample,Benefit
+CR04885,49,F,cutaneous,IIIc,0,Tremelimuma b 15x4,85,not available,WT BRAF; WT NRAS,2.1,pre,1,04885,True
+CR06670,79,F,cutaneous,IIIc,0,Tremelimuma b 15x4,168,not available,BRAF V600K,3.7,post,0,06670,True
+CR22640,71,M,cutaneous,M1c,1,3x4,216,not available,WT BRAF; WT NRAS,4.3,pre,1,22640,True
+CR6126,66,F,cutaneous,M1b,1,3x4,101,211,NRAS Q61K,1.9,pre,1,6126,True
+CR6161,81,M,cutaneous,M1b,0,3x4,136,not available,NRAS Q61L,2.6,pre,0,6161,True
+CRNR0244,49,M,unknown,M1c,0,3x4,109,180,BRAF V600E,2.1,post,1,0244,False
+CRNR2472,71,M,cutaneous,M1c,0,randomized 3 vs 10 x4,89,129,WT BRAF; NRAS,1.7,post,1,2472,False
+CRNR4941,40,F,unknown,M1c,0,10x20 then 3x1,376,not available,WT BRAF; NRAS,7.2,post,1,4941,False
+LSD0167,33,M,cutaneous,M1c,0,3x3,140,156,BRAF V600E,2.7,pre,1,0167,True
+LSD2057,36,F,cutaneous,M1c,0,3x4,64,327,BRAF V600E,3.3,pre,1,2057,True
+LSD3484,74,M,cutaneous,M1c,1,3x4,154,664,WT BRAF; NRAS,2.9,pre,1,3484,True
+LSD4691,62,M,cutaneous,M1c,2,3x14,383,not available,WT BRAF; NRAS,7.3,post,1,4691,True
+LSD4744,52,M,cutaneous,M1c,0,3x7,80,250,NRAS Q61K,2.1,pre,1,4744,True
+LSD6819,55,M,acral,M1c,0,3x3,67,178,BRAF V600E,3.4,pre,1,6819,True
+LSDNR1120,68,M,unknown,M1a,0,10x13,242,178,NRAS Q61R,4.6,pre,1,1120,False
+LSDNR1650,71,F,uveal,M1c,0,3x7,73,286,WT BRAF; NRAS,2.7,post,0,1650,False
+LSDNR9298,82,F,cutaneous,M1c,1,3x4,217,232,BRAF L597R,4.2,post,1,9298,False
+NR2137,18,M,cutaneous,M1c,0,3x4,8,293,BRAF V600E,0.8,pre,0,2137,False
+NR4018,55,M,not available,M1C,YES,10X4,11,not available,BRAF V600K,0.3,pre,0,4018,False
+NR4045,42,M,cutaneous,M1c,0,3x4,11,237,BRAF V600E,1.7,post,0,4045,False
+NR4083,54,M,not available,M1C,0,3X4,12,not available,NRAS Q61K,0.2,pre,0,4083,False
+NR4631,59,M,cutaneous,M1c,1,3x4,13,341,WT BRAF; NRAS,0.5,post,0,4631,False
+NR6689,46,F,cutaneous,M1c,2,3X4,11,209,WT BRAF; WT NRAS,1.2,post,0,6689,False
+NR6721,64,M,cutaneous,M1a,2,10x4,3,144,NRAS Q61R,0.8,post,0,6721,False
+NR6842,64,M,cutaneous,M1c,0,3x4 then 3x3,12,176,WT BRAF; WT NRAS,0.8,pre,0,6842,False
+NR8815,67,F,cutaneous,M1b,3,3x4,9,180,BRAF S363F,1.2,post,0,8815,False
+NR9445,50,M,cutaneous,M1c,0,3x3+vem,8,2502,BRAF V600E,0.2,pre,0,9445,False
+NR9449,64,F,cutaneous,M1c,0,3x4,10,202,NRAS Q61R,0.6,post,0,9449,False
+NR9521,74,M,cutaneous,M1b,0,3x4,12,169,NRAS Q61L,2.7,post,0,9521,False
+NR9705,63,F,acral,M1c,0,3x4,29,167,BRAF V600E,1.2,post,0,9705,False
+NR9765,38,F,cutaneous,M1b,1,3x4 then,22,187,BRAF V600E,2.1,pre,0,9765,False
+PR03803,90,M,cutaneous,IIIc,2,Tremelimumab 10x6,236,not available,BRAF A652T,7.9,post,0,03803,False
+PR12117,66,M,cutaneous,M1c,0,Tremelimumab 15x4,73,not available,BRAF V600K,1.6,pre,0,12117,False
+PR4035,78,M,not available,M1c,YES,3X6,218,not available,BRAF G469E,4.2,pre,1,4035,True
+PR4046,44,M,not available,M1a,YES,10X5,110,not available,BRAF V600E,2.1,pre,1,4046,True
+PR4077,75,M,not available,M1c,YES,10X4,316,not available,WT BRAF; WT NRAS,6.1,pre,1,4077,True
+PR4091,65,F,not available,M1a,YES,3X4,314,not available,BRAF V600E,6.0,pre,1,4091,True
+PR4092,57,F,not available,M1a,YES,10X4,315,not available,BRAF V600E,6.1,pre,1,4092,True
+LSDNR3086,43,M,cutaneous,M1c,2,randomized 0.3 - 3 or 10x4; 10x10,135,not available,BRAF V600E,2.6,post,0,3086,False
+CR1509,54,F,cutaneous,M1c,1,10 x14,72,181,BRAF V600E,4.5,post,1,1509,True
+CR9306,65,M,cutaneous,M1c,2,10x25,42,121,BRAF E501K,5.3,pre,1,9306,True
+CR0095,74,M,cutaneous,M1b,2,10x22,65,113,BRAF V600E,5.7,post,1,0095,True
+CR4880,63,M,unknown,M1b,2,10x16,59,92,BRAF G469R,5.4,pre,1,4880,True
+CR7623,62,M,cutaneous,M1c,3,10 x17,47,357,"WT BRAF, NRAS",4.0,post,1,7623,False
+CR3665,70,M,cutaneous,M1b,1,3 x4,48,243,NRAS Q61K,2.7,pre,1,3665,True
+CR9699,70,M,cutaneous,M1c,0,10 x19,52,191,BRAF V600K,4.4,post,1,9699,True
+SD0346,43,F,cutaneous,M1b,0,10 x3 +dacarbazinex 6,68,210,NRAS Q61K,2.9,post,0,0346,True
+SD6336,53,M,cutaneous,M1c,1,10 x34,361,Not available,BRAF V600E,6.9,post,1,6336,True
+SD1494,70,M,cutaneous,M1c,0,3 x4,51,324,BRAF V600E,2.0,pre,1,1494,True
+SD2056,39,F,cutaneous,M1b,1,10 x17,208,195,NRAS Q61K,3.9,pre,1,2056,True
+SD2051,61,F,acral,M1c,1,3 x5 +vemurafenib,16,439,BRAF V600E,0.8,pre,0,2051,False
+SD5038,55,M,cutaneous,M1c,2,10 x9,24,133,NRAS Q61L,1.2,post,0,5038,False
+SD5934,52,M,cutaneous,M1c,1,10 x6,14,179,BRAF V600E,1.6,post,0,5934,False
+SD5118,55,F,acral,M1c,2,"10 x4 ('09), 3 x3 ('12)",24,183,"WT BRAF, NRAS",2.7,post,0,5118,False
+SD6494,63,F,unknown,M1c,2,3 x2,13,322,"WT BRAF, NRAS",0.7,post,0,6494,False
+SD7357,50,F,unknown,M1c,2,3 x4,21,234,BRAF P367L,2.0,post,0,7357,False
+NR3156,68,F,cutaneous,M1b,1,3 x4,11,203,"WT BRAF, NRAS",1.1,pre,0,3156,False
+NR5784,58,F,cutaneous,M1c,0,10 x4,11,266,"WT BRAF, NRAS",0.5,pre,0,5784,False
+NR8727,69,M,cutaneous,M1c,1,3 x4,13,199,"WT BRAF, NRAS",0.4,pre,0,8727,False
+NR4949,79,F,unknown,M1c,1,10 x4,23,160,NRAS Q61R,0.7,post,0,4949,False
+NR1867,68,M,acral,M1c,0,3 x4,23,225,NRAS G12C,1.5,pre,0,1867,False
+NR3549,50,M,cutaneous,M1c,1,10 x3,16,309,NRAS Q61K,0.5,pre,0,3549,False
+NR9341,77,M,cutaneous,M1a,1,3 x4,14,Not available,"WT BRAF, NRAS",1.0,pre,0,9341,False
+NR4810,48,F,cutaneous,M1c,1,3 x4,12,330,BRAF V600E,0.4,post,0,4810,False
