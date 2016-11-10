@@ -31,7 +31,7 @@ NR9521,74,M,cutaneous,M1b,0,3x4,12,169,NRAS Q61L,2.7,post,0,9521,False
 NR9705,63,F,acral,M1c,0,3x4,29,167,BRAF V600E,1.2,post,0,9705,False
 NR9765,38,F,cutaneous,M1b,1,3x4 then,22,187,BRAF V600E,2.1,pre,0,9765,False
 PR03803,90,M,cutaneous,IIIc,2,Tremelimumab 10x6,236,not available,BRAF A652T,7.9,post,0,03803,False
-PR12117,66,M,cutaneous,M1c,0,Tremelimumab 15x4,73,not available,BRAF V600K,1.6,pre,0,12117,False
+PR12117,66,M,cutaneous,M1c,0,Tremelimumab 15x4,73,not available,BRAF V600K,1.6,pre,0,12117,True
 PR4035,78,M,not available,M1c,YES,3X6,218,not available,BRAF G469E,4.2,pre,1,4035,True
 PR4046,44,M,not available,M1a,YES,10X5,110,not available,BRAF V600E,2.1,pre,1,4046,True
 PR4077,75,M,not available,M1c,YES,10X4,316,not available,WT BRAF; WT NRAS,6.1,pre,1,4077,True
