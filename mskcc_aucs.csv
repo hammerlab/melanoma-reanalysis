@@ -11,5 +11,3 @@ Similarity to Individual Epitopes,266,IEDB,Non-Viral Pathogens,"0.54, 95% CI [0.
 Similarity to Pathogens,420,IEDB,None,"0.64, 95% CI [0.33, 0.90]","-0.21, 95% CI [-0.56, 0.12]"
 Similarity to Pathogens,371,IEDB,Viruses,"0.63, 95% CI [0.31, 0.92]","-0.22, 95% CI [-0.57, 0.11]"
 Similarity to Pathogens,49,IEDB,Non-Viral Pathogens,"0.65, 95% CI [0.35, 0.89]","-0.20, 95% CI [-0.55, 0.09]"
-Average Similarity to Individual Epitopes,1,Tumor-to-Tumor,None,"0.82, 95% CI [0.62, 0.97]","-0.03, 95% CI [-0.25, 0.18]"
-Similarity to Individual Epitopes,76452,Tumor-to-Tumor,None,"0.56, 95% CI [0.20, 0.88]","-0.29, 95% CI [-0.68, 0.05]"
