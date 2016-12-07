@@ -15,4 +15,4 @@ This is the repository for [hammerlab.org/melanoma-reanalysis](http://www.hammer
 - [Online Data File 9. Pathogen Homology AUCs via Topeology (DFCI)](https://github.com/hammerlab/melanoma-reanalysis/blob/master/files/dfci_aucs.csv)
 - [Online Data File 10. Tetrapeptide Signature AUCs](https://github.com/hammerlab/melanoma-reanalysis/blob/master/files/mskcc_tetrapeptide_aucs.csv)
 - [Online Data File 11. GSEA results (zipped)](https://storage.googleapis.com/melanoma-reanalysis/gsea_results.tar.gz)
-- [Website 1. GSEA results](http://www.hammerlab.org/melanoma-reanalysis/gsea-results)
+- [Website 1. GSEA results](http://www.hammerlab.org/melanoma-reanalysis/gsea-results/)
