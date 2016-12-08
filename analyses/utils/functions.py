@@ -35,5 +35,12 @@ def expressed_neoantigen_count(row, cohort, filter_fn, normalized_per_mb, **kwar
 def homologous_epitope_count(row, cohort, filter_fn, normalized_per_mb, **kwargs):
     patient_id = row["patient_id"]
     patient = cohort.patient_from_id(patient_id)
-    df_epitopes = cohort.load_single_patient_epitope_homology(patient, **kwargs)
+    try:
+        df_epitopes = cohort.load_single_patient_epitope_homology(patient, **kwargs)
+    except AssertionError as e:
+        import pandas as pd
+        # TODO REMOVE
+        print(e)
+        df_epitopes = pd.DataFrame({"patient_id": [patient_id]})
+
     return {patient_id: df_epitopes}

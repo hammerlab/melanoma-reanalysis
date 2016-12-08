@@ -1,4 +1,5 @@
 import pandas as pd
+from types import MethodType
 from os import path, getcwd, environ
 import numpy as np
 from collections import defaultdict
@@ -141,8 +142,21 @@ class MelanomaData(object):
         if not self.four_callers:
             def not_supported(self, **kwargs):
                 raise NotImplementedError("This function is not implemented for the NEJM mutations")
-            cohort.load_effects = not_supported
-            cohort.load_neoantigens = not_supported
+
+            def load_neoantigens_nejm(cohort):
+                assert not self.four_callers
+                # Pull peptides out of the mutation DataFrame
+                df = self.load_nejm_mutations()[[
+                    "patient_id", "Mut peptide"]].dropna().drop_duplicates().reset_index(drop=True)
+                df.columns = ["patient_id", "peptide"]
+                df.peptide = df.peptide.apply(lambda s: s.upper())
+                df_dict = {}
+                for patient in cohort:
+                    df_dict[patient.id] = df[df.patient_id == patient.id]
+                return df_dict
+
+            cohort.load_effects = MethodType(not_supported, cohort)
+            cohort.load_neoantigens = MethodType(load_neoantigens_nejm, cohort)
 
         # Make new, non-default caches for non-isovar expression and homology
         cohort.cache_names["expression"] = "cached-expression"
@@ -454,8 +468,11 @@ def load_iedb_binders(cohort):
 
     dfs = []
     for allele in all_alleles:
-        df_iedb_binders = cohort.load_single_allele_iedb_binders(allele, df_iedb=df_iedb)
-        dfs.append(df_iedb_binders)
+        try:
+            df_iedb_binders = cohort.load_single_allele_iedb_binders(allele, df_iedb=df_iedb)
+            dfs.append(df_iedb_binders)
+        except Exception:
+            print("No data for allele %s" % allele)
     return pd.concat(dfs)
 
 def load_single_allele_iedb_binders(cohort, allele, df_iedb=None):
@@ -476,7 +493,7 @@ def load_single_allele_iedb_binders(cohort, allele, df_iedb=None):
     mhc_model = cohort.mhc_class(
         alleles=[allele],
         epitope_lengths=cohort.epitope_lengths,
-        max_file_records=None,
+        max_file_records=100,
         process_limit=30)
     df_iedb_binders = mhc_model.predict(protein_sequences).to_dataframe()
 
