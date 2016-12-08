@@ -1,0 +1,26 @@
+Study ID,Age,Gender,"Primary Melanoma type",M stage,Priors^,Ipi dosing (mg/kg x #),"Response duration (weeks)","LDH (normal <246)","BRAF/NRASstatus",OS (yr),Biopsy pre or post ipi, Alive
+CR1509,54,F,cutaneous,M1c,1,10 x14,72,181,BRAF V600E,4.5,post,1
+CR9306,65,M,cutaneous,M1c,2,10x25,42,121,BRAF E501K,5.3,pre,1
+CR0095,74,M,cutaneous,M1b,2,10x22,65,113,BRAF V600E,5.7,post,1
+CR4880,63,M,unknown,M1b,2,10x16,59,92,BRAF G469R,5.4,pre,1
+CR7623,62,M,cutaneous,M1c,3,10 x17,47,357,"WT BRAF, NRAS",4,post,1
+CR3665,70,M,cutaneous,M1b,1,3 x4,48,243,NRAS Q61K,2.7,pre,1
+CR9699,70,M,cutaneous,M1c,0,10 x19,52,191,BRAF V600K,4.4,post,1
+SD0346,43,F,cutaneous,M1b,0,"10 x3 +dacarbazinex 6",68,210,NRAS Q61K,2.9,post,0
+SD6336,53,M,cutaneous,M1c,1,10 x34,361,Not available,BRAF V600E,6.9,post,1
+SD1494,70,M,cutaneous,M1c,0,3 x4,51,324,BRAF V600E,2,pre,1
+SD2056,39,F,cutaneous,M1b,1,10 x17,208,195,NRAS Q61K,3.9,pre,1
+SD2051,61,F,acral,M1c,1,"3 x5 +vemurafenib",16,439,BRAF V600E,0.8,pre,0
+SD5038,55,M,cutaneous,M1c,2,10 x9,24,133,NRAS Q61L,1.2,post,0
+SD5934,52,M,cutaneous,M1c,1,10 x6,14,179,BRAF V600E,1.6,post,0
+SD5118,55,F,acral,M1c,2,"10 x4 ('09), 3 x3 ('12)",24,183,"WT BRAF, NRAS",2.7,post,0
+SD6494,63,F,unknown,M1c,2,3 x2,13,322,"WT BRAF, NRAS",0.7,post,0
+SD7357,50,F,unknown,M1c,2,3 x4,21,234,BRAF P367L,2,post,0
+NR3156,68,F,cutaneous,M1b,1,3 x4,11,203,"WT BRAF, NRAS",1.1,pre,0
+NR5784,58,F,cutaneous,M1c,0,10 x4,11,266,"WT BRAF, NRAS",0.5,pre,0
+NR8727,69,M,cutaneous,M1c,1,3 x4,13,199,"WT BRAF, NRAS",0.4,pre,0
+NR4949,79,F,unknown,M1c,1,10 x4,23,160,NRAS Q61R,0.7,post,0
+NR1867,68,M,acral,M1c,0,3 x4,23,225,NRAS G12C,1.5,pre,0
+NR3549,50,M,cutaneous,M1c,1,10 x3,16,309,NRAS Q61K,0.5,pre,0
+NR9341,77,M,cutaneous,M1a,1,3 x4,14,Not available,"WT BRAF, NRAS",1,pre,0
+NR4810,48,F,cutaneous,M1c,1,3 x4,12,330,BRAF V600E,0.4,post,0
