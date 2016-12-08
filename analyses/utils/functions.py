@@ -35,6 +35,5 @@ def expressed_neoantigen_count(row, cohort, filter_fn, normalized_per_mb, **kwar
 def homologous_epitope_count(row, cohort, filter_fn, normalized_per_mb, **kwargs):
     patient_id = row["patient_id"]
     patient = cohort.patient_from_id(patient_id)
-    df_epitopes = cohort.load_single_patient_epitope_homology(patient)
+    df_epitopes = cohort.load_single_patient_epitope_homology(patient, **kwargs)
     return {patient_id: df_epitopes}
-

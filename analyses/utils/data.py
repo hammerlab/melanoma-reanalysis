@@ -7,6 +7,7 @@ from varcode import Variant, VariantCollection
 from varlens.read_evidence import PileupCollection
 from cohorts import Sample, Patient, Cohort, DataFrameLoader
 from topeology import compare, DataFilter, iedb_data
+from topeology.iedb_data import get_iedb_epitopes
 from mhctools.alleles import compact_allele_name
 
 def get_dir(env_var):
@@ -41,16 +42,14 @@ class MelanomaData(object):
                  four_callers=True,
                  biopsy_time=None,
                  non_discordant=False,
-                 join_with=[],
-                 join_how="inner",
+                 epitope_lengths=[8, 9, 10, 11],
                  repo_data_dir=REPO_DATA_DIR,
                  cache_data_dir=CACHE_DATA_DIR,
                  rna_bam_path=BAM_DATA_DIR):
         self.four_callers = four_callers
         self.biopsy_time = biopsy_time
         self.non_discordant = non_discordant
-        self.join_with = join_with
-        self.join_how = join_how
+        self.epitope_lengths = epitope_lengths
         self.repo_data_dir = repo_data_dir
         self.rna_bam_path = rna_bam_path
 
@@ -132,9 +131,12 @@ class MelanomaData(object):
         # Add-in code specific to this analysis
         Cohort.load_single_patient_expressed = load_single_patient_expressed
         Cohort.load_single_patient_epitope_homology = load_single_patient_epitope_homology
+        Cohort.load_single_allele_iedb_binders = load_single_allele_iedb_binders
+        Cohort.load_iedb_binders = load_iedb_binders
 
         cohort = Cohort(patients,
                         cache_dir=self.cache_data_dir)
+        cohort.epitope_lengths = self.epitope_lengths
 
         if not self.four_callers:
             def not_supported(self, **kwargs):
@@ -145,6 +147,7 @@ class MelanomaData(object):
         # Make new, non-default caches for non-isovar expression and homology
         cohort.cache_names["expression"] = "cached-expression"
         cohort.cache_names["homology"] = "cached-epitope-homology"
+        cohort.cache_names["iedb-binders"] = "cached-iedb-binders"
         return cohort
 
     def load_patient_ids(self):
@@ -357,6 +360,10 @@ def load_single_patient_epitope_homology(cohort, patient, include_wildtype=False
     effect_collection = effects[patient.id]
     df_neoantigens = neoantigens[patient.id]
 
+    # Only look at substitutions; because that's the goal, and also because the
+    # wildtype logic doesn't apply to e.g. StopLoss
+    df_neoantigens = df_neoantigens[df_neoantigens.effect_type == "Substitution"]
+
     def wildtype_peptide(row, genome=cohort.genome, effects=effect_collection):
         variant = Variant(
             contig=row["chr"],
@@ -378,8 +385,13 @@ def load_single_patient_epitope_homology(cohort, patient, include_wildtype=False
         assert slice_mutant == peptide, (
             "Mutant protein sequence slice should equal peptide, but mutant slice = %s and peptide = %s" % (
                 slice_mutant, peptide))
-        return effect.original_protein_sequence[
+        peptide_wt = effect.original_protein_sequence[
             peptide_start_in_protein:peptide_start_in_protein + length]
+        assert len(peptide_wt) == len(peptide), (
+            "Wildtype sequence must be the same length as mutant sequence, but "
+            "mutant length = %d and wildtype length = %d" % (
+                len(peptide), len(peptide_wt)))
+        return peptide_wt
 
     def normalize_score(row):
         # Trimmed length
@@ -391,7 +403,7 @@ def load_single_patient_epitope_homology(cohort, patient, include_wildtype=False
 
     selected_neoantigen_cols = ["patient_id", "peptide"]
     epitope_column_names = ["sample", "epitope"]
-    compare_kwargs = {"epitope_lengths": [8, 9, 10, 11],
+    compare_kwargs = {"epitope_lengths": cohort.epitope_lengths,
                       "include_hla": True,
                       "data_filters": [DataFilter(on="tuberculosis")],
                       "iedb_path": path.join(REPO_DATA_DIR, "iedb_tcell_data_6_10_15.csv")}
@@ -418,11 +430,56 @@ def load_single_patient_epitope_homology(cohort, patient, include_wildtype=False
     df_homology["score_normalized"] = df_homology.apply(normalize_score, axis=1)
 
     # Add "allele" back in
-    df_homology = df_homology.merge(df_neoantigens[["patient_id", "peptide", "allele"]],
-                      left_on=["sample", "epitope"],
-                      right_on=["patient_id", "peptide"])
+    df_homology = df_homology.merge(
+        df_neoantigens[["patient_id", "peptide", "allele"]],
+        left_on=["sample", "epitope"],
+        right_on=["patient_id", "peptide"])
     df_homology.rename(columns={"allele": "peptide_hla_allele"}, inplace=True)
     df_homology.peptide_hla_allele = df_homology.peptide_hla_allele.apply(compact_allele_name)
 
     cohort.save_to_cache(df_homology, cohort.cache_names["homology"], patient.id, cached_file_name)
     return df_homology
+
+def load_iedb_binders(cohort):
+    all_alleles = []
+    for patient in cohort:
+        all_alleles.extend(patient.hla_alleles)
+    all_alleles = list(set(all_alleles))
+    print("All alleles: %s (%d)" % (all_alleles, len(all_alleles)))
+
+    df_iedb = get_iedb_epitopes(
+        epitope_lengths=cohort.epitope_lengths,
+        data_filters=[DataFilter(on="tuberculosis")],
+        iedb_path=path.join(REPO_DATA_DIR, "iedb_tcell_data_6_10_15.csv"))
+
+    dfs = []
+    for allele in all_alleles:
+        df_iedb_binders = cohort.load_single_allele_iedb_binders(allele, df_iedb=df_iedb)
+        dfs.append(df_iedb_binders)
+    return pd.concat(dfs)
+
+def load_single_allele_iedb_binders(cohort, allele, df_iedb=None):
+    # This is a hack; using alleles as directories rather than patients
+    cached_file_name = "%s-%s-iedb-binders.csv" % (cohort.variant_type, cohort.merge_type)
+    df_iedb_binders = cohort.load_from_cache(cohort.cache_names["iedb-binders"], allele, cached_file_name)
+    if df_iedb_binders is not None:
+        return df_iedb_binders
+
+    if df_iedb is None:
+        df_iedb = get_iedb_epitopes(
+            epitope_lengths=cohort.epitope_lengths,
+            data_filters=[DataFilter(on="tuberculosis")],
+            iedb_path=path.join(REPO_DATA_DIR, "iedb_tcell_data_6_10_15.csv"))
+
+    protein_sequences = dict(zip(list(df_iedb.iedb_epitope), list(df_iedb.iedb_epitope)))
+    print("Predicting binding for %d IEDB sequences" % len(protein_sequences))
+    mhc_model = cohort.mhc_class(
+        alleles=[allele],
+        epitope_lengths=cohort.epitope_lengths,
+        max_file_records=None,
+        process_limit=30)
+    df_iedb_binders = mhc_model.predict(protein_sequences).to_dataframe()
+
+    # This is a hack; using alleles as directories rather than patients
+    cohort.save_to_cache(df_iedb_binders, cohort.cache_names["iedb-binders"], allele, cached_file_name)
+    return df_iedb_binders
