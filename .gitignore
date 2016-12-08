@@ -1,0 +1,10 @@
+env
+venv
+*.pyc
+.ipynb_checkpoints
+cache
+data/iedb_tcell_data_6_10_15.csv
+data/cache
+data/cache_nejm
+ENV.sh
+.idea*
