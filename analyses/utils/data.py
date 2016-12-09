@@ -330,6 +330,18 @@ class MelanomaData(object):
             "All IDs must be actual patient IDs")
         return data
 
+def iedb_data_filters():
+    """
+    Filter certain IEDB columns. Note the filter columns and the filter; small changes like
+    Organism vs. Molecule or allerg vs. allergen can get confusing.
+    """
+    data_filters = []
+    # Remove allergens
+    data_filters.append(DataFilter(on="allergen", filter_col="Epitope Source Molecule Name"))
+    # Remove MTB
+    data_filters.append(DataFilter(on="tuberculosis", filter_col="Epitope Source Organism Name"))
+    return data_filters
+
 def load_single_patient_expressed(cohort, patient):
     expression_cached_file_name = "%s-%s-expression.csv" % (cohort.variant_type, cohort.merge_type)
     df_expression = cohort.load_from_cache(cohort.cache_names["expression"], patient.id, expression_cached_file_name)
@@ -419,7 +431,7 @@ def load_single_patient_epitope_homology(cohort, patient, include_wildtype=False
     epitope_column_names = ["sample", "epitope"]
     compare_kwargs = {"epitope_lengths": cohort.epitope_lengths,
                       "include_hla": True,
-                      "data_filters": [DataFilter(on="tuberculosis")],
+                      "data_filters": iedb_data_filters(),
                       "iedb_path": path.join(REPO_DATA_DIR, "iedb_tcell_data_6_10_15.csv")}
 
     if include_wildtype:
@@ -463,7 +475,7 @@ def load_iedb_binders(cohort):
 
     df_iedb = get_iedb_epitopes(
         epitope_lengths=cohort.epitope_lengths,
-        data_filters=[DataFilter(on="tuberculosis")],
+        data_filters=iedb_data_filters(),
         iedb_path=path.join(REPO_DATA_DIR, "iedb_tcell_data_6_10_15.csv"))
 
     dfs = []
@@ -485,7 +497,7 @@ def load_single_allele_iedb_binders(cohort, allele, df_iedb=None):
     if df_iedb is None:
         df_iedb = get_iedb_epitopes(
             epitope_lengths=cohort.epitope_lengths,
-            data_filters=[DataFilter(on="tuberculosis")],
+            data_filters=iedb_data_filters(),
             iedb_path=path.join(REPO_DATA_DIR, "iedb_tcell_data_6_10_15.csv"))
 
     protein_sequences = dict(zip(list(df_iedb.iedb_epitope), list(df_iedb.iedb_epitope)))
