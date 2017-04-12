@@ -1,3 +1,19 @@
+# Copyright (c) 2016. Mount Sinai School of Medicine
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+from __future__ import print_function
+
 import pandas as pd
 from types import MethodType
 from os import path, getcwd, environ
@@ -10,6 +26,8 @@ from cohorts import Sample, Patient, Cohort, DataFrameLoader
 from topeology import compare, DataFilter, iedb_data
 from topeology.iedb_data import get_iedb_epitopes
 from mhctools.alleles import compact_allele_name
+
+from .tetrapeptides import load_tetrapeptides, get_signature_tetrapeptides
 
 def get_dir(env_var):
     dir = environ.get(env_var, None)
@@ -44,6 +62,8 @@ class MelanomaData(object):
                  biopsy_time=None,
                  non_discordant=False,
                  epitope_lengths=[8, 9, 10, 11],
+                 process_limit=30,
+                 max_file_records=100,
                  repo_data_dir=REPO_DATA_DIR,
                  cache_data_dir=CACHE_DATA_DIR,
                  rna_bam_path=BAM_DATA_DIR):
@@ -51,6 +71,8 @@ class MelanomaData(object):
         self.biopsy_time = biopsy_time
         self.non_discordant = non_discordant
         self.epitope_lengths = epitope_lengths
+        self.process_limit = process_limit
+        self.max_file_records = max_file_records
         self.repo_data_dir = repo_data_dir
         self.rna_bam_path = rna_bam_path
 
@@ -124,7 +146,7 @@ class MelanomaData(object):
                               progressed=row["Alive"] != 1,
                               benefit=patient_id in benefit_ids,
                               hla_alleles=hla_map[patient_id],
-                              snv_variant_collection=patient_id_to_variants[patient_id],
+                              variants=patient_id_to_variants[patient_id],
                               tumor_sample=tumor_sample,
                               additional_data=row)
             patients.append(patient)
@@ -158,10 +180,27 @@ class MelanomaData(object):
             cohort.load_effects = MethodType(not_supported, cohort)
             cohort.load_neoantigens = MethodType(load_neoantigens_nejm, cohort)
 
+        cohort.load_tetrapeptides = MethodType(load_tetrapeptides, cohort)
+
+        def load_signature_tetrapeptides(cohort):
+            df_tetrapeptides = cohort.load_tetrapeptides()
+            return get_signature_tetrapeptides(cohort, df_tetrapeptides)
+        cohort.load_signature_tetrapeptides = MethodType(load_signature_tetrapeptides, cohort)
+
         # Make new, non-default caches for non-isovar expression and homology
         cohort.cache_names["expression"] = "cached-expression"
         cohort.cache_names["homology"] = "cached-epitope-homology"
         cohort.cache_names["iedb-binders"] = "cached-iedb-binders"
+
+        # Use these for speeding up MHC binding prediction
+        cohort.process_limit = self.process_limit
+        cohort.max_file_records = self.max_file_records
+
+        # Convenience access
+        def cohort_iedb_data_filters(cohort):
+            return iedb_data_filters()
+        cohort.repo_data_dir = REPO_DATA_DIR
+        cohort.iedb_data_filters = MethodType(cohort_iedb_data_filters, cohort)
         return cohort
 
     def load_patient_ids(self):
@@ -505,8 +544,8 @@ def load_single_allele_iedb_binders(cohort, allele, df_iedb=None):
     mhc_model = cohort.mhc_class(
         alleles=[allele],
         epitope_lengths=cohort.epitope_lengths,
-        max_file_records=100,
-        process_limit=30)
+        max_file_records=cohort.max_file_records,
+        process_limit=cohort.process_limit)
     df_iedb_binders = mhc_model.predict(protein_sequences).to_dataframe()
 
     # This is a hack; using alleles as directories rather than patients
