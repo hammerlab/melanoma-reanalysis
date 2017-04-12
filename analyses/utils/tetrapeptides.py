@@ -1,10 +1,24 @@
+# Copyright (c) 2016. Mount Sinai School of Medicine
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+from __future__ import print_function
+
 import numpy as np
 import pandas as pd
 from os import path
 from collections import defaultdict
 from topeology.iedb_data import get_iedb_epitopes
-
-from .data import REPO_DATA_DIR, iedb_data_filters
 
 def get_tetrapeptides_peptides(cursor):
     from checkpoint_utils import patient_data
@@ -14,7 +28,7 @@ def get_tetrapeptides_peptides(cursor):
     mutations['sample'] = mutations['SampleId'].apply(normalize_sample)
     return mutations
 
-def get_tetrapeptides(cohort):
+def load_tetrapeptides(cohort):
     neoantigens = cohort.load_neoantigens()
 
     # Combine neoantigens from all patients
@@ -29,8 +43,8 @@ def get_tetrapeptides(cohort):
     df_iedb = get_iedb_epitopes(
         # Note: for the tetrapeptide signature comparison, we use all IEDB epitope lengths
         epitope_lengths=None,
-        data_filters=iedb_data_filters(),
-        iedb_path=path.join(REPO_DATA_DIR, "iedb_tcell_data_6_10_15.csv"))
+        data_filters=cohort.iedb_data_filters(),
+        iedb_path=path.join(cohort.repo_data_dir, "iedb_tcell_data_6_10_15.csv"))
     indexed_epitopes = defaultdict(list)
     for _, row in df_iedb.iterrows():
         seq = row["iedb_epitope"]
@@ -42,7 +56,7 @@ def get_tetrapeptides(cohort):
     df_kmers["in_iedb"] = df_kmers["kmer"].isin(indexed_epitopes.keys())
     df_kmers = df_kmers.merge(cohort.as_dataframe(), on="patient_id", how="right")
     # There can be duplicates due to repeated tetrapeptides in one 9mer, repeated in one sample, etc.
-    df_kmers = df_kmers[["patient_id", "peptide", "in_iedb", "kmer"]].dropna().reset_index(drop=True)
+    df_kmers = df_kmers[["patient_id", "peptide", "in_iedb", "kmer"]].dropna().drop_duplicates().reset_index(drop=True)
     return df_kmers
 
 def join_with_kmers(df, kmer_size, peptide_column, result_column="kmer"):
